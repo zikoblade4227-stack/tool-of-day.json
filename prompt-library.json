@@ -37,7 +37,6 @@
       "266"
     ]
   },
-  [
   {
     "id": "prompt-002",
     "title": "Fanta Orange Splash Bottle",
@@ -75,6 +74,43 @@
       "1",
       "266"
     ]
+  },
+  {
+    "id": "prompt-003",
+    "title": "Minimal Fashion Portrait",
+    "title_ar": "بورتريه أزياء بسيط",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778107142/3_qwilms.jpg",
+    "description": "A clean and modern fashion portrait of a young man standing in a minimalist studio, wearing an oversized cream T-shirt, blue jeans, and white sneakers, with a relaxed pose and a calm contemporary vibe.",
+    "description_ar": "بورتريه أزياء نظيف وعصري لشاب يقف داخل استوديو بسيط، مرتديًا تيشيرت أوفرسايز بلون كريمي وجينز أزرق وحذاء رياضي أبيض، مع وقفة هادئة وطابع معاصر مريح.",
+    "prompt": "A highly detailed minimalist fashion portrait of a young man standing confidently in a spacious studio with a plain textured light-gray wall and polished concrete floor. He is wearing an oversized cream T-shirt with a small chest graphic, relaxed blue jeans, and clean white sneakers. His pose is casual and self-assured, with both hands in his pockets and a calm facial expression. The composition leaves wide negative space on one side, creating a clean editorial balance. The lighting is soft and natural, with subtle shadows that enhance the outfit and add depth while maintaining a simple, refined, contemporary aesthetic.",
+    "prompt_ar": "بورتريه أزياء بسيط عالي التفاصيل لشاب يقف بثقة داخل استوديو واسع بخلفية جدار رمادي فاتح ذي ملمس خفيف وأرضية خرسانية ناعمة. يرتدي تيشيرت أوفرسايز بلون كريمي مع رسم صغير على الصدر، وجينز أزرق بقصة مريحة، وحذاء رياضي أبيض نظيف. وضعية الوقوف عفوية وواثقة مع وضع اليدين داخل الجيوب وتعبير هادئ على الوجه. يترك التكوين مساحة فارغة واسعة على أحد الجوانب ليعطي توازنًا بصريًا أنيقًا شبيهًا بالتصوير التحريري. الإضاءة ناعمة وطبيعية مع ظلال خفيفة تبرز الملابس وتضيف عمقًا، مع الحفاظ على طابع بسيط وراقٍ ومعاصر.",
+    "category": "Fashion",
+    "category_ar": "أزياء",
+    "style": "Minimalist Portrait",
+    "style_ar": "بورتريه بسيط",
+    "tags": [
+      "fashion",
+      "portrait",
+      "man",
+      "minimal",
+      "studio",
+      "oversized t-shirt",
+      "jeans",
+      "modern"
+    ],
+    "tags_ar": [
+      "أزياء",
+      "بورتريه",
+      "رجل",
+      "بسيط",
+      "استوديو",
+      "تيشيرت أوفرسايز",
+      "جينز",
+      "عصري"
+    ],
+    "suggestedTools": [
+      "1",
+      "266"
+    ]
   }
-]
 ]
