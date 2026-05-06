@@ -36,5 +36,45 @@
       "1",
       "266"
     ]
+  },
+  [
+  {
+    "id": "prompt-002",
+    "title": "Fanta Orange Splash Bottle",
+    "title_ar": "زجاجة فانتا برتقال وسط رذاذ العصير",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778106352/2_rfzuoj.jpg",
+    "description": "A vibrant commercial-style product image of a chilled Fanta Orange bottle surrounded by energetic orange juice splashes and citrus slices, set against a glowing orange background for a fresh and refreshing look.",
+    "description_ar": "صورة دعائية نابضة بالحيوية لزجاجة فانتا برتقال باردة محاطة برذاذ عصير البرتقال وشرائح الحمضيات، على خلفية برتقالية متوهجة تمنح المشهد إحساسًا منعشًا وحيويًا.",
+    "prompt": "A highly detailed commercial product shot of a chilled Fanta Orange bottle placed at the center of the composition, surrounded by dynamic splashes of orange soda and floating orange slices. The bottle is covered with realistic condensation droplets to emphasize freshness, while the liquid splash explodes outward in an energetic and visually striking way. The background is a rich glowing orange gradient with soft bokeh highlights, enhancing the refreshing citrus atmosphere. The lighting is bright and polished, with glossy reflections and sharp focus on the bottle, creating a premium advertising look that feels bold, refreshing, and full of motion.",
+    "prompt_ar": "لقطة دعائية تجارية عالية التفاصيل لزجاجة فانتا برتقال باردة موضوعة في منتصف التكوين، ومحاطة برذاذ ديناميكي من المشروب وشرائح البرتقال المتطايرة. الزجاجة مغطاة بقطرات تكثف واقعية لإبراز الإحساس بالانتعاش، بينما ينفجر السائل حولها بطريقة حيوية ولافتة بصريًا. تأتي الخلفية بتدرج برتقالي متوهج مع تأثيرات بوكيه ناعمة لتعزيز أجواء الحمضيات المنعشة. الإضاءة قوية واحترافية مع انعكاسات لامعة وتركيز حاد على الزجاجة، مما يمنح الصورة طابعًا إعلانيًا فاخرًا وجريئًا ومليئًا بالحركة.",
+    "category": "Advertising",
+    "category_ar": "إعلان",
+    "style": "Commercial Product Shot",
+    "style_ar": "تصوير منتجات تجاري",
+    "tags": [
+      "fanta",
+      "orange",
+      "bottle",
+      "splash",
+      "drink",
+      "citrus",
+      "refreshing",
+      "advertising"
+    ],
+    "tags_ar": [
+      "فانتا",
+      "برتقال",
+      "زجاجة",
+      "رذاذ",
+      "مشروب",
+      "حمضيات",
+      "منعش",
+      "إعلان"
+    ],
+    "suggestedTools": [
+      "1",
+      "266"
+    ]
   }
+]
 ]
