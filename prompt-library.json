@@ -112,5 +112,81 @@
       "1",
       "266"
     ]
+  },
+  {
+    "id": "prompt-004",
+    "title": "Urban Business Fashion Walk",
+    "title_ar": "إطلالة أعمال عصرية أثناء المشي",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/4_rnxsed.jpg",
+    "description": "A stylish outdoor fashion portrait of a confident young man walking in front of a modern glass building, wearing a navy shirt, light gray trousers, loafers, and sunglasses in a polished urban setting.",
+    "description_ar": "بورتريه أزياء خارجي أنيق لشاب واثق يسير أمام مبنى زجاجي حديث، مرتديًا قميصًا كحليًا وبنطالًا رماديًا فاتحًا وحذاءً أنيقًا ونظارة شمسية، في أجواء حضرية راقية.",
+    "prompt": "A highly detailed urban fashion portrait of a confident young man walking along a modern city sidewalk in front of a sleek glass-and-steel office building. He is dressed in a fitted dark navy button-up shirt, light gray tailored trousers, black loafers, and stylish sunglasses, creating a clean smart-casual look. His pose is natural and self-assured, captured mid-step with one hand adjusting his sleeve. The scene includes reflective glass panels, strong architectural lines, and soft daylight that creates a polished editorial feel. The composition emphasizes elegance, confidence, and contemporary city style, with a realistic photographic finish and crisp detail throughout.",
+    "prompt_ar": "بورتريه أزياء حضري عالي التفاصيل لشاب واثق يسير على رصيف مدينة حديث أمام مبنى مكاتب أنيق من الزجاج والفولاذ. يرتدي قميصًا كحليًا داكنًا بقصة مناسبة، وبنطالًا رماديًا فاتحًا مفصلًا، وحذاء لوفر أسود، ونظارة شمسية عصرية، ليمنح إطلالة سمارت كاجوال أنيقة. تبدو وضعيته طبيعية وواثقة أثناء المشي، مع حركة بسيطة لليد وكأنه يعدل كم القميص. يتضمن المشهد واجهات زجاجية عاكسة وخطوطًا معمارية قوية وإضاءة نهارية ناعمة تمنح الصورة طابعًا تحريريًا احترافيًا. يركز التكوين على الأناقة والثقة والأسلوب المدني المعاصر، مع لمسة فوتوغرافية واقعية وتفاصيل حادة في جميع العناصر.",
+    "category": "Fashion",
+    "category_ar": "أزياء",
+    "style": "Urban Editorial Photography",
+    "style_ar": "تصوير تحريري حضري",
+    "tags": [
+      "fashion",
+      "man",
+      "urban",
+      "business casual",
+      "walking",
+      "editorial",
+      "modern building",
+      "street style"
+    ],
+    "tags_ar": [
+      "أزياء",
+      "رجل",
+      "حضري",
+      "سمارت كاجوال",
+      "مشي",
+      "تحريري",
+      "مبنى حديث",
+      "ستايل شوارع"
+    ],
+    "suggestedTools": [
+      "1",
+      "266"
+    ]
+  },
+  {
+    "id": "prompt-005",
+    "title": "Edgy Mechanic Girl Illustration",
+    "title_ar": "رسم لفتاة ميكانيكية بطابع جريء",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/5_ooblsd.jpg",
+    "description": "A stylized grunge illustration of a tattooed young woman sitting on a graffiti-covered vintage sports car with the hood open, accompanied by a sleeping orange cat and scattered tools in an urban alley.",
+    "description_ar": "رسم ستايلايزد بطابع جرانج لفتاة شابة موشومة تجلس فوق سيارة رياضية كلاسيكية مغطاة بالجرافيتي مع غطاء المحرك مفتوح، وبجانبها قطة برتقالية نائمة وأدوات متناثرة في زقاق حضري.",
+    "prompt": "A highly detailed stylized illustration of an edgy young mechanic girl sitting casually on the front fender of a vintage red sports car covered in graffiti, with the hood open to reveal a powerful exposed engine. She has short dark messy hair, sunglasses resting on her head, visible tattoos on her arms and neck, and wears a plaid shirt over a beige top, rolled-up jeans, and worn high-top sneakers. A sleeping orange cat rests on the ground beside a wrench, adding personality to the scene. The background is an urban grunge wall filled with colorful paint textures and street-art markings. The overall style is expressive, painterly, and slightly cartoonish, with strong character design, rich texture, and a rebellious street-garage atmosphere.",
+    "prompt_ar": "رسم توضيحي عالي التفاصيل بأسلوب ستايلايزد لفتاة ميكانيكية جريئة تجلس بعفوية على الرفرف الأمامي لسيارة رياضية كلاسيكية حمراء مغطاة برسومات الجرافيتي، بينما غطاء المحرك مفتوح ليكشف عن محرك قوي بارز. تمتلك شعرًا قصيرًا داكنًا ومبعثرًا، ونظارة شمسية موضوعة فوق رأسها، ووشومًا ظاهرة على الذراعين والرقبة، وترتدي قميصًا كاروهات فوق بلوزة بيج، وجينزًا مطويًا، وحذاءً رياضيًا مرتفعًا يبدو مستهلكًا قليلًا. تستلقي قطة برتقالية نائمة على الأرض بجانب مفتاح ربط، ما يضيف شخصية للمشهد. تأتي الخلفية بجدار حضري بطابع جرانج مليء بملامس الألوان وعلامات فن الشارع. الأسلوب العام تعبيري ومصور بطريقة فنية مع لمسة كرتونية خفيفة، مع تصميم شخصية قوي وخامات غنية وأجواء متمردة تجمع بين الشارع والورشة.",
+    "category": "Illustration",
+    "category_ar": "رسم توضيحي",
+    "style": "Stylized Grunge Illustration",
+    "style_ar": "رسم ستايلايزد بطابع جرانج",
+    "tags": [
+      "girl",
+      "mechanic",
+      "car",
+      "graffiti",
+      "tattoos",
+      "cat",
+      "grunge",
+      "illustration"
+    ],
+    "tags_ar": [
+      "فتاة",
+      "ميكانيكية",
+      "سيارة",
+      "جرافيتي",
+      "وشوم",
+      "قطة",
+      "جرانج",
+      "رسم توضيحي"
+    ],
+    "suggestedTools": [
+      "1",
+      "266"
+    ]
   }
 ]
