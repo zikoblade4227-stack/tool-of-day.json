@@ -1,0 +1,40 @@
+[
+  {
+    "id": "prompt-001",
+    "title": "Boy Flying a Kite",
+    "title_ar": "ولد يطير طائرة ورقية",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778099239/1_rmedaz.jpg",
+    "description": "A sketch-style emotional illustration of a young boy running on a windy beach while flying a kite, with soft linework, gentle shading, and a peaceful sense of freedom.",
+    "description_ar": "رسم عاطفي بأسلوب اسكتش لطفل صغير يركض على شاطئ عاصف وهو يطير طائرة ورقية، مع خطوط ناعمة وتظليل هادئ وإحساس جميل بالحرية.",
+    "prompt": "A highly detailed, emotional sketch-style illustration of a young boy flying a kite on a windy beach. The scene captures a deep sense of joy and freedom, with fine linework emphasizing the movement of the kite soaring in the air and the boy’s laughter as he runs. The illustration uses soft shading and delicate pencil-like strokes to bring out intricate textures and subtle movement throughout the composition. The background features a softly lit natural beach environment with waves, sand, dunes, and expressive clouds, harmonizing with the central subject and enhancing the peaceful atmosphere. Every detail, from the gentle play of light and shadow to the wind flowing through the scene, is rendered thoughtfully to create a visual narrative that feels both intimate and expansive.",
+    "prompt_ar": "رسم توضيحي عالي التفاصيل بأسلوب اسكتش عاطفي لطفل صغير يطير طائرة ورقية على شاطئ عاصف. ينقل المشهد إحساسًا عميقًا بالفرح والحرية، مع خطوط دقيقة تبرز حركة الطائرة الورقية في السماء وضحكة الطفل أثناء ركضه. يستخدم الرسم تظليلًا ناعمًا ولمسات تشبه القلم الرصاص لإظهار الخامات الدقيقة والحركة الخفيفة داخل التكوين. تتضمن الخلفية بيئة شاطئية طبيعية بإضاءة هادئة مع أمواج ورمال وكثبان وسحب معبرة، بما ينسجم مع العنصر الأساسي ويعزز الجو الهادئ. تم تنفيذ كل تفصيلة بعناية، من تلاعب الضوء والظل إلى تأثير الرياح في المشهد، لصنع سرد بصري يبدو حميميًا وواسعًا في الوقت نفسه.",
+    "category": "Illustration",
+    "category_ar": "رسم توضيحي",
+    "style": "Sketch",
+    "style_ar": "اسكتش",
+    "tags": [
+      "boy",
+      "kite",
+      "beach",
+      "wind",
+      "sketch",
+      "emotional",
+      "freedom",
+      "illustration"
+    ],
+    "tags_ar": [
+      "طفل",
+      "طائرة ورقية",
+      "شاطئ",
+      "رياح",
+      "اسكتش",
+      "عاطفي",
+      "حرية",
+      "رسم توضيحي"
+    ],
+    "suggestedTools": [
+      "1",
+      "266"
+    ]
+  }
+]
