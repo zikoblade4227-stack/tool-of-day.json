@@ -1,18 +1,18 @@
 [
   {
-    "id": "tod-1",
-    "name": "ChatGPT",
-    "description": "AI assistant for writing, coding, research, and daily tasks.",
-    "description_ar": "مساعد ذكاء اصطناعي للكتابة والبرمجة والبحث والمهام اليومية.",
-    "category": "Chat",
-    "category_ar": "الدردشة",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "trialInfo": "",
-    "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/chatgpt.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://chatgpt.com"
-  },
+  "id": "tod-1",
+  "name": "Google Flow",
+  "description": "AI creative studio from Google for generating and refining videos, images, scenes, and visual stories.",
+  "description_ar": "استوديو إبداعي بالذكاء الاصطناعي من Google لإنشاء وتحسين الفيديوهات والصور والمشاهد والقصص البصرية.",
+  "category": "Video",
+  "category_ar": "الفيديو",
+  "pricing": "Free",
+  "pricing_ar": "مجاني",
+  "trialInfo": "Nano Banana 2 images: no credits",
+  "trialInfo_ar": "صور Nano Banana 2 بدون كريدت",
+  "logo": "https://img.logo.dev/labs.google?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+  "website": "https://labs.google/fx/tools/flow"
+},
 {
   "id": "2",
   "name": "Kittl",
@@ -32,17 +32,17 @@
   "trialInfo_ar": ""
 },
   {
-    "id": "tod-3",
-    "name": "Perplexity",
-    "description": "AI answer engine for research with web sources.",
-    "description_ar": "محرك إجابات ذكي للبحث مع مصادر من الويب.",
-    "category": "Research",
-    "category_ar": "البحث",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "trialInfo": "",
-    "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/perplexity.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://www.perplexity.ai"
-  }
+  "id": "tod-3",
+  "name": "Vheer",
+  "description": "AI video generator for creating short videos from text prompts and visual ideas directly in the browser.",
+  "description_ar": "مولد فيديو بالذكاء الاصطناعي لإنشاء مقاطع قصيرة من الأوامر النصية والأفكار البصرية مباشرة من المتصفح.",
+  "category": "Video",
+  "category_ar": "الفيديو",
+  "pricing": "Free",
+  "pricing_ar": "مجاني",
+  "trialInfo": "",
+  "trialInfo_ar": "",
+  "logo": "https://img.logo.dev/vheer.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+  "website": "https://vheer.com/text-to-video"
+}
 ]
