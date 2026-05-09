@@ -1,26 +1,26 @@
 [
   {
     "id": "prompt-001",
-    "title": "Boy Flying a Kite",
-    "title_ar": "ولد يطير طائرة ورقية",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778099239/1_rmedaz.jpg",
-    "description": "A sketch-style emotional illustration of a young boy running on a windy beach while flying a kite, with soft linework, gentle shading, and a peaceful sense of freedom.",
-    "description_ar": "رسم عاطفي بأسلوب اسكتش لطفل صغير يركض على شاطئ عاصف وهو يطير طائرة ورقية، مع خطوط ناعمة وتظليل هادئ وإحساس جميل بالحرية.",
-    "prompt": "A highly detailed, emotional sketch-style illustration of a young boy flying a kite on a windy beach. The scene captures a deep sense of joy and freedom, with fine linework emphasizing the movement of the kite soaring in the air and the boy’s laughter as he runs. The illustration uses soft shading and delicate pencil-like strokes to bring out intricate textures and subtle movement throughout the composition. The background features a softly lit natural beach environment with waves, sand, dunes, and expressive clouds, harmonizing with the central subject and enhancing the peaceful atmosphere. Every detail, from the gentle play of light and shadow to the wind flowing through the scene, is rendered thoughtfully to create a visual narrative that feels both intimate and expansive.",
-    "prompt_ar": "رسم توضيحي عالي التفاصيل بأسلوب اسكتش عاطفي لطفل صغير يطير طائرة ورقية على شاطئ عاصف. ينقل المشهد إحساسًا عميقًا بالفرح والحرية، مع خطوط دقيقة تبرز حركة الطائرة الورقية في السماء وضحكة الطفل أثناء ركضه. يستخدم الرسم تظليلًا ناعمًا ولمسات تشبه القلم الرصاص لإظهار الخامات الدقيقة والحركة الخفيفة داخل التكوين. تتضمن الخلفية بيئة شاطئية طبيعية بإضاءة هادئة مع أمواج ورمال وكثبان وسحب معبرة، بما ينسجم مع العنصر الأساسي ويعزز الجو الهادئ. تم تنفيذ كل تفصيلة بعناية، من تلاعب الضوء والظل إلى تأثير الرياح في المشهد، لصنع سرد بصري يبدو حميميًا وواسعًا في الوقت نفسه.",
-    "category": "Illustration",
-    "category_ar": "رسم توضيحي",
-    "style": "Sketch",
-    "style_ar": "اسكتش",
+    "title": "Noir Light",
+    "title_ar": "ضوء نوير",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362778/22_cpwjfw.jpg",
+    "description": "A photorealistic modern noir portrait with half the face lit by a glowing vertical light bar while the other half disappears into deep shadows.",
+    "description_ar": "بورتريه نوير حديث فائق الواقعية، نصف الوجه مضاء بشريط ضوء رأسي والنصف الآخر يختفي داخل ظلال عميقة.",
+    "prompt": "Create a photorealistic modern noir portrait of [SUBJECT] leaning slightly toward a softly glowing vertical light bar. One half of the subject’s face should be illuminated by a cinematic [LIGHT TONE] haze, while the other half fades completely into deep pitch-black shadows. The posture should feel relaxed and natural, with a crisp, clearly defined silhouette that creates dramatic contrast and depth. The scene should have a sleek modern noir aesthetic with minimal lighting and a cinematic atmosphere. Emphasize the interplay between light and shadow to create a mysterious, intimate, and stylish mood. The glowing vertical light bar should be the only visible light source in the scene, casting soft directional illumination across the subject’s face and body. Use a mid-shot composition from a subtle side angle with shallow depth of field and high dynamic range. Keep the background completely black and minimal, with no distracting objects or scenery. The environment should feel like a dark minimalist studio with controlled cinematic lighting. The final image should feel elegant, atmospheric, and emotionally cinematic, with ultra-realistic skin texture, natural shadows, refined contrast, and a polished editorial quality similar to high-end fashion photography or modern film stills.",
+    "prompt_ar": "أنشئ بورتريه نوير حديثًا فائق الواقعية لشخصية [SUBJECT] تميل قليلًا نحو شريط ضوء رأسي متوهج بنعومة. يجب أن يكون نصف وجه الشخصية مضاءً بضباب سينمائي بلون [LIGHT TONE]، بينما يختفي النصف الآخر تمامًا داخل ظلال سوداء عميقة. يجب أن تبدو الوقفة طبيعية ومريحة مع سيلويت واضح وحاد يخلق تباينًا وعمقًا دراميًا. يجب أن يحمل المشهد طابع نوير حديث وأنيق بإضاءة قليلة وأجواء سينمائية. ركز على التفاعل بين الضوء والظل لصنع إحساس غامض وحميم وأنيق. يجب أن يكون شريط الضوء الرأسي هو مصدر الإضاءة الوحيد الظاهر في المشهد، ويلقي إضاءة اتجاهية ناعمة على الوجه والجسم. استخدم تكوين لقطة متوسطة من زاوية جانبية خفيفة مع عمق ميدان ضحل ونطاق ديناميكي عالٍ. اجعل الخلفية سوداء تمامًا وبسيطة، بدون أي عناصر مشتتة. يجب أن يبدو المكان كاستوديو مظلم بسيط بإضاءة سينمائية محكمة. النتيجة النهائية يجب أن تكون أنيقة ومزاجية وسينمائية عاطفيًا، مع ملمس بشرة واقعي جدًا وظلال طبيعية وتباين راقٍ وجودة تحريرية مصقولة تشبه تصوير الأزياء الفاخر أو لقطات الأفلام الحديثة.",
+    "category": "Portrait",
+    "category_ar": "بورتريه",
+    "style": "Modern Noir",
+    "style_ar": "نوير حديث",
     "tags": [
-      "boy",
-      "kite",
-      "beach"
+      "noir",
+      "portrait",
+      "shadow"
     ],
     "tags_ar": [
-      "طفل",
-      "طائرة ورقية",
-      "شاطئ"
+      "نوير",
+      "بورتريه",
+      "ظل"
     ],
     "suggestedTools": [
       "1",
@@ -29,11 +29,11 @@
   },
   {
     "id": "prompt-002",
-    "title": "Fanta Orange Splash Bottle",
-    "title_ar": "زجاجة فانتا برتقال وسط رذاذ العصير",
+    "title": "Fanta Splash",
+    "title_ar": "فانتا سبلاش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778106352/2_rfzuoj.jpg",
-    "description": "A vibrant commercial-style product image of a chilled Fanta Orange bottle surrounded by energetic orange juice splashes and citrus slices, set against a glowing orange background for a fresh and refreshing look.",
-    "description_ar": "صورة دعائية نابضة بالحيوية لزجاجة فانتا برتقال باردة محاطة برذاذ عصير البرتقال وشرائح الحمضيات، على خلفية برتقالية متوهجة تمنح المشهد إحساسًا منعشًا وحيويًا.",
+    "description": "A vibrant commercial product shot of a chilled orange soda bottle surrounded by splashes, citrus slices, and glowing orange energy.",
+    "description_ar": "لقطة منتج إعلانية نابضة بالحيوية لزجاجة مشروب برتقال باردة محاطة بالرذاذ وشرائح الحمضيات وطاقة برتقالية متوهجة.",
     "prompt": "A highly detailed commercial product shot of a chilled Fanta Orange bottle placed at the center of the composition, surrounded by dynamic splashes of orange soda and floating orange slices. The bottle is covered with realistic condensation droplets to emphasize freshness, while the liquid splash explodes outward in an energetic and visually striking way. The background is a rich glowing orange gradient with soft bokeh highlights, enhancing the refreshing citrus atmosphere. The lighting is bright and polished, with glossy reflections and sharp focus on the bottle, creating a premium advertising look that feels bold, refreshing, and full of motion.",
     "prompt_ar": "لقطة دعائية تجارية عالية التفاصيل لزجاجة فانتا برتقال باردة موضوعة في منتصف التكوين، ومحاطة برذاذ ديناميكي من المشروب وشرائح البرتقال المتطايرة. الزجاجة مغطاة بقطرات تكثف واقعية لإبراز الإحساس بالانتعاش، بينما ينفجر السائل حولها بطريقة حيوية ولافتة بصريًا. تأتي الخلفية بتدرج برتقالي متوهج مع تأثيرات بوكيه ناعمة لتعزيز أجواء الحمضيات المنعشة. الإضاءة قوية واحترافية مع انعكاسات لامعة وتركيز حاد على الزجاجة، مما يمنح الصورة طابعًا إعلانيًا فاخرًا وجريئًا ومليئًا بالحركة.",
     "category": "Advertising",
@@ -57,26 +57,26 @@
   },
   {
     "id": "prompt-003",
-    "title": "Minimal Fashion Portrait",
-    "title_ar": "بورتريه أزياء بسيط",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778107142/3_qwilms.jpg",
-    "description": "A clean and modern fashion portrait of a young man standing in a minimalist studio, wearing an oversized cream T-shirt, blue jeans, and white sneakers, with a relaxed pose and a calm contemporary vibe.",
-    "description_ar": "بورتريه أزياء نظيف وعصري لشاب يقف داخل استوديو بسيط، مرتديًا تيشيرت أوفرسايز بلون كريمي وجينز أزرق وحذاء رياضي أبيض، مع وقفة هادئة وطابع معاصر مريح.",
-    "prompt": "A highly detailed minimalist fashion portrait of a young man standing confidently in a spacious studio with a plain textured light-gray wall and polished concrete floor. He is wearing an oversized cream T-shirt with a small chest graphic, relaxed blue jeans, and clean white sneakers. His pose is casual and self-assured, with both hands in his pockets and a calm facial expression. The composition leaves wide negative space on one side, creating a clean editorial balance. The lighting is soft and natural, with subtle shadows that enhance the outfit and add depth while maintaining a simple, refined, contemporary aesthetic.",
-    "prompt_ar": "بورتريه أزياء بسيط عالي التفاصيل لشاب يقف بثقة داخل استوديو واسع بخلفية جدار رمادي فاتح ذي ملمس خفيف وأرضية خرسانية ناعمة. يرتدي تيشيرت أوفرسايز بلون كريمي مع رسم صغير على الصدر، وجينز أزرق بقصة مريحة، وحذاء رياضي أبيض نظيف. وضعية الوقوف عفوية وواثقة مع وضع اليدين داخل الجيوب وتعبير هادئ على الوجه. يترك التكوين مساحة فارغة واسعة على أحد الجوانب ليعطي توازنًا بصريًا أنيقًا شبيهًا بالتصوير التحريري. الإضاءة ناعمة وطبيعية مع ظلال خفيفة تبرز الملابس وتضيف عمقًا، مع الحفاظ على طابع بسيط وراقٍ ومعاصر.",
-    "category": "Fashion",
-    "category_ar": "أزياء",
-    "style": "Minimalist Portrait",
-    "style_ar": "بورتريه بسيط",
+    "title": "Brunch Menu",
+    "title_ar": "منيو برنش",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362774/15_q8gzms.jpg",
+    "description": "A premium editorial brunch menu design with two clean columns, modern typography, refined spacing, and a stylish urban café mood.",
+    "description_ar": "تصميم منيو برنش تحريري فاخر بعمودين نظيفين وتايبوجرافي عصري ومساحات راقية وأجواء كافيه حضري أنيق.",
+    "prompt": "Create a cool, modern editorial brunch menu for [VENUE NAME], a [VENUE TYPE] focused on [CUISINE FOCUS]. The menu should feel relaxed, confident, premium, and stylish, with an urban café aesthetic and a high-end minimal layout. Design the menu as a clean editorial grid with two columns. Keep the item names aligned to the left and the prices aligned to the right. Use generous white space, refined spacing, and a calm premium composition. The overall design should feel like a modern brunch culture magazine spread, using editorial typography, a strong modern sans-serif font, and a neutral serif font only for subtle accent details. The menu title should clearly present the venue name and brunch menu identity. Use a confident typographic hierarchy with bold section titles, clean item names, smaller descriptions, and neatly aligned prices. Include these menu sections: Eggs & Plates. Avocado Toast — Sourdough, smashed avocado, olive oil — ₺220. Scrambled Eggs — Soft eggs, buttered toast — ₺195. Brunch Classics. Eggs Benedict — Poached eggs, hollandaise, brioche — ₺260. Pancake Stack — Maple syrup, seasonal fruit — ₺240. Light & Fresh. Granola Bowl — Greek yogurt, honey, berries — ₺185. Seasonal Salad — Mixed greens, citrus dressing — ₺210. Brunch Drinks. Fresh Orange Juice — Cold pressed — ₺120. Iced Latte — Single origin espresso, milk — ₺135. Use a clean premium color palette with warm off-white background, deep charcoal text, subtle beige or taupe accents, and refined thin divider lines. Add small editorial details such as section numbers, delicate rules, or minimal accent marks, but keep the design uncluttered. The final result should look like a premium printed brunch menu for a stylish urban café: modern, minimal, editorial, easy to read, confident, and visually balanced. Avoid clutter, cheap restaurant-menu styling, excessive decoration, playful fonts, harsh colors, messy spacing, random icons, or overly decorative food illustrations.",
+    "prompt_ar": "أنشئ منيو برنش تحريريًا عصريًا وأنيقًا لـ [VENUE NAME]، وهو [VENUE TYPE] يركز على [CUISINE FOCUS]. يجب أن يبدو المنيو هادئًا وواثقًا وفاخرًا وأنيقًا، بطابع كافيه حضري وتخطيط مينيمال راقٍ. صمم المنيو كشبكة تحريرية نظيفة بعمودين. اجعل أسماء الأصناف بمحاذاة اليسار والأسعار بمحاذاة اليمين. استخدم مساحات بيضاء واسعة وتباعدًا راقيًا وتكوينًا هادئًا وفاخرًا. يجب أن يبدو التصميم كصفحة من مجلة حديثة عن ثقافة البرنش، مع تايبوجرافي تحريري وخط سانس سيريف قوي وحديث وخط سيريف محايد فقط للتفاصيل البسيطة. يجب أن يعرض عنوان المنيو اسم المكان وهوية منيو البرنش بوضوح. استخدم تسلسلًا بصريًا واثقًا بعناوين أقسام جريئة وأسماء أصناف نظيفة ووصف أصغر وأسعار منظمة. أدرج الأقسام التالية: Eggs & Plates. Avocado Toast — Sourdough, smashed avocado, olive oil — ₺220. Scrambled Eggs — Soft eggs, buttered toast — ₺195. Brunch Classics. Eggs Benedict — Poached eggs, hollandaise, brioche — ₺260. Pancake Stack — Maple syrup, seasonal fruit — ₺240. Light & Fresh. Granola Bowl — Greek yogurt, honey, berries — ₺185. Seasonal Salad — Mixed greens, citrus dressing — ₺210. Brunch Drinks. Fresh Orange Juice — Cold pressed — ₺120. Iced Latte — Single origin espresso, milk — ₺135. استخدم لوحة ألوان فاخرة ونظيفة بخلفية أوف وايت دافئة ونص فحمي داكن ولمسات بيج أو تاوب خفيفة وخطوط فاصلة رفيعة راقية. أضف تفاصيل تحريرية صغيرة مثل أرقام الأقسام أو خطوط رقيقة أو علامات بسيطة، مع الحفاظ على التصميم غير مزدحم. النتيجة النهائية يجب أن تبدو كمنيو برنش مطبوع فاخر لكافيه حضري أنيق: حديث، بسيط، تحريري، سهل القراءة، واثق، ومتوازن بصريًا. تجنب الزحام، شكل منيو المطاعم الرخيص، الزخرفة الزائدة، الخطوط المرحة، الألوان القاسية، التباعد العشوائي، الأيقونات العشوائية، أو رسومات الطعام المزخرفة جدًا.",
+    "category": "Menu Design",
+    "category_ar": "تصميم منيو",
+    "style": "Editorial Minimal",
+    "style_ar": "مينيمال تحريري",
     "tags": [
-      "fashion",
-      "portrait",
-      "man"
+      "menu",
+      "brunch",
+      "editorial"
     ],
     "tags_ar": [
-      "أزياء",
-      "بورتريه",
-      "رجل"
+      "منيو",
+      "برنش",
+      "تحريري"
     ],
     "suggestedTools": [
       "1",
@@ -85,26 +85,26 @@
   },
   {
     "id": "prompt-004",
-    "title": "Urban Business Fashion Walk",
-    "title_ar": "إطلالة أعمال عصرية أثناء المشي",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/4_rnxsed.jpg",
-    "description": "A stylish outdoor fashion portrait of a confident young man walking in front of a modern glass building, wearing a navy shirt, light gray trousers, loafers, and sunglasses in a polished urban setting.",
-    "description_ar": "بورتريه أزياء خارجي أنيق لشاب واثق يسير أمام مبنى زجاجي حديث، مرتديًا قميصًا كحليًا وبنطالًا رماديًا فاتحًا وحذاءً أنيقًا ونظارة شمسية، في أجواء حضرية راقية.",
-    "prompt": "A highly detailed urban fashion portrait of a confident young man walking along a modern city sidewalk in front of a sleek glass-and-steel office building. He is dressed in a fitted dark navy button-up shirt, light gray tailored trousers, black loafers, and stylish sunglasses, creating a clean smart-casual look. His pose is natural and self-assured, captured mid-step with one hand adjusting his sleeve. The scene includes reflective glass panels, strong architectural lines, and soft daylight that creates a polished editorial feel. The composition emphasizes elegance, confidence, and contemporary city style, with a realistic photographic finish and crisp detail throughout.",
-    "prompt_ar": "بورتريه أزياء حضري عالي التفاصيل لشاب واثق يسير على رصيف مدينة حديث أمام مبنى مكاتب أنيق من الزجاج والفولاذ. يرتدي قميصًا كحليًا داكنًا بقصة مناسبة، وبنطالًا رماديًا فاتحًا مفصلًا، وحذاء لوفر أسود، ونظارة شمسية عصرية، ليمنح إطلالة سمارت كاجوال أنيقة. تبدو وضعيته طبيعية وواثقة أثناء المشي، مع حركة بسيطة لليد وكأنه يعدل كم القميص. يتضمن المشهد واجهات زجاجية عاكسة وخطوطًا معمارية قوية وإضاءة نهارية ناعمة تمنح الصورة طابعًا تحريريًا احترافيًا. يركز التكوين على الأناقة والثقة والأسلوب المدني المعاصر، مع لمسة فوتوغرافية واقعية وتفاصيل حادة في جميع العناصر.",
-    "category": "Fashion",
-    "category_ar": "أزياء",
-    "style": "Urban Editorial Photography",
-    "style_ar": "تصوير تحريري حضري",
+    "title": "Eldritch Monster",
+    "title_ar": "وحش إلدريتش",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330502/11_cjc0ei.jpg",
+    "description": "A dark fantasy creature design sheet showing a deep sea eldritch monster from side and three-quarter views with slimy skin and glowing organs.",
+    "description_ar": "ورقة تصميم مخلوق فانتازيا مظلمة تعرض وحش إلدريتش من أعماق البحر بزوايا جانبية وثلاثة أرباع وجلد لزج وأعضاء مضيئة.",
+    "prompt": "Create a Dark Fantasy Creature Design Sheet featuring a Deep Sea Eldritch Monster. Composition: side profile view showing spine and posture, plus a 3/4 view to reveal form, silhouette, and anatomy. Features: slimy skin, multiple eyes, tentacle appendages, strange deep-sea body structure, bioluminescent organs, wet reflective surfaces, sharp organic details, and unsettling asymmetry. Style: digital painting style, similar to Dark Souls or Bloodborne concept art, gloomy and oppressive atmosphere, dramatic shadows, muted colors, high detail, horror fantasy mood, professional creature concept art presentation.",
+    "prompt_ar": "أنشئ ورقة تصميم مخلوق فانتازيا مظلمة لوحش إلدريتش من أعماق البحر. التكوين: عرض جانبي يوضح العمود الفقري ووضعية الجسم، مع عرض بزاوية ثلاثة أرباع لإظهار الشكل العام والهيئة والتشريح. المميزات: جلد لزج، عيون متعددة، أطراف مجسية، بنية جسدية غريبة مستوحاة من أعماق البحر، أعضاء مضيئة حيويًا، أسطح رطبة عاكسة، تفاصيل عضوية حادة، ولا تماثل مزعج. الأسلوب: رسم رقمي مشابه لأعمال الكونسبت آرت في أجواء Dark Souls أو Bloodborne، جو كئيب وضاغط، ظلال درامية، ألوان مكتومة، تفاصيل عالية، إحساس رعب فانتازي، وعرض احترافي لتصميم مخلوق.",
+    "category": "Creature Design",
+    "category_ar": "تصميم مخلوقات",
+    "style": "Dark Fantasy Concept Art",
+    "style_ar": "كونسبت آرت فانتازيا مظلمة",
     "tags": [
-      "fashion",
-      "man",
-      "urban"
+      "monster",
+      "eldritch",
+      "creature"
     ],
     "tags_ar": [
-      "أزياء",
-      "رجل",
-      "حضري"
+      "وحش",
+      "إلدريتش",
+      "مخلوق"
     ],
     "suggestedTools": [
       "1",
@@ -113,26 +113,26 @@
   },
   {
     "id": "prompt-005",
-    "title": "Edgy Mechanic Girl Illustration",
-    "title_ar": "رسم لفتاة ميكانيكية بطابع جريء",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/5_ooblsd.jpg",
-    "description": "A stylized grunge illustration of a tattooed young woman sitting on a graffiti-covered vintage sports car with the hood open, accompanied by a sleeping orange cat and scattered tools in an urban alley.",
-    "description_ar": "رسم ستايلايزد بطابع جرانج لفتاة شابة موشومة تجلس فوق سيارة رياضية كلاسيكية مغطاة بالجرافيتي مع غطاء المحرك مفتوح، وبجانبها قطة برتقالية نائمة وأدوات متناثرة في زقاق حضري.",
-    "prompt": "A highly detailed stylized illustration of an edgy young mechanic girl sitting casually on the front fender of a vintage red sports car covered in graffiti, with the hood open to reveal a powerful exposed engine. She has short dark messy hair, sunglasses resting on her head, visible tattoos on her arms and neck, and wears a plaid shirt over a beige top, rolled-up jeans, and worn high-top sneakers. A sleeping orange cat rests on the ground beside a wrench, adding personality to the scene. The background is an urban grunge wall filled with colorful paint textures and street-art markings. The overall style is expressive, painterly, and slightly cartoonish, with strong character design, rich texture, and a rebellious street-garage atmosphere.",
-    "prompt_ar": "رسم توضيحي عالي التفاصيل بأسلوب ستايلايزد لفتاة ميكانيكية جريئة تجلس بعفوية على الرفرف الأمامي لسيارة رياضية كلاسيكية حمراء مغطاة برسومات الجرافيتي، بينما غطاء المحرك مفتوح ليكشف عن محرك قوي بارز. تمتلك شعرًا قصيرًا داكنًا ومبعثرًا، ونظارة شمسية موضوعة فوق رأسها، ووشومًا ظاهرة على الذراعين والرقبة، وترتدي قميصًا كاروهات فوق بلوزة بيج، وجينزًا مطويًا، وحذاءً رياضيًا مرتفعًا يبدو مستهلكًا قليلًا. تستلقي قطة برتقالية نائمة على الأرض بجانب مفتاح ربط، ما يضيف شخصية للمشهد. تأتي الخلفية بجدار حضري بطابع جرانج مليء بملامس الألوان وعلامات فن الشارع. الأسلوب العام تعبيري ومصور بطريقة فنية مع لمسة كرتونية خفيفة، مع تصميم شخصية قوي وخامات غنية وأجواء متمردة تجمع بين الشارع والورشة.",
-    "category": "Illustration",
-    "category_ar": "رسم توضيحي",
-    "style": "Stylized Grunge Illustration",
-    "style_ar": "رسم ستايلايزد بطابع جرانج",
+    "title": "Tiny Chef",
+    "title_ar": "شيف صغير",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778281755/10_hpdjzm.jpg",
+    "description": "A cinematic hyper-realistic scene of a tiny chef jumping on a bread roll while trying to dip it into a huge cup of hot chocolate.",
+    "description_ar": "مشهد سينمائي فائق الواقعية لشيف صغير يقفز فوق قطعة خبز ويحاول غمسها داخل كوب ضخم من الشوكولاتة الساخنة.",
+    "prompt": "Create a cinematic, hyper-realistic image, ultra-detailed in the textures of skin, hair, metal, rock, wood, and fabric, 8K Full HD using my reference image. I am dressed as a chef and appear as a tiny person, jumping on top of a bread roll shell while trying to dip it into a huge cup of hot chocolate. The setting is a typical Mexican kitchen. Extreme photorealism, dramatic side lighting, deep shadows, ultra-detailed textures. Desaturated earthy color palette, cinematic high-ISO grain, subtle light leaks, grunge aesthetic, shallow depth of field. Epic vintage sci-fi movie style.",
+    "prompt_ar": "أنشئ صورة سينمائية فائقة الواقعية بتفاصيل دقيقة جدًا في خامات البشرة والشعر والمعدن والصخور والخشب والقماش، بجودة 8K Full HD باستخدام صورتي المرجعية. أظهرني مرتديًا زي شيف كشخص صغير جدًا، أقفز فوق قطعة خبز وأحاول غمسها داخل كوب ضخم من الشوكولاتة الساخنة. تدور الأحداث داخل مطبخ مكسيكي تقليدي. واقعية فوتوغرافية شديدة، إضاءة جانبية درامية، ظلال عميقة، خامات فائقة التفاصيل، لوحة ألوان ترابية منخفضة التشبع، حبيبات سينمائية عالية ISO، تسربات ضوء خفيفة، جمالية جرانج، وعمق ميدان ضحل. الأسلوب العام ملحمي كفيلم خيال علمي قديم.",
+    "category": "Cinematic",
+    "category_ar": "سينمائي",
+    "style": "Hyper-realistic Sci-Fi",
+    "style_ar": "خيال علمي فائق الواقعية",
     "tags": [
-      "girl",
-      "mechanic",
-      "car"
+      "chef",
+      "bread",
+      "chocolate"
     ],
     "tags_ar": [
-      "فتاة",
-      "ميكانيكية",
-      "سيارة"
+      "شيف",
+      "خبز",
+      "شوكولاتة"
     ],
     "suggestedTools": [
       "1",
@@ -141,11 +141,11 @@
   },
   {
     "id": "prompt-006",
-    "title": "Glowing Social Media Spiral Portrait",
-    "title_ar": "بورتريه حلزوني مضيء للسوشيال ميديا",
+    "title": "Social Spiral",
+    "title_ar": "دوامة اجتماعية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778279766/6_p4etpe.jpg",
-    "description": "An ultra-realistic cinematic portrait of a young woman holding a glowing smartphone at night, surrounded by a spiral ribbon of floating social media-style photo thumbnails.",
-    "description_ar": "بورتريه سينمائي فائق الواقعية لشابة تمسك هاتفًا مضيئًا ليلًا، وتحيط بها دوامة من صور مصغرة عائمة بأسلوب السوشيال ميديا.",
+    "description": "An ultra-realistic cinematic portrait of a woman holding a glowing smartphone while floating photo thumbnails spiral around her.",
+    "description_ar": "بورتريه سينمائي فائق الواقعية لامرأة تمسك هاتفًا مضيئًا بينما تدور حولها صور مصغرة عائمة.",
     "prompt": "Ultra-realistic cinematic 4:5 portrait of a young woman sitting comfortably indoors at night, wrapped in a soft patterned shawl, holding a smartphone in both hands near her lap. She looks slightly downward at the phone with a gentle, content smile. The phone emits a warm golden glow illuminating her face softly. Around her, a floating spiral ribbon of social media-style photo thumbnails forms a glowing curved path rising upward in front of her, creating a dynamic S-shaped composition. Dark moody background, soft shadows, warm-to-cool contrast lighting, shallow depth of field, highly detailed skin texture, natural hair, 85mm lens, photorealistic.",
     "prompt_ar": "بورتريه سينمائي فائق الواقعية بنسبة 4:5 لشابة تجلس براحة داخل مكان داخلي ليلًا، ملفوفة بشال ناعم منقوش، وتمسك هاتفًا ذكيًا بكلتا يديها بالقرب من حجرها. تنظر قليلًا إلى الأسفل نحو الهاتف بابتسامة لطيفة وهادئة. يصدر الهاتف توهجًا ذهبيًا دافئًا يضيء وجهها بنعومة. حولها يظهر شريط حلزوني عائم من صور مصغرة بأسلوب السوشيال ميديا، يشكل مسارًا منحنيًا مضيئًا يرتفع أمامها بتكوين ديناميكي على شكل حرف S. خلفية داكنة ومزاجية، ظلال ناعمة، تباين إضاءة دافئ وبارد، عمق ميدان ضحل، تفاصيل عالية في ملمس البشرة، شعر طبيعي، عدسة 85mm، واقعية فوتوغرافية.",
     "category": "Portrait",
@@ -169,26 +169,26 @@
   },
   {
     "id": "prompt-007",
-    "title": "Premium Earbuds E-commerce Infographic",
-    "title_ar": "إنفوجرافيك سماعات فاخر للمتجر الإلكتروني",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778279952/7_t5mdoy.jpg",
-    "description": "A high-impact e-commerce infographic for premium true wireless earbuds, combining product-focused composition, feature callouts, clean layout, and lifestyle advertising polish.",
-    "description_ar": "إنفوجرافيك قوي لمتجر إلكتروني لسماعات لاسلكية فاخرة، يجمع بين إبراز المنتج ونقاط المميزات وتخطيط نظيف ولمسة إعلانية عصرية.",
-    "prompt": "Create a high-impact e-commerce infographic for {argument name=\"product name\" default=\"Bolt True Wireless Earbuds\"} with a premium lifestyle advertising aesthetic. Composition & Framing: place the product as the main hero element in the center with clean spacing, strong hierarchy, and a polished commercial layout. Show the earbuds and charging case in sharp focus with realistic reflections, glossy highlights, and premium material texture. Add elegant feature callouts around the product such as long battery life, deep bass, noise reduction, Bluetooth connectivity, compact charging case, and comfortable fit. Use a modern background with soft gradients, subtle depth, floating UI cards, and clean product shadows. The design should feel like a professional marketplace listing image, optimized for conversion, with bold visual impact, clear product benefits, high-end lighting, crisp details, and a premium tech lifestyle mood.",
-    "prompt_ar": "أنشئ إنفوجرافيك قوي لمتجر إلكتروني لمنتج {argument name=\"product name\" default=\"Bolt True Wireless Earbuds\"} بأسلوب إعلاني فاخر يجمع بين التقنية واللايف ستايل. التكوين والإطار: اجعل المنتج هو العنصر الرئيسي في منتصف التصميم مع مساحات نظيفة وتسلسل بصري واضح وتخطيط تجاري احترافي. اعرض السماعات وعلبة الشحن بتركيز حاد مع انعكاسات واقعية ولمعات أنيقة وخامات فاخرة. أضف نقاط مميزات حول المنتج مثل عمر بطارية طويل، صوت جهير عميق، تقليل الضوضاء، اتصال بلوتوث، علبة شحن مدمجة، وراحة في الاستخدام. استخدم خلفية عصرية بتدرجات ناعمة وعمق خفيف وبطاقات معلومات عائمة وظلال نظيفة للمنتج. يجب أن يبدو التصميم كصورة احترافية لقائمة متجر إلكتروني، مهيأة لزيادة الاهتمام والشراء، مع تأثير بصري قوي ومميزات واضحة وإضاءة فاخرة وتفاصيل حادة وإحساس تقني عصري.",
+    "title": "Speaker Grid",
+    "title_ar": "شبكة سماعة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362777/21_eot8m0.jpg",
+    "description": "A premium 2×3 home audio campaign grid showcasing a wireless speaker through hero shots, material details, and lifestyle interiors.",
+    "description_ar": "حملة صوت منزلي فاخرة بشبكة 2×3 تعرض سماعة لاسلكية من خلال لقطات بطل وتفاصيل خامات ومشاهد داخلية عصرية.",
+    "prompt": "Create a premium advertisement arranged as a clean 2×3 grid with six equal panels in a 4:5 portrait format. The campaign should showcase the [PRODUCT NAME] wireless home speaker, emphasizing immersive sound, elegant industrial design, premium materials, and seamless integration into modern lifestyle interiors. The overall visual direction should feel like a high-end home audio campaign with modern interior lifestyle photography, minimalist composition, refined realism, and design-forward branding. Use a sophisticated [MATERIAL PALETTE] color palette with balanced exposure, soft highlights, and gentle controlled shadows. Panel 1 — Hero Speaker Design: Create a studio hero shot of the [PRODUCT NAME] speaker centered on a minimalist surface. Use soft studio lighting with subtle edge highlights to emphasize the speaker’s silhouette, fabric texture, material finish, and clean logo presentation. The mood should feel refined, premium, and modern. Panel 2 — Material & Craft Detail: Create a macro close-up focusing on the speaker grille, fabric weave, tactile buttons, and craftsmanship details. Use shallow depth of field with ultra-clean realism and highly detailed textures that communicate quality and premium construction. Panel 3 — Immersive Sound Moment: Create a lifestyle interior scene inspired by [INTERIOR WORLD], showing the speaker naturally integrated into a calm modern environment. Use natural daylight and a cinematic composition that conveys immersion, comfort, atmosphere, and presence. Panel 4 — Everyday Use: Show a person naturally interacting with the speaker using voice controls or touch interaction. Use soft ambient interior lighting and a relaxed lifestyle composition that communicates intuitive use, simplicity, and effortless technology. Panel 5 — Evening Atmosphere: Create a warm, moody evening interior scene inspired by [INTERIOR WORLD], featuring the speaker as part of a cozy ambient environment. Use cinematic warm lighting and atmospheric shadows to communicate relaxation, warmth, and mood-setting audio experiences. Panel 6 — Interior Styling: Create a beautifully styled interior scene inspired by [INTERIOR WORLD], where the speaker blends naturally into modern furniture and décor. Use balanced natural lighting and clean minimalist composition to emphasize design harmony and lifestyle integration. Use professional product photography mixed with high-end interior lifestyle photography throughout the campaign. Include hero product shots, macro material details, and immersive interior scenes. Lighting should combine natural daylight with soft ambient illumination for a polished premium finish. The final result should feel immersive, warm, elegant, modern, comforting, premium, and highly realistic — like a global luxury home audio campaign. Avoid cheap plastic appearance, harsh reflections, cluttered interiors, unreadable branding, oversaturated colors, flat lighting, CGI/cartoon aesthetics, watermarks, or text overlays.",
+    "prompt_ar": "أنشئ إعلانًا فاخرًا مرتبًا كشبكة نظيفة 2×3 من ست لوحات متساوية بتنسيق رأسي 4:5. يجب أن تعرض الحملة سماعة المنزل اللاسلكية [PRODUCT NAME] مع التركيز على الصوت الغامر، التصميم الصناعي الأنيق، الخامات الفاخرة، والاندماج السلس داخل ديكورات الحياة العصرية. يجب أن يكون الاتجاه البصري العام مثل حملة صوت منزلي راقية تجمع بين تصوير لايف ستايل داخلي حديث، تكوين مينيمال، واقعية مصقولة، وهوية تصميمية متقدمة. استخدم لوحة ألوان راقية [MATERIAL PALETTE] مع تعريض متوازن ولمعات ناعمة وظلال محكومة. اللوحة 1 — تصميم السماعة البطل: أنشئ لقطة استوديو للسماعة [PRODUCT NAME] في المنتصف على سطح بسيط، مع إضاءة استوديو ناعمة ولمعات حواف خفيفة لإبراز السيلويت وملمس القماش والخامة والعلامة. اللوحة 2 — تفاصيل الخامة والحرفة: أنشئ لقطة ماكرو قريبة تركز على شبكة السماعة ونسيج القماش والأزرار اللمسية وتفاصيل الصنع، مع عمق ميدان ضحل وواقعية نظيفة جدًا وخامات عالية التفاصيل. اللوحة 3 — لحظة صوت غامر: أنشئ مشهدًا داخليًا مستوحى من [INTERIOR WORLD] يظهر السماعة مندمجة طبيعيًا في بيئة حديثة هادئة، مع ضوء نهاري وتكوين سينمائي يوصل الإحساس بالراحة والحضور. اللوحة 4 — الاستخدام اليومي: اعرض شخصًا يتفاعل طبيعيًا مع السماعة باستخدام التحكم الصوتي أو اللمس، بإضاءة داخلية ناعمة وتكوين لايف ستايل مريح يوصل سهولة الاستخدام والتقنية السلسة. اللوحة 5 — أجواء مسائية: أنشئ مشهدًا داخليًا مسائيًا دافئًا ومزاجيًا مستوحى من [INTERIOR WORLD] تكون فيه السماعة جزءًا من بيئة مريحة، مع إضاءة سينمائية دافئة وظلال أجوائية. اللوحة 6 — تنسيق داخلي: أنشئ مشهدًا داخليًا مصممًا بعناية مستوحى من [INTERIOR WORLD] حيث تمتزج السماعة مع الأثاث والديكور الحديث، مع إضاءة طبيعية متوازنة وتكوين مينيمال. استخدم تصوير منتجات احترافيًا ممزوجًا بتصوير لايف ستايل داخلي فاخر في الحملة كلها. يجب أن تجمع الإضاءة بين ضوء النهار الطبيعي والإضاءة المحيطة الناعمة للحصول على لمسة نهائية فاخرة. النتيجة النهائية يجب أن تكون غامرة ودافئة وأنيقة وحديثة ومريحة وفاخرة وواقعية جدًا مثل حملة عالمية لصوت منزلي فاخر. تجنب البلاستيك الرخيص، الانعكاسات القاسية، الديكورات المزدحمة، العلامات غير المقروءة، الألوان المبالغ فيها، الإضاءة المسطحة، مظهر CGI أو الكرتون، العلامات المائية أو النصوص الخارجية.",
     "category": "Advertising",
     "category_ar": "إعلان",
-    "style": "E-commerce Infographic",
-    "style_ar": "إنفوجرافيك متجر إلكتروني",
+    "style": "Lifestyle Product Grid",
+    "style_ar": "شبكة منتج لايف ستايل",
     "tags": [
-      "earbuds",
-      "infographic",
-      "e-commerce"
+      "speaker",
+      "audio",
+      "interior"
     ],
     "tags_ar": [
-      "سماعات",
-      "إنفوجرافيك",
-      "متجر إلكتروني"
+      "سماعة",
+      "صوت",
+      "ديكور"
     ],
     "suggestedTools": [
       "1",
@@ -197,26 +197,26 @@
   },
   {
     "id": "prompt-008",
-    "title": "Facebook Portal Chibi Escape",
-    "title_ar": "هروب شخصية تشيبي من بوابة فيسبوك",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778280557/8_eh2niq.jpg",
-    "description": "A cinematic 3D chibi scene of a tiny character emerging from a smartphone Facebook-style portal while a realistic hand pulls them back into the glowing social media world.",
-    "description_ar": "مشهد تشيبي ثلاثي الأبعاد سينمائي لشخصية صغيرة تخرج من بوابة داخل هاتف بأسلوب فيسبوك، بينما تسحبها يد واقعية مرة أخرى إلى عالم السوشيال ميديا المضيء.",
-    "prompt": "Create a highly detailed cinematic 3D scene inspired by Facebook using the provided face as the exact character reference. The face must remain perfectly recognisable with identity fully preserved. A modern smartphone displaying a Facebook-style interface lies flat on a wooden table. The feed screen acts as a glowing digital portal, and a tiny stylised chibi version of the person is emerging out of the app itself, as if escaping from the social media world. Add visible Facebook-style interface elements on the phone screen, floating reaction icons, thumbs up likes, hearts, care emojis, comment bubbles, notification icons, share arrows, small glowing notification counters, blue UI glow, subtle floating feed cards, and interface fragments around the scene. A large realistic human hand with natural skin texture and accurate anatomy grabs the back of the character’s shirt between the shoulder blades and pulls the character backward into the portal. The shirt fabric visibly stretches backward from the grip point with realistic tension folds and directional pulling force. The character is half out of the phone, waist and upper body outside the portal, legs still trapped inside the screen, body leaning forward as if trying to escape, both arms fully extended toward the camera, hands open naturally with fingers spread, shoulders pulled slightly backward, head facing directly forward. Expression is surprised and emotionally tense, eyes wide open, mouth slightly open, cinematic and dramatic. Show strong backward pulling force from the hand and strong forward reaching force from the arms, creating clear opposing tension between escape and restraint. The portal is a bright glowing blue social-media-themed vortex with swirling digital energy, particles, floating UI fragments dissolving into light, and soft blue glow illuminating the lower body and character edges. Style: ultra detailed Pixar-style semi-realistic 3D chibi, big expressive eyes, smooth cinematic skin shading, cute but emotionally dramatic, hyper polished rendering. Lighting: warm ambient indoor lighting, cool blue underlighting from the portal, cinematic contrast, dramatic shadows, rim lighting. Camera: slight low angle, shallow depth of field, focus locked sharply on face and reaching hands, softly blurred cozy modern indoor background, wooden desk surface, neutral tones. Include realistic 5-finger hand anatomy, correct proportions, no extra limbs, no distortions, hair subtly flowing backward due to pulling force, visible fabric stretching and folds, slight motion blur on pulling hand, floating reactions casting subtle reflections. Ultra realistic, 4K cinematic render, extremely sharp focus, premium animated film quality, no text, no watermark, no distortion, no anatomy errors.",
-    "prompt_ar": "أنشئ مشهدًا سينمائيًا ثلاثي الأبعاد عالي التفاصيل مستوحى من فيسبوك باستخدام الوجه المرفق كمرجع دقيق للشخصية، مع الحفاظ الكامل على ملامح الوجه والتعرف على الهوية. هاتف ذكي حديث يعرض واجهة بأسلوب فيسبوك موضوع بشكل مسطح على طاولة خشبية. تتحول شاشة الخلاصة إلى بوابة رقمية متوهجة، وتخرج منها نسخة تشيبي صغيرة من الشخص وكأنها تهرب من عالم السوشيال ميديا. أضف عناصر واجهة واضحة بأسلوب فيسبوك على الشاشة، وأيقونات تفاعل عائمة، إعجابات، قلوب، إيموجي عناية، فقاعات تعليقات، أيقونات إشعارات، أسهم مشاركة، عدادات إشعارات صغيرة مضيئة، توهج أزرق للواجهة، بطاقات منشورات عائمة خفيفة، وشظايا واجهة حول المشهد. توجد يد بشرية كبيرة وواقعية بملمس جلد طبيعي وتشريح صحيح تمسك ظهر قميص الشخصية بين لوحي الكتف وتسحبها للخلف داخل البوابة. يجب أن يتمدد قماش القميص بوضوح من نقطة الإمساك مع ثنيات شد واقعية واتجاه قوة واضح. الشخصية نصفها خارج الهاتف، الخصر والجزء العلوي خارج البوابة، والساقان ما زالتا عالقتين داخل الشاشة، والجسم مائل للأمام كأنه يحاول الهروب، والذراعان ممدودتان بالكامل نحو الكاميرا، واليدان مفتوحتان بشكل طبيعي مع أصابع متفرقة، والكتفان مشدودان قليلًا للخلف، والرأس مواجه للأمام مباشرة. التعبير مندهش ومتوتر عاطفيًا، العينان واسعتان، والفم مفتوح قليلًا، بإحساس سينمائي درامي. أظهر قوة سحب قوية للخلف من اليد وقوة وصول للأمام من الذراعين، مع توتر واضح بين الهروب والتقييد. البوابة عبارة عن دوامة زرقاء ساطعة بتأثير سوشيال ميديا، مع طاقة رقمية دوارة وجزيئات وشظايا واجهة تذوب في الضوء، وتوهج أزرق ناعم يضيء الجزء السفلي وحواف الشخصية. الأسلوب: تشيبي ثلاثي الأبعاد شبه واقعي فائق التفاصيل بأسلوب أفلام الأنيميشن الراقية، عيون كبيرة معبرة، تظليل بشرة سينمائي ناعم، لطيف لكنه درامي عاطفيًا، ورندر مصقول جدًا. الإضاءة: إضاءة داخلية دافئة من الغرفة، وإضاءة زرقاء باردة من البوابة، تباين سينمائي، ظلال درامية، وإضاءة حواف. الكاميرا: زاوية منخفضة قليلًا، عمق ميدان ضحل، تركيز حاد على الوجه واليدين الممدودتين، وخلفية داخلية حديثة دافئة ومموهة، سطح مكتب خشبي، ودرجات محايدة. احرص على يد واقعية بخمسة أصابع وتشريح صحيح، نسب سليمة، بدون أطراف إضافية أو تشوهات، شعر يتجه للخلف قليلًا بسبب قوة السحب، قماش مشدود وثنيات واضحة، ضبابية حركة خفيفة على اليد الساحبة، وانعكاسات ناعمة من أيقونات التفاعل العائمة. واقعية عالية، رندر سينمائي 4K، تركيز شديد الحدة، جودة فيلم أنيميشن فاخرة، بدون نص، بدون علامة مائية، بدون تشويه، وبدون أخطاء تشريحية.",
-    "category": "3D Character Scene",
-    "category_ar": "مشهد شخصية ثلاثي الأبعاد",
-    "style": "Cinematic 3D Chibi",
-    "style_ar": "تشيبي ثلاثي الأبعاد سينمائي",
+    "title": "Mechanic Girl",
+    "title_ar": "فتاة ميكانيكية",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/5_ooblsd.jpg",
+    "description": "A stylized grunge illustration of a tattooed young mechanic sitting on a graffiti-covered vintage sports car with tools and a sleeping cat.",
+    "description_ar": "رسم ستايلايزد بطابع جرانج لفتاة ميكانيكية موشومة تجلس فوق سيارة رياضية كلاسيكية مغطاة بالجرافيتي مع أدوات وقطة نائمة.",
+    "prompt": "A highly detailed stylized illustration of an edgy young mechanic girl sitting casually on the front fender of a vintage red sports car covered in graffiti, with the hood open to reveal a powerful exposed engine. She has short dark messy hair, sunglasses resting on her head, visible tattoos on her arms and neck, and wears a plaid shirt over a beige top, rolled-up jeans, and worn high-top sneakers. A sleeping orange cat rests on the ground beside a wrench, adding personality to the scene. The background is an urban grunge wall filled with colorful paint textures and street-art markings. The overall style is expressive, painterly, and slightly cartoonish, with strong character design, rich texture, and a rebellious street-garage atmosphere.",
+    "prompt_ar": "رسم توضيحي عالي التفاصيل بأسلوب ستايلايزد لفتاة ميكانيكية جريئة تجلس بعفوية على الرفرف الأمامي لسيارة رياضية كلاسيكية حمراء مغطاة برسومات الجرافيتي، بينما غطاء المحرك مفتوح ليكشف عن محرك قوي بارز. تمتلك شعرًا قصيرًا داكنًا ومبعثرًا، ونظارة شمسية موضوعة فوق رأسها، ووشومًا ظاهرة على الذراعين والرقبة، وترتدي قميصًا كاروهات فوق بلوزة بيج، وجينزًا مطويًا، وحذاءً رياضيًا مرتفعًا يبدو مستهلكًا قليلًا. تستلقي قطة برتقالية نائمة على الأرض بجانب مفتاح ربط، ما يضيف شخصية للمشهد. تأتي الخلفية بجدار حضري بطابع جرانج مليء بملامس الألوان وعلامات فن الشارع. الأسلوب العام تعبيري ومصور بطريقة فنية مع لمسة كرتونية خفيفة، مع تصميم شخصية قوي وخامات غنية وأجواء متمردة تجمع بين الشارع والورشة.",
+    "category": "Illustration",
+    "category_ar": "رسم توضيحي",
+    "style": "Stylized Grunge Illustration",
+    "style_ar": "رسم ستايلايزد بطابع جرانج",
     "tags": [
-      "chibi",
-      "portal",
-      "social media"
+      "girl",
+      "mechanic",
+      "car"
     ],
     "tags_ar": [
-      "تشيبي",
-      "بوابة",
-      "سوشيال ميديا"
+      "فتاة",
+      "ميكانيكية",
+      "سيارة"
     ],
     "suggestedTools": [
       "1",
@@ -225,11 +225,95 @@
   },
   {
     "id": "prompt-009",
-    "title": "Tea Pouring Out of Smartphone",
-    "title_ar": "شاي ينسكب من شاشة الهاتف",
+    "title": "Beverage Grid",
+    "title_ar": "شبكة مشروب",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362773/14_qgiuyb.jpg",
+    "description": "A premium 16:9 beverage campaign arranged as a cinematic 3×2 grid showing a carbonated soft drink can across six advertising panels.",
+    "description_ar": "حملة مشروب فاخرة بنسبة 16:9 مرتبة كشبكة سينمائية 3×2 تعرض علبة مشروب غازي عبر ست لوحات إعلانية.",
+    "prompt": "Create a premium 16:9 cinematic beverage advertisement arranged as a clean 3×2 grid with six equal panels. The ad should promote [PRODUCT NAME], a [BEVERAGE TYPE] carbonated soft drink in a slim aluminum can with a bold matte graphic design, modern typography, and a refreshing classic cola flavor with a citrus twist. Keep the can design, logo, colors, and packaging artwork consistent across all six panels. The overall look should feel like a high-end global soft drink campaign: vibrant, stylish, refreshing, youthful, urban, energetic, and premium. Use ultra-realistic commercial photography with sharp details, polished lighting, realistic condensation, crisp ice, clean liquid splashes, and a strong advertising finish. Set the campaign in a modern urban rooftop environment at golden hour. Use a textured concrete rooftop surface, a soft sunset sky gradient, a minimal city skyline silhouette, and subtle atmospheric haze. The lighting should mix warm golden-hour sunlight with cool reflective highlights, crisp rim lighting on the can, and soft realistic shadows. Use [COLOR PALETTE] with warm sunset tones, cool ice reflections, and bold product colors. Panel 1: Create a hero product shot. Center the [PRODUCT NAME] can standing upright on a textured concrete rooftop surface. Add realistic condensation droplets and small ice cubes around the base. Use a powerful low-angle camera view so the can looks bold, cold, fresh, and premium. Panel 2: Show the open-and-fizz moment. Create an extreme close-up of the can tab being opened, with crisp carbonation bubbles and mist rising from the opening. Use dramatic backlighting to highlight the fizz, droplets, and metallic edges. Panel 3: Create an ice-and-splash action shot. Show cola liquid splashing with ice cubes frozen mid-air around the can. Use a high-speed photography style with sharp droplets, cold reflections, and energetic motion while keeping the product clean and readable. Panel 4: Create a lifestyle rooftop scene. Show a young adult casually holding the can during a stylish rooftop hangout at sunset. Focus clearly on the can in hand, with friends and city lights softly blurred in the background. The mood should feel social, relaxed, fresh, and aspirational. Panel 5: Create a macro texture detail shot. Show an ultra-close view of the aluminum can surface, condensation beads, matte finish, tiny water droplets, and part of the bold logo typography. Use ultra-shallow depth of field and premium product-detail photography. Panel 6: Create the final brand beauty shot. Place the can centered against a bold color-block sunset gradient with subtle ice reflections and clean studio-style highlights. This panel should feel like the final campaign key visual: modern, eye-catching, polished, and memorable. Use a cinematic lens, realistic depth of field, balanced exposure, sharp product focus, highly detailed aluminum texture, realistic condensation, clear liquid splash, crisp ice cubes, and natural skin texture in the lifestyle panel. The image should look ultra-realistic, high-resolution, and premium, with no artificial plastic look. Do not add extra text overlays, slogans, random letters, fake labels, or watermarks. Text should appear only as part of the product packaging. Avoid flat soda, dented cans, warped can shapes, inconsistent packaging, wrong logos, messy backgrounds, overexposed highlights, plastic-looking liquid, fake ice, cartoon style, low-resolution details, blurry products, bad hands, extra fingers, distorted faces, random text, and cheap poster design.",
+    "prompt_ar": "أنشئ إعلان مشروب سينمائيًا فاخرًا بنسبة 16:9 مرتبًا كشبكة نظيفة 3×2 من ست لوحات متساوية. يجب أن يروج الإعلان لـ [PRODUCT NAME]، وهو مشروب غازي [BEVERAGE TYPE] داخل علبة ألمنيوم رفيعة بتصميم جرافيكي مطفي وجريء وتايبوجرافي حديث ونكهة كولا كلاسيكية منعشة بلمسة حمضيات. حافظ على تصميم العلبة والشعار والألوان ورسومات التغليف بشكل ثابت في اللوحات الست. يجب أن يبدو العمل كحملة عالمية راقية لمشروب غازي: نابض بالحيوية، أنيق، منعش، شبابي، حضري، نشيط، وفاخر. استخدم تصويرًا تجاريًا فائق الواقعية بتفاصيل حادة وإضاءة مصقولة وتكثف واقعي وثلج واضح ورذاذ سائل نظيف ولمسة إعلانية قوية. اجعل الحملة فوق سطح حضري حديث وقت الغروب الذهبي. استخدم سطحًا خرسانيًا بملمس واضح، وتدرج سماء غروب ناعم، وسيلويت مدينة بسيط، وضبابًا جويًا خفيفًا. يجب أن تمزج الإضاءة بين ضوء الغروب الدافئ ولمعات باردة عاكسة وإضاءة حواف واضحة على العلبة وظلال واقعية ناعمة. استخدم [COLOR PALETTE] مع درجات غروب دافئة وانعكاسات ثلج باردة وألوان المنتج الجريئة. اللوحة 1: لقطة بطل للمنتج، اجعل علبة [PRODUCT NAME] واقفة في المنتصف على سطح خرساني مع قطرات تكثف وثلج صغير حول القاعدة ومنظور منخفض قوي. اللوحة 2: لحظة الفتح والفوران، لقطة ماكرو لسان العلبة أثناء الفتح مع فقاعات ومِست مضيء. اللوحة 3: لقطة حركة للثلج والرذاذ، سائل كولا يتطاير مع مكعبات ثلج في الهواء بتصوير عالي السرعة. اللوحة 4: مشهد لايف ستايل فوق السطح، شاب يمسك العلبة أثناء تجمع أنيق وقت الغروب مع خلفية ناعمة. اللوحة 5: لقطة ماكرو لملمس العلبة، قطرات التكثف والسطح المطفي وجزء من التايبوجرافي. اللوحة 6: لقطة جمال نهائية للعلامة، العلبة في المنتصف أمام تدرج غروب قوي مع انعكاسات ثلج ولمعات استوديو نظيفة. استخدم عدسة سينمائية وعمق ميدان واقعي وتعريض متوازن وتركيز حاد على المنتج وخامة ألمنيوم عالية التفاصيل وتكثف واقعي ورذاذ سائل واضح وثلج حاد وملمس بشرة طبيعي في لوحة اللايف ستايل. يجب أن تبدو الصورة فائقة الواقعية وعالية الدقة وفاخرة بدون مظهر بلاستيكي. لا تضف نصوصًا خارجية أو شعارات أو حروفًا عشوائية أو ملصقات مزيفة أو علامات مائية. يجب أن يظهر النص فقط كجزء من التغليف. تجنب المشروب المسطح، العلب المنبعجة، تشوه شكل العلبة، التغليف غير المتسق، الشعارات الخاطئة، الخلفيات المزدحمة، الإضاءات المحروقة، السوائل البلاستيكية، الثلج المزيف، الأسلوب الكرتوني، التفاصيل منخفضة الدقة، المنتجات الضبابية، الأيدي السيئة، الأصابع الزائدة، الوجوه المشوهة، النصوص العشوائية، وتصميم البوستر الرخيص.",
+    "category": "Advertising",
+    "category_ar": "إعلان",
+    "style": "Cinematic Grid Campaign",
+    "style_ar": "حملة شبكية سينمائية",
+    "tags": [
+      "beverage",
+      "can",
+      "campaign"
+    ],
+    "tags_ar": [
+      "مشروب",
+      "علبة",
+      "حملة"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-010",
+    "title": "Fashion Portrait",
+    "title_ar": "بورتريه أزياء",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778107142/3_qwilms.jpg",
+    "description": "A clean modern fashion portrait of a young man in a minimalist studio with relaxed styling and strong negative space.",
+    "description_ar": "بورتريه أزياء عصري ونظيف لشاب داخل استوديو بسيط مع ستايل مريح ومساحة سلبية قوية.",
+    "prompt": "A highly detailed minimalist fashion portrait of a young man standing confidently in a spacious studio with a plain textured light-gray wall and polished concrete floor. He is wearing an oversized cream T-shirt with a small chest graphic, relaxed blue jeans, and clean white sneakers. His pose is casual and self-assured, with both hands in his pockets and a calm facial expression. The composition leaves wide negative space on one side, creating a clean editorial balance. The lighting is soft and natural, with subtle shadows that enhance the outfit and add depth while maintaining a simple, refined, contemporary aesthetic.",
+    "prompt_ar": "بورتريه أزياء بسيط عالي التفاصيل لشاب يقف بثقة داخل استوديو واسع بخلفية جدار رمادي فاتح ذي ملمس خفيف وأرضية خرسانية ناعمة. يرتدي تيشيرت أوفرسايز بلون كريمي مع رسم صغير على الصدر، وجينز أزرق بقصة مريحة، وحذاء رياضي أبيض نظيف. وضعية الوقوف عفوية وواثقة مع وضع اليدين داخل الجيوب وتعبير هادئ على الوجه. يترك التكوين مساحة فارغة واسعة على أحد الجوانب ليعطي توازنًا بصريًا أنيقًا شبيهًا بالتصوير التحريري. الإضاءة ناعمة وطبيعية مع ظلال خفيفة تبرز الملابس وتضيف عمقًا، مع الحفاظ على طابع بسيط وراقٍ ومعاصر.",
+    "category": "Fashion",
+    "category_ar": "أزياء",
+    "style": "Minimalist Portrait",
+    "style_ar": "بورتريه بسيط",
+    "tags": [
+      "fashion",
+      "portrait",
+      "man"
+    ],
+    "tags_ar": [
+      "أزياء",
+      "بورتريه",
+      "رجل"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-011",
+    "title": "Doodle Portrait",
+    "title_ar": "بورتريه دودل",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362776/17_maztfk.jpg",
+    "description": "A hand-drawn notebook doodle portrait using ink, colorful markers, handwritten notes, and energetic sketch details.",
+    "description_ar": "بورتريه دودل مرسوم على ورق دفتر باستخدام حبر وماركرات ملونة وملاحظات مكتوبة يدويًا وتفاصيل اسكتش حيوية.",
+    "prompt": "Use the user’s uploaded face photo as the exact facial reference. Preserve 100% of the user’s facial features, skin tone, hair texture, and beard. Match the exact head tilt, facial expression, eye proportions, nose shape, and mouth structure from the original photo. Create a hand-drawn doodle-style portrait on lined notebook paper, showing the subject from the waist up with crossed arms. The illustration should look like it was created using ink pens and colorful markers on real notebook paper with pale blue horizontal lines and a red vertical margin on the left side. Keep the subject’s curly hair, light beard, and warm smiling expression. Clothing should be [CLOTHING], highlighted with energetic yellow and red marker strokes. Use strong black ink outlines, cross-hatching shading, and expressive red and yellow marker accents creating a neon-like glow around the figure. Place the subject slightly toward the middle-right side of the page in a relaxed three-quarter pose with crossed arms and relaxed shoulders. Surround the character with playful doodles and handwritten annotations: speech bubbles, boxes, and hand-drawn notes containing [PROFESSION_KEYWORDS] written in loose red marker handwriting. Add arrows pointing toward the subject, small stars, lightning bolts, chat bubbles, and scattered sketch-style symbols across the page. In the upper-left corner, add a yellow highlighted box containing the handwritten phrase “WHAT NOW?” with a red question mark. Above the subject’s head, handwrite “[NAME_INITIALS]” in orange and red marker tones. Include visible paper grain, subtle ink smudges, marker bleed, and faint pencil construction lines at around 35% opacity underneath the drawing to keep the artwork energetic, sketchy, and slightly messy. Do not use realistic 3D lighting. Keep the lighting flat and illustrative, with marker strokes and sketch shading suggesting form naturally. Use a color palette of black, red, yellow, warm skin tones, pale blue notebook lines, and off-white paper. Add a small signature reading “[NAME]” in yellow and red. Avoid photorealistic skin texture, studio lighting, full-body composition, scenic backgrounds, perfect printed typography, excessive smoothing, unnatural facial changes, extra people, or watermarks.",
+    "prompt_ar": "استخدم صورة وجه المستخدم المرفوعة كمرجع دقيق للوجه. حافظ على 100% من ملامح الوجه ولون البشرة وملمس الشعر واللحية. طابق ميل الرأس وتعبير الوجه ونسب العينين وشكل الأنف وبنية الفم من الصورة الأصلية. أنشئ بورتريه بأسلوب دودل مرسوم يدويًا على ورق دفتر مسطر، يظهر الشخص من الخصر للأعلى مع ذراعين متقاطعين. يجب أن يبدو الرسم كأنه منفذ بأقلام حبر وماركرات ملونة على ورق دفتر حقيقي بخطوط أفقية زرقاء باهتة وهامش رأسي أحمر على اليسار. حافظ على الشعر الكيرلي واللحية الخفيفة والابتسامة الدافئة. يجب أن تكون الملابس [CLOTHING] مع إبرازها بضربات ماركر صفراء وحمراء نشيطة. استخدم حدود حبر سوداء قوية وتظليل كروس هاتشينج ولمسات ماركر حمراء وصفراء تعطي توهجًا نيون حول الشخصية. ضع الشخصية قليلًا ناحية منتصف يمين الصفحة في وضعية ثلاثة أرباع مريحة مع ذراعين متقاطعين وكتفين مسترخيين. أحط الشخصية بدودلز مرحة وتعليقات مكتوبة يدويًا: فقاعات كلام وصناديق وملاحظات مرسومة تحتوي على [PROFESSION_KEYWORDS] مكتوبة بخط ماركر أحمر حر. أضف أسهمًا تشير إلى الشخصية ونجومًا صغيرة وبرقًا وفقاعات دردشة ورموزًا اسكتش متناثرة على الصفحة. في الركن العلوي الأيسر، أضف صندوقًا مظللًا بالأصفر يحتوي على العبارة المكتوبة يدويًا “WHAT NOW?” مع علامة استفهام حمراء. فوق رأس الشخصية، اكتب “[NAME_INITIALS]” بدرجات ماركر برتقالية وحمراء. أضف ملمس ورق واضحًا ولطخات حبر خفيفة ونزف ماركر وخطوط بناء بالقلم الرصاص بنسبة ظهور حوالي 35% أسفل الرسم ليبقى العمل نشيطًا واسكتشيًا وفوضويًا قليلًا. لا تستخدم إضاءة ثلاثية الأبعاد واقعية. اجعل الإضاءة مسطحة وتوضيحية، مع ضربات الماركر وتظليل الاسكتش لإظهار الشكل طبيعيًا. استخدم لوحة ألوان من الأسود والأحمر والأصفر ودرجات بشرة دافئة وخطوط دفتر زرقاء باهتة وورق أوف وايت. أضف توقيعًا صغيرًا مكتوبًا “[NAME]” بالأصفر والأحمر. تجنب ملمس البشرة الفوتورياليستي، إضاءة الاستوديو، تكوين الجسم الكامل، الخلفيات الطبيعية، الطباعة المثالية، التنعيم الزائد، تغييرات الوجه غير الطبيعية، أشخاص إضافيين، أو العلامات المائية.",
+    "category": "Illustration",
+    "category_ar": "رسم توضيحي",
+    "style": "Notebook Doodle",
+    "style_ar": "دودل دفتر",
+    "tags": [
+      "doodle",
+      "portrait",
+      "notebook"
+    ],
+    "tags_ar": [
+      "دودل",
+      "بورتريه",
+      "دفتر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-012",
+    "title": "Tea Phone",
+    "title_ar": "هاتف الشاي",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778281754/9_nhye3c.jpg",
-    "description": "A surreal hyper-realistic image of a man inside a smartphone pouring hot tea from the digital screen into a real-world ceramic cup below.",
-    "description_ar": "صورة سريالية فائقة الواقعية لرجل داخل شاشة هاتف يسكب شايًا ساخنًا من العالم الرقمي إلى كوب حقيقي في العالم الواقعي.",
+    "description": "A surreal hyper-realistic image of tea being poured from inside a smartphone screen into a real-world cup below.",
+    "description_ar": "صورة سريالية فائقة الواقعية لشاي ينسكب من داخل شاشة هاتف إلى كوب حقيقي أسفلها.",
     "prompt": "A surreal, hyper-realistic scene of a human hand holding a modern smartphone against a dark, moody background. Inside the phone screen, a young man with short styled hair and light beard, wearing a casual green jacket, is leaning forward and pouring hot tea from a metallic kettle. The tea flows seamlessly out of the phone screen into a white ceramic cup placed below in the real world. Steam rises naturally from the cup, blending realism with fantasy. The composition merges digital and physical worlds, with dramatic studio lighting, soft shadows, high detail, cinematic depth of field, and ultra-realistic textures. Include subtle elements like fresh ginger, cardamom, and green leaves on a wooden surface near the cup to enhance atmosphere. Style keywords: hyper-realistic, surrealism, photorealistic, cinematic lighting, 8K, depth of field, ultra-detailed, fantasy realism, moody background. Camera and lighting: 85mm lens, shallow depth of field, soft studio lighting, rim light on subject, high contrast, dark backdrop.",
     "prompt_ar": "مشهد سريالي فائق الواقعية ليد بشرية تمسك هاتفًا ذكيًا حديثًا أمام خلفية داكنة ومزاجية. داخل شاشة الهاتف، يظهر شاب بشعر قصير مصفف ولحية خفيفة، يرتدي جاكيت أخضر كاجوال، ويميل للأمام وهو يسكب الشاي الساخن من إبريق معدني. يخرج الشاي بسلاسة من شاشة الهاتف لينساب داخل كوب سيراميك أبيض موجود أسفل الهاتف في العالم الحقيقي. يتصاعد البخار طبيعيًا من الكوب، ليمزج المشهد بين الواقعية والخيال. يدمج التكوين بين العالم الرقمي والعالم المادي، مع إضاءة استوديو درامية وظلال ناعمة وتفاصيل عالية وعمق ميدان سينمائي وخامات فائقة الواقعية. أضف عناصر خفيفة مثل زنجبيل طازج وحبهان وأوراق خضراء على سطح خشبي بالقرب من الكوب لتعزيز الجو العام. كلمات الأسلوب: واقعية مفرطة، سريالية، فوتورياليزم، إضاءة سينمائية، 8K، عمق ميدان، تفاصيل فائقة، واقعية خيالية، خلفية داكنة. الكاميرا والإضاءة: عدسة 85mm، عمق ميدان ضحل، إضاءة استوديو ناعمة، إضاءة حواف على العنصر الرئيسي، تباين عالٍ، خلفية داكنة.",
     "category": "Surrealism",
@@ -252,96 +336,96 @@
     ]
   },
   {
-    "id": "prompt-010",
-    "title": "Tiny Chef on Bread Roll",
-    "title_ar": "شيف صغير فوق قطعة خبز",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778281755/10_hpdjzm.jpg",
-    "description": "A cinematic hyper-realistic scene of a tiny chef jumping on a bread roll while trying to dip it into a giant cup of hot chocolate inside a traditional Mexican kitchen.",
-    "description_ar": "مشهد سينمائي فائق الواقعية لشيف صغير يقفز فوق قطعة خبز ويحاول غمسها داخل كوب ضخم من الشوكولاتة الساخنة داخل مطبخ مكسيكي تقليدي.",
-    "prompt": "Create a cinematic, hyper-realistic image, ultra-detailed in the textures of skin, hair, metal, rock, wood, and fabric, 8K Full HD using my reference image. I am dressed as a chef and appear as a tiny person, jumping on top of a bread roll shell while trying to dip it into a huge cup of hot chocolate. The setting is a typical Mexican kitchen. Extreme photorealism, dramatic side lighting, deep shadows, ultra-detailed textures. Desaturated earthy color palette, cinematic high-ISO grain, subtle light leaks, grunge aesthetic, shallow depth of field. Epic vintage sci-fi movie style.",
-    "prompt_ar": "أنشئ صورة سينمائية فائقة الواقعية بتفاصيل دقيقة جدًا في خامات البشرة والشعر والمعدن والصخور والخشب والقماش، بجودة 8K Full HD باستخدام صورتي المرجعية. أظهرني مرتديًا زي شيف كشخص صغير جدًا، أقفز فوق قطعة خبز وأحاول غمسها داخل كوب ضخم من الشوكولاتة الساخنة. تدور الأحداث داخل مطبخ مكسيكي تقليدي. واقعية فوتوغرافية شديدة، إضاءة جانبية درامية، ظلال عميقة، خامات فائقة التفاصيل، لوحة ألوان ترابية منخفضة التشبع، حبيبات سينمائية عالية ISO، تسربات ضوء خفيفة، جمالية جرانج، وعمق ميدان ضحل. الأسلوب العام ملحمي كفيلم خيال علمي قديم.",
-    "category": "Cinematic",
-    "category_ar": "سينمائي",
-    "style": "Hyper-realistic Sci-Fi",
-    "style_ar": "خيال علمي فائق الواقعية",
-    "tags": [
-      "chef",
-      "bread",
-      "chocolate"
-    ],
-    "tags_ar": [
-      "شيف",
-      "خبز",
-      "شوكولاتة"
-    ],
-    "suggestedTools": [
-      "1",
-      "242"
-    ]
-  },
-  {
-    "id": "prompt-011",
-    "title": "Deep Sea Eldritch Monster Sheet",
-    "title_ar": "ورقة تصميم وحش إلدريتش من الأعماق",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330502/11_cjc0ei.jpg",
-    "description": "A dark fantasy creature design sheet showing a deep sea eldritch monster from side and three-quarter views, with slimy skin, multiple eyes, tentacles, and bioluminescent organs.",
-    "description_ar": "ورقة تصميم مخلوق فانتازيا مظلمة تعرض وحش إلدريتش من أعماق البحر من زاوية جانبية وثلاثة أرباع، بجلد لزج وعيون متعددة ومجسات وأعضاء مضيئة حيويًا.",
-    "prompt": "Create a Dark Fantasy Creature Design Sheet featuring a Deep Sea Eldritch Monster. Composition: side profile view showing spine and posture, plus a 3/4 view to reveal form, silhouette, and anatomy. Features: slimy skin, multiple eyes, tentacle appendages, strange deep-sea body structure, bioluminescent organs, wet reflective surfaces, sharp organic details, and unsettling asymmetry. Style: digital painting style, similar to Dark Souls or Bloodborne concept art, gloomy and oppressive atmosphere, dramatic shadows, muted colors, high detail, horror fantasy mood, professional creature concept art presentation.",
-    "prompt_ar": "أنشئ ورقة تصميم مخلوق فانتازيا مظلمة لوحش إلدريتش من أعماق البحر. التكوين: عرض جانبي يوضح العمود الفقري ووضعية الجسم، مع عرض بزاوية ثلاثة أرباع لإظهار الشكل العام والهيئة والتشريح. المميزات: جلد لزج، عيون متعددة، أطراف مجسية، بنية جسدية غريبة مستوحاة من أعماق البحر، أعضاء مضيئة حيويًا، أسطح رطبة عاكسة، تفاصيل عضوية حادة، ولا تماثل مزعج. الأسلوب: رسم رقمي مشابه لأعمال الكونسبت آرت في أجواء Dark Souls أو Bloodborne، جو كئيب وضاغط، ظلال درامية، ألوان مكتومة، تفاصيل عالية، إحساس رعب فانتازي، وعرض احترافي لتصميم مخلوق.",
-    "category": "Creature Design",
-    "category_ar": "تصميم مخلوقات",
-    "style": "Dark Fantasy Concept Art",
-    "style_ar": "كونسبت آرت فانتازيا مظلمة",
-    "tags": [
-      "monster",
-      "eldritch",
-      "creature"
-    ],
-    "tags_ar": [
-      "وحش",
-      "إلدريتش",
-      "مخلوق"
-    ],
-    "suggestedTools": [
-      "1",
-      "242"
-    ]
-  },
-  {
-    "id": "prompt-012",
-    "title": "Cute Article Infographic",
-    "title_ar": "إنفوجرافيك مقالة كرتوني لطيف",
-    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330501/12_lqbxuo.jpg",
-    "description": "A cute cartoon-style infographic that translates article content into English, extracts the key information, and presents only the main title with rich characters and playful visual elements.",
-    "description_ar": "إنفوجرافيك لطيف بأسلوب كرتوني يترجم محتوى المقالة إلى الإنجليزية، يستخرج أهم المعلومات، ويعرض العنوان الرئيسي فقط مع شخصيات وعناصر مرحة وغنية.",
-    "prompt": "Generate an infographic for the provided article content. Requirements: translate the content into English and extract the key information from the article. Keep the content in the image concise, only retaining the main title. Use English text in the image. Add rich and cute cartoon characters and elements that visually support the topic. Use a clean infographic layout with a strong main headline, playful illustrated characters, colorful supporting icons, soft rounded shapes, clear visual hierarchy, friendly composition, and a polished educational style. The final design should feel cute, readable, modern, and suitable for sharing on social media.",
-    "prompt_ar": "أنشئ إنفوجرافيك لمحتوى المقالة المقدمة. المتطلبات: ترجم المحتوى إلى الإنجليزية واستخرج أهم المعلومات من المقالة. اجعل المحتوى داخل الصورة مختصرًا جدًا، مع الاحتفاظ بالعنوان الرئيسي فقط. استخدم نصًا باللغة الإنجليزية داخل الصورة. أضف شخصيات كرتونية لطيفة وغنية وعناصر مرئية تدعم موضوع المقالة. استخدم تخطيط إنفوجرافيك نظيفًا مع عنوان رئيسي قوي، وشخصيات مرسومة مرحة، وأيقونات داعمة ملونة، وأشكال ناعمة بحواف مستديرة، وتسلسل بصري واضح، وتكوين ودود، وأسلوب تعليمي مصقول. يجب أن يبدو التصميم النهائي لطيفًا وسهل القراءة وعصريًا ومناسبًا للمشاركة على وسائل التواصل الاجتماعي.",
-    "category": "Infographic",
-    "category_ar": "إنفوجرافيك",
-    "style": "Cute Cartoon Infographic",
-    "style_ar": "إنفوجرافيك كرتوني لطيف",
-    "tags": [
-      "infographic",
-      "article",
-      "cartoon"
-    ],
-    "tags_ar": [
-      "إنفوجرافيك",
-      "مقالة",
-      "كرتون"
-    ],
-    "suggestedTools": [
-      "1",
-      "242"
-    ]
-  },
-  {
     "id": "prompt-013",
-    "title": "X Post Frame 3D Portrait",
-    "title_ar": "بورتريه ثلاثي الأبعاد داخل منشور X",
+    "title": "Earbuds Ad",
+    "title_ar": "إعلان سماعات",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778279952/7_t5mdoy.jpg",
+    "description": "A premium e-commerce infographic for wireless earbuds with clean product hierarchy, feature callouts, and polished tech advertising style.",
+    "description_ar": "إنفوجرافيك متجر إلكتروني فاخر لسماعات لاسلكية مع ترتيب منتج واضح ونقاط مميزات وأسلوب إعلاني تقني مصقول.",
+    "prompt": "Create a high-impact e-commerce infographic for {argument name=\"product name\" default=\"Bolt True Wireless Earbuds\"} with a premium lifestyle advertising aesthetic. Composition & Framing: place the product as the main hero element in the center with clean spacing, strong hierarchy, and a polished commercial layout. Show the earbuds and charging case in sharp focus with realistic reflections, glossy highlights, and premium material texture. Add elegant feature callouts around the product such as long battery life, deep bass, noise reduction, Bluetooth connectivity, compact charging case, and comfortable fit. Use a modern background with soft gradients, subtle depth, floating UI cards, and clean product shadows. The design should feel like a professional marketplace listing image, optimized for conversion, with bold visual impact, clear product benefits, high-end lighting, crisp details, and a premium tech lifestyle mood.",
+    "prompt_ar": "أنشئ إنفوجرافيك قوي لمتجر إلكتروني لمنتج {argument name=\"product name\" default=\"Bolt True Wireless Earbuds\"} بأسلوب إعلاني فاخر يجمع بين التقنية واللايف ستايل. التكوين والإطار: اجعل المنتج هو العنصر الرئيسي في منتصف التصميم مع مساحات نظيفة وتسلسل بصري واضح وتخطيط تجاري احترافي. اعرض السماعات وعلبة الشحن بتركيز حاد مع انعكاسات واقعية ولمعات أنيقة وخامات فاخرة. أضف نقاط مميزات حول المنتج مثل عمر بطارية طويل، صوت جهير عميق، تقليل الضوضاء، اتصال بلوتوث، علبة شحن مدمجة، وراحة في الاستخدام. استخدم خلفية عصرية بتدرجات ناعمة وعمق خفيف وبطاقات معلومات عائمة وظلال نظيفة للمنتج. يجب أن يبدو التصميم كصورة احترافية لقائمة متجر إلكتروني، مهيأة لزيادة الاهتمام والشراء، مع تأثير بصري قوي ومميزات واضحة وإضاءة فاخرة وتفاصيل حادة وإحساس تقني عصري.",
+    "category": "Advertising",
+    "category_ar": "إعلان",
+    "style": "E-commerce Infographic",
+    "style_ar": "إنفوجرافيك متجر إلكتروني",
+    "tags": [
+      "earbuds",
+      "infographic",
+      "e-commerce"
+    ],
+    "tags_ar": [
+      "سماعات",
+      "إنفوجرافيك",
+      "متجر إلكتروني"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-014",
+    "title": "Kite Boy",
+    "title_ar": "ولد وطائرة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778099239/1_rmedaz.jpg",
+    "description": "A sketch-style emotional illustration of a young boy running on a windy beach while flying a kite with a peaceful sense of freedom.",
+    "description_ar": "رسم عاطفي بأسلوب اسكتش لطفل صغير يركض على شاطئ عاصف وهو يطير طائرة ورقية بإحساس هادئ بالحرية.",
+    "prompt": "A highly detailed, emotional sketch-style illustration of a young boy flying a kite on a windy beach. The scene captures a deep sense of joy and freedom, with fine linework emphasizing the movement of the kite soaring in the air and the boy’s laughter as he runs. The illustration uses soft shading and delicate pencil-like strokes to bring out intricate textures and subtle movement throughout the composition. The background features a softly lit natural beach environment with waves, sand, dunes, and expressive clouds, harmonizing with the central subject and enhancing the peaceful atmosphere. Every detail, from the gentle play of light and shadow to the wind flowing through the scene, is rendered thoughtfully to create a visual narrative that feels both intimate and expansive.",
+    "prompt_ar": "رسم توضيحي عالي التفاصيل بأسلوب اسكتش عاطفي لطفل صغير يطير طائرة ورقية على شاطئ عاصف. ينقل المشهد إحساسًا عميقًا بالفرح والحرية، مع خطوط دقيقة تبرز حركة الطائرة الورقية في السماء وضحكة الطفل أثناء ركضه. يستخدم الرسم تظليلًا ناعمًا ولمسات تشبه القلم الرصاص لإظهار الخامات الدقيقة والحركة الخفيفة داخل التكوين. تتضمن الخلفية بيئة شاطئية طبيعية بإضاءة هادئة مع أمواج ورمال وكثبان وسحب معبرة، بما ينسجم مع العنصر الأساسي ويعزز الجو الهادئ. تم تنفيذ كل تفصيلة بعناية، من تلاعب الضوء والظل إلى تأثير الرياح في المشهد، لصنع سرد بصري يبدو حميميًا وواسعًا في الوقت نفسه.",
+    "category": "Illustration",
+    "category_ar": "رسم توضيحي",
+    "style": "Sketch",
+    "style_ar": "اسكتش",
+    "tags": [
+      "boy",
+      "kite",
+      "beach"
+    ],
+    "tags_ar": [
+      "طفل",
+      "طائرة ورقية",
+      "شاطئ"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-015",
+    "title": "Sensory Grid",
+    "title_ar": "شبكة حسية",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362774/16_u3dy5l.jpg",
+    "description": "A premium 3×3 marketing visual that preserves product identity while exploring rich sensory textures across nine polished panels.",
+    "description_ar": "تصميم تسويقي فاخر بشبكة 3×3 يحافظ على هوية المنتج ويستعرض خامات حسية غنية عبر تسع لوحات مصقولة.",
+    "prompt": "Create a premium marketing visual arranged as a 3×3 grid with 9 cells in a single 1:1 square composition. Use a clean, seamless studio backdrop and place the uploaded product image at the center of the concept. The product must remain completely accurate throughout all panels: keep its shape, label, colors, and packaging exactly the same, with no distortion or redesign. Use clean, soft studio lighting with soft diffused shadows and controlled glossy beauty highlights. The overall style should match [CAMPAIGN MOOD] and feel hyper-real, ultra-high-resolution, and commercial-grade. In the top-left cell, create a hero shot based on [SENSORY THEME], styling the product as the centerpiece surrounded by elevated [SENSORY THEME] elements, rich textures, and luxurious plating. In the top-center cell, create an extreme macro scene inspired by [SENSORY THEME], showing glossy liquid dripping around or near the product with high-viscosity detail and a rich sensory shine. In the top-right cell, show soft sculptural [SENSORY THEME]-textured forms gently embracing the product, with airy texture and elegant curves. In the middle-left cell, create a warm toasted or heated [SENSORY THEME] surface with a melting texture interacting with the product, using rich golden tones. In the center cell, arrange abstract sculptural [SENSORY THEME] textures like a modern art piece, placing the product as the premium centerpiece. In the middle-right cell, show high-speed captured [SENSORY THEME] splashes and fragments suspended mid-air around the product, creating dynamic motion and visual energy. In the bottom-left cell, create a glossy [SENSORY THEME] aesthetic with vibrant textures and a playful yet premium composition. In the bottom-center cell, create an extreme close-up of [SENSORY THEME] ingredient textures with shallow depth of field, while keeping the product in sharp focus. In the bottom-right cell, create a surreal still life composition that fuses [SENSORY THEME] elements in an unexpected but refined way, while keeping the product visually dominant. The final image should feel luxurious, polished, sensory, modern, and highly commercial, with every panel offering a unique creative interpretation of [SENSORY THEME] while preserving the exact product identity.",
+    "prompt_ar": "أنشئ تصميمًا تسويقيًا فاخرًا مرتبًا كشبكة 3×3 من 9 خلايا داخل تكوين مربع واحد بنسبة 1:1. استخدم خلفية استوديو نظيفة وسلسة وضع صورة المنتج المرفوعة في مركز الفكرة. يجب أن يبقى المنتج دقيقًا تمامًا في كل اللوحات: حافظ على شكله وملصقه وألوانه وتغليفه كما هي بالضبط بدون تشويه أو إعادة تصميم. استخدم إضاءة استوديو ناعمة ونظيفة مع ظلال منتشرة ولمعات جمالية لامعة ومحكومة. يجب أن يطابق الأسلوب العام [CAMPAIGN MOOD] ويبدو فائق الواقعية وعالي الدقة وتجاريًا. في الخلية العلوية اليسرى، أنشئ لقطة بطل مبنية على [SENSORY THEME] واجعل المنتج في المنتصف محاطًا بعناصر راقية من [SENSORY THEME] وخامات غنية وتقديم فاخر. في الخلية العلوية الوسطى، أنشئ مشهد ماكرو شديد القرب مستوحى من [SENSORY THEME] يظهر سائلًا لامعًا يقطر حول المنتج أو بالقرب منه بتفاصيل لزوجة عالية ولمعان حسي غني. في الخلية العلوية اليمنى، اعرض أشكالًا نحتية ناعمة بملمس [SENSORY THEME] تحتضن المنتج بلطف مع ملمس هوائي ومنحنيات أنيقة. في الخلية الوسطى اليسرى، أنشئ سطحًا دافئًا محمصًا أو ساخنًا من [SENSORY THEME] بملمس ذائب يتفاعل مع المنتج بدرجات ذهبية غنية. في الخلية المركزية، رتب خامات نحتية مجردة من [SENSORY THEME] كقطعة فن حديث، مع المنتج كعنصر فاخر في المنتصف. في الخلية الوسطى اليمنى، اعرض رذاذًا وشظايا من [SENSORY THEME] ملتقطة بسرعة عالية ومعلقة في الهواء حول المنتج لصنع حركة وطاقة بصرية. في الخلية السفلية اليسرى، أنشئ جمالية لامعة من [SENSORY THEME] بخامات نابضة وتكوين مرح لكنه فاخر. في الخلية السفلية الوسطى، أنشئ لقطة قريبة جدًا لخامات مكونات [SENSORY THEME] بعمق ميدان ضحل مع الحفاظ على المنتج بتركيز حاد. في الخلية السفلية اليمنى، أنشئ تكوين ستيل لايف سريالي يدمج عناصر [SENSORY THEME] بطريقة غير متوقعة لكن راقية مع بقاء المنتج مهيمنًا بصريًا. النتيجة النهائية يجب أن تبدو فاخرة ومصقولة وحسية وحديثة وتجارية للغاية، وكل لوحة تقدم تفسيرًا إبداعيًا مختلفًا لـ [SENSORY THEME] مع الحفاظ على هوية المنتج بالضبط.",
+    "category": "Advertising",
+    "category_ar": "إعلان",
+    "style": "Premium Product Grid",
+    "style_ar": "شبكة منتج فاخرة",
+    "tags": [
+      "product",
+      "grid",
+      "sensory"
+    ],
+    "tags_ar": [
+      "منتج",
+      "شبكة",
+      "حسي"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-016",
+    "title": "X Frame",
+    "title_ar": "إطار X",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330502/13_rb2get.jpg",
-    "description": "A hyper-realistic 3D illusion portrait of a person stepping out of a giant X post frame, with bold blue-cyan background energy and cinematic lighting.",
-    "description_ar": "بورتريه فائق الواقعية بخداع بصري ثلاثي الأبعاد لشخص يخرج من إطار منشور ضخم بأسلوب X، مع خلفية زرقاء وسماوية جريئة وإضاءة سينمائية.",
+    "description": "A hyper-realistic 3D illusion portrait of a person stepping out of a giant X post frame with bold blue-cyan energy.",
+    "description_ar": "بورتريه فائق الواقعية بخداع بصري ثلاثي الأبعاد لشخص يخرج من إطار منشور X ضخم بطاقة زرقاء وسماوية جريئة.",
     "prompt": "A hyper-realistic portrait of the uploaded person inside a giant X, formerly Twitter, post frame that dominates the scene. Their face remains the same, sharp and untouched, wearing stylish sunglasses and sleek shoes, exuding bold charisma. Their relaxed pose shows their right elbow resting on their knee, left arm casual, and one leg stepping out of the X frame in a 3D illusion. The X frame is highly realistic with username GoogleGeminiPrompts, verified checkmark, display name \"DemoName\", caption: \"Too real to stay inside the frame #AlCreation #GoogleGeminiPrompts\", and authentic X-style icons. The background is designed for boldness and energy: deep cobalt blue blending into cyan, with subtle light streaks enhancing the dynamic feel. Clean, cinematic lighting highlights their clothing textures and the 3D illusion, making them the viral centerpiece.",
     "prompt_ar": "بورتريه فائق الواقعية للشخص المرفوع داخل إطار منشور ضخم بأسلوب X، تويتر سابقًا، يسيطر على المشهد. يجب أن يظل الوجه كما هو تمامًا، واضحًا وحادًا وبدون تغيير، مع نظارة شمسية أنيقة وحذاء أنيق، وإحساس قوي بالكاريزما. تكون الوضعية مريحة، حيث يستند الكوع الأيمن على الركبة، والذراع اليسرى بوضعية عفوية، مع ساق واحدة تخرج من إطار X بخداع بصري ثلاثي الأبعاد. يكون إطار X واقعيًا جدًا ويحتوي على اسم المستخدم GoogleGeminiPrompts، وعلامة توثيق، واسم العرض \"DemoName\"، والتعليق: \"Too real to stay inside the frame #AlCreation #GoogleGeminiPrompts\"، وأيقونات أصلية بأسلوب X. الخلفية مصممة لتكون جريئة ومليئة بالطاقة: أزرق كوبالت عميق يمتزج مع السماوي، مع خطوط ضوء خفيفة تعزز الإحساس الديناميكي. إضاءة سينمائية نظيفة تبرز خامات الملابس والخداع البصري ثلاثي الأبعاد، ليصبح الشخص محورًا بصريًا قويًا وكأنه صورة فيروسية.",
     "category": "Portrait",
@@ -357,6 +441,146 @@
       "بورتريه",
       "منشور اجتماعي",
       "خداع ثلاثي الأبعاد"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-017",
+    "title": "Handbag Grid",
+    "title_ar": "شبكة حقيبة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362776/20_vt69ip.jpg",
+    "description": "A luxury leather handbag campaign arranged as a 3×2 grid with hero, texture, hardware, lifestyle, interior, and evening panels.",
+    "description_ar": "حملة حقيبة جلدية فاخرة مرتبة كشبكة 3×2 تضم لقطات بطل وملمس وهاردوير ولايف ستايل وداخلية ومشهد مسائي.",
+    "prompt": "Create an elegant luxury fashion advertisement arranged as a clean 3×2 grid with six equal panels in a 3:2 landscape format. The campaign should showcase the [BRAND NAME] luxury leather handbag, emphasizing craftsmanship, premium materials, timeless sophistication, and refined everyday style. The overall visual direction should feel like a high-end luxury fashion campaign with editorial photography, minimalist styling, rich realism, and timeless elegance. Use a refined [LEATHER PALETTE] color palette throughout the composition, with balanced lighting, warm highlights, and soft sculpting shadows. Panel 1 — Hero Bag Design: Create a studio hero shot of the [BRAND NAME] handbag standing upright as the centerpiece. Use soft studio lighting with gentle highlights that emphasize the silhouette, leather grain, and subtle logo embossing. The mood should feel luxurious, confident, and crafted with precision. Panel 2 — Leather Texture Detail: Create an ultra-close macro shot focusing on the handbag’s natural leather grain and stitching craftsmanship. Use an ultra-shallow depth of field with highly tactile detail and premium texture clarity. The image should communicate artisan quality and meticulous attention to detail. Panel 3 — Hardware & Finish: Show a refined close-up of the handbag’s metal hardware, zipper, clasp, or buckle details. Use carefully controlled highlights on the metallic surfaces to create a sense of durability, refinement, and premium finishing. Panel 4 — Everyday Elegance: Create a sophisticated lifestyle scene inspired by [STYLE WORLD], showing the handbag naturally integrated into modern daily life. Use natural daylight and an elegant environment that reflects effortless style, contemporary luxury, and confident femininity. Panel 5 — Interior Functionality: Show the handbag open, revealing beautifully organized interior compartments and premium lining textures. Focus on functionality, organization, craftsmanship, and practical luxury while maintaining a clean editorial aesthetic. Panel 6 — Evening Sophistication: Create a cinematic luxury evening scene inspired by [STYLE WORLD], featuring the handbag in a refined high-fashion atmosphere. Use warm cinematic lighting and elegant composition to create a timeless, sophisticated, iconic feeling. Use professional fashion and product photography styling throughout the campaign, mixing hero product shots, macro craftsmanship details, and elegant lifestyle scenes. Lighting should combine soft studio illumination with natural daylight for a premium editorial finish. The final result should feel elegant, refined, luxurious, modern, confident, and timeless — like a global luxury fashion campaign for a premium handbag brand. Avoid cheap faux-leather appearance, uneven stitching, overly glossy materials, cluttered compositions, unreadable branding, harsh lighting, CGI/cartoon aesthetics, oversaturated colors, watermarks, or text overlays.",
+    "prompt_ar": "أنشئ إعلان أزياء فاخرًا وأنيقًا مرتبًا كشبكة نظيفة 3×2 من ست لوحات متساوية بتنسيق أفقي 3:2. يجب أن تعرض الحملة حقيبة الجلد الفاخرة [BRAND NAME] مع التركيز على الحرفية والخامات الراقية والأناقة الخالدة والأسلوب اليومي الراقي. يجب أن يبدو الاتجاه البصري العام كحملة أزياء فاخرة عالية المستوى بتصوير تحريري وتنسيق مينيمال وواقعية غنية وأناقة خالدة. استخدم لوحة ألوان جلدية راقية [LEATHER PALETTE] في التكوين بالكامل، مع إضاءة متوازنة ولمعات دافئة وظلال ناعمة تنحت الشكل. اللوحة 1 — تصميم الحقيبة البطل: أنشئ لقطة استوديو للحقيبة [BRAND NAME] واقفة كعنصر رئيسي، بإضاءة استوديو ناعمة ولمعات لطيفة تبرز السيلويت وملمس الجلد والنقش الخفيف للشعار. اللوحة 2 — تفاصيل ملمس الجلد: أنشئ لقطة ماكرو قريبة جدًا تركز على حبيبات الجلد الطبيعية وحرفية الخياطة، مع عمق ميدان ضحل جدًا وتفاصيل ملمسية واضحة وفاخرة. اللوحة 3 — الهاردوير والتشطيب: اعرض لقطة قريبة راقية لتفاصيل المعدن أو السحاب أو المشبك أو الإبزيم، مع لمعات محكومة على السطح المعدني لإحساس بالمتانة والرقي والتشطيب الفاخر. اللوحة 4 — أناقة يومية: أنشئ مشهد لايف ستايل راقيًا مستوحى من [STYLE WORLD] تظهر فيه الحقيبة مندمجة طبيعيًا في حياة عصرية، مع ضوء نهاري وبيئة أنيقة تعكس ستايلًا effortless وفخامة معاصرة وأنوثة واثقة. اللوحة 5 — الوظيفة الداخلية: اعرض الحقيبة مفتوحة لتكشف عن أقسام داخلية منظمة وبطانة فاخرة، مع التركيز على الوظيفة والتنظيم والحرفية والعملية الفاخرة مع جمالية تحريرية نظيفة. اللوحة 6 — رقي مسائي: أنشئ مشهدًا مسائيًا سينمائيًا فاخرًا مستوحى من [STYLE WORLD] تظهر فيه الحقيبة داخل أجواء أزياء راقية، بإضاءة دافئة وتكوين أنيق يصنع إحساسًا خالدًا وراقيًا وأيقونيًا. استخدم تنسيق تصوير أزياء ومنتجات احترافي طوال الحملة، مع مزج لقطات المنتج البطل وتفاصيل الحرفة الماكرو ومشاهد لايف ستايل أنيقة. يجب أن تمزج الإضاءة بين إضاءة استوديو ناعمة وضوء نهاري طبيعي للحصول على لمسة تحريرية فاخرة. النتيجة النهائية يجب أن تكون أنيقة وراقية وفاخرة وحديثة وواثقة وخالدة مثل حملة عالمية لعلامة حقائب فاخرة. تجنب مظهر الجلد الصناعي الرخيص، الخياطة غير المتساوية، اللمعان المبالغ، التكوينات المزدحمة، العلامات غير المقروءة، الإضاءة القاسية، مظهر CGI أو الكرتون، الألوان المبالغ فيها، العلامات المائية، أو النصوص الخارجية.",
+    "category": "Advertising",
+    "category_ar": "إعلان",
+    "style": "Luxury Fashion Grid",
+    "style_ar": "شبكة أزياء فاخرة",
+    "tags": [
+      "handbag",
+      "luxury",
+      "fashion"
+    ],
+    "tags_ar": [
+      "حقيبة",
+      "فاخر",
+      "أزياء"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-018",
+    "title": "Urban Walk",
+    "title_ar": "مشية حضرية",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/4_rnxsed.jpg",
+    "description": "A stylish outdoor fashion portrait of a confident young man walking in front of a modern glass building.",
+    "description_ar": "بورتريه أزياء خارجي أنيق لشاب واثق يسير أمام مبنى زجاجي حديث.",
+    "prompt": "A highly detailed urban fashion portrait of a confident young man walking along a modern city sidewalk in front of a sleek glass-and-steel office building. He is dressed in a fitted dark navy button-up shirt, light gray tailored trousers, black loafers, and stylish sunglasses, creating a clean smart-casual look. His pose is natural and self-assured, captured mid-step with one hand adjusting his sleeve. The scene includes reflective glass panels, strong architectural lines, and soft daylight that creates a polished editorial feel. The composition emphasizes elegance, confidence, and contemporary city style, with a realistic photographic finish and crisp detail throughout.",
+    "prompt_ar": "بورتريه أزياء حضري عالي التفاصيل لشاب واثق يسير على رصيف مدينة حديث أمام مبنى مكاتب أنيق من الزجاج والفولاذ. يرتدي قميصًا كحليًا داكنًا بقصة مناسبة، وبنطالًا رماديًا فاتحًا مفصلًا، وحذاء لوفر أسود، ونظارة شمسية عصرية، ليمنح إطلالة سمارت كاجوال أنيقة. تبدو وضعيته طبيعية وواثقة أثناء المشي، مع حركة بسيطة لليد وكأنه يعدل كم القميص. يتضمن المشهد واجهات زجاجية عاكسة وخطوطًا معمارية قوية وإضاءة نهارية ناعمة تمنح الصورة طابعًا تحريريًا احترافيًا. يركز التكوين على الأناقة والثقة والأسلوب المدني المعاصر، مع لمسة فوتوغرافية واقعية وتفاصيل حادة في جميع العناصر.",
+    "category": "Fashion",
+    "category_ar": "أزياء",
+    "style": "Urban Editorial Photography",
+    "style_ar": "تصوير تحريري حضري",
+    "tags": [
+      "fashion",
+      "man",
+      "urban"
+    ],
+    "tags_ar": [
+      "أزياء",
+      "رجل",
+      "حضري"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-019",
+    "title": "Facebook Portal",
+    "title_ar": "بوابة فيسبوك",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778280557/8_eh2niq.jpg",
+    "description": "A cinematic 3D chibi scene of a tiny character emerging from a smartphone social media portal while a realistic hand pulls them back.",
+    "description_ar": "مشهد تشيبي ثلاثي الأبعاد سينمائي لشخصية صغيرة تخرج من بوابة سوشيال داخل هاتف بينما تسحبها يد واقعية للخلف.",
+    "prompt": "Create a highly detailed cinematic 3D scene inspired by Facebook using the provided face as the exact character reference. The face must remain perfectly recognisable with identity fully preserved. A modern smartphone displaying a Facebook-style interface lies flat on a wooden table. The feed screen acts as a glowing digital portal, and a tiny stylised chibi version of the person is emerging out of the app itself, as if escaping from the social media world. Add visible Facebook-style interface elements on the phone screen, floating reaction icons, thumbs up likes, hearts, care emojis, comment bubbles, notification icons, share arrows, small glowing notification counters, blue UI glow, subtle floating feed cards, and interface fragments around the scene. A large realistic human hand with natural skin texture and accurate anatomy grabs the back of the character’s shirt between the shoulder blades and pulls the character backward into the portal. The shirt fabric visibly stretches backward from the grip point with realistic tension folds and directional pulling force. The character is half out of the phone, waist and upper body outside the portal, legs still trapped inside the screen, body leaning forward as if trying to escape, both arms fully extended toward the camera, hands open naturally with fingers spread, shoulders pulled slightly backward, head facing directly forward. Expression is surprised and emotionally tense, eyes wide open, mouth slightly open, cinematic and dramatic. Show strong backward pulling force from the hand and strong forward reaching force from the arms, creating clear opposing tension between escape and restraint. The portal is a bright glowing blue social-media-themed vortex with swirling digital energy, particles, floating UI fragments dissolving into light, and soft blue glow illuminating the lower body and character edges. Style: ultra detailed Pixar-style semi-realistic 3D chibi, big expressive eyes, smooth cinematic skin shading, cute but emotionally dramatic, hyper polished rendering. Lighting: warm ambient indoor lighting, cool blue underlighting from the portal, cinematic contrast, dramatic shadows, rim lighting. Camera: slight low angle, shallow depth of field, focus locked sharply on face and reaching hands, softly blurred cozy modern indoor background, wooden desk surface, neutral tones. Include realistic 5-finger hand anatomy, correct proportions, no extra limbs, no distortions, hair subtly flowing backward due to pulling force, visible fabric stretching and folds, slight motion blur on pulling hand, floating reactions casting subtle reflections. Ultra realistic, 4K cinematic render, extremely sharp focus, premium animated film quality, no text, no watermark, no distortion, no anatomy errors.",
+    "prompt_ar": "أنشئ مشهدًا سينمائيًا ثلاثي الأبعاد عالي التفاصيل مستوحى من فيسبوك باستخدام الوجه المرفق كمرجع دقيق للشخصية، مع الحفاظ الكامل على ملامح الوجه والتعرف على الهوية. هاتف ذكي حديث يعرض واجهة بأسلوب فيسبوك موضوع بشكل مسطح على طاولة خشبية. تتحول شاشة الخلاصة إلى بوابة رقمية متوهجة، وتخرج منها نسخة تشيبي صغيرة من الشخص وكأنها تهرب من عالم السوشيال ميديا. أضف عناصر واجهة واضحة بأسلوب فيسبوك على الشاشة، وأيقونات تفاعل عائمة، إعجابات، قلوب، إيموجي عناية، فقاعات تعليقات، أيقونات إشعارات، أسهم مشاركة، عدادات إشعارات صغيرة مضيئة، توهج أزرق للواجهة، بطاقات منشورات عائمة خفيفة، وشظايا واجهة حول المشهد. توجد يد بشرية كبيرة وواقعية بملمس جلد طبيعي وتشريح صحيح تمسك ظهر قميص الشخصية بين لوحي الكتف وتسحبها للخلف داخل البوابة. يجب أن يتمدد قماش القميص بوضوح من نقطة الإمساك مع ثنيات شد واقعية واتجاه قوة واضح. الشخصية نصفها خارج الهاتف، الخصر والجزء العلوي خارج البوابة، والساقان ما زالتا عالقتين داخل الشاشة، والجسم مائل للأمام كأنه يحاول الهروب، والذراعان ممدودتان بالكامل نحو الكاميرا، واليدان مفتوحتان بشكل طبيعي مع أصابع متفرقة، والكتفان مشدودان قليلًا للخلف، والرأس مواجه للأمام مباشرة. التعبير مندهش ومتوتر عاطفيًا، العينان واسعتان، والفم مفتوح قليلًا، بإحساس سينمائي درامي. أظهر قوة سحب قوية للخلف من اليد وقوة وصول للأمام من الذراعين، مع توتر واضح بين الهروب والتقييد. البوابة عبارة عن دوامة زرقاء ساطعة بتأثير سوشيال ميديا، مع طاقة رقمية دوارة وجزيئات وشظايا واجهة تذوب في الضوء، وتوهج أزرق ناعم يضيء الجزء السفلي وحواف الشخصية. الأسلوب: تشيبي ثلاثي الأبعاد شبه واقعي فائق التفاصيل بأسلوب أفلام الأنيميشن الراقية، عيون كبيرة معبرة، تظليل بشرة سينمائي ناعم، لطيف لكنه درامي عاطفيًا، ورندر مصقول جدًا. الإضاءة: إضاءة داخلية دافئة من الغرفة، وإضاءة زرقاء باردة من البوابة، تباين سينمائي، ظلال درامية، وإضاءة حواف. الكاميرا: زاوية منخفضة قليلًا، عمق ميدان ضحل، تركيز حاد على الوجه واليدين الممدودتين، وخلفية داخلية حديثة دافئة ومموهة، سطح مكتب خشبي، ودرجات محايدة. احرص على يد واقعية بخمسة أصابع وتشريح صحيح، نسب سليمة، بدون أطراف إضافية أو تشوهات، شعر يتجه للخلف قليلًا بسبب قوة السحب، قماش مشدود وثنيات واضحة، ضبابية حركة خفيفة على اليد الساحبة، وانعكاسات ناعمة من أيقونات التفاعل العائمة. واقعية عالية، رندر سينمائي 4K، تركيز شديد الحدة، جودة فيلم أنيميشن فاخرة، بدون نص، بدون علامة مائية، بدون تشويه، وبدون أخطاء تشريحية.",
+    "category": "3D Character Scene",
+    "category_ar": "مشهد شخصية ثلاثي الأبعاد",
+    "style": "Cinematic 3D Chibi",
+    "style_ar": "تشيبي ثلاثي الأبعاد سينمائي",
+    "tags": [
+      "chibi",
+      "portal",
+      "social media"
+    ],
+    "tags_ar": [
+      "تشيبي",
+      "بوابة",
+      "سوشيال ميديا"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-020",
+    "title": "Sneaker Run",
+    "title_ar": "ركض سنيكر",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362776/18_jji2oa.jpg",
+    "description": "A luxury performance fashion campaign shot of an athletic woman running with the reference sneakers dominating the low-angle foreground.",
+    "description_ar": "لقطة حملة أزياء أداء فاخرة لامرأة رياضية تركض بينما تسيطر السنيكر المرجعية على مقدمة الصورة من زاوية منخفضة.",
+    "prompt": "Use the uploaded reference image as the exact foundation for the shoe identity, material language, silhouette, branding placement, and design distortion. Preserve the original product identity while allowing only subtle high-fashion variation. The final result should feel like a luxury global performance campaign with ultra-photorealistic quality and extreme detail. Create a single ultra-high-resolution 8K fashion editorial image featuring an athletic woman in her mid-20s captured mid-stride while running with a powerful forward-driving motion. The image should feel aggressive, avant-garde, elite, and like a fusion between runway fashion and high-performance sportswear. The subject should have natural skin texture with visible pores, subtle sweat, and realistic facial and body detail. Avoid plastic or overly retouched skin. Use extreme photorealism with razor-sharp clarity on the subject while allowing only slight motion blur in the distant background. The shoes must match the uploaded reference image in overall identity, construction, shape, materials, branding language, and colorway. Use [BRAND] branding consistently across the footwear design. The sneakers should feel premium, futuristic, and performance-oriented, using [SNEAKER MATERIALS] with highly visible mesh textures, rubber grip patterns, layered construction, stitching, fabric grain, and reflective details. Style the subject with luxury white athletic crew socks featuring bold black [BRAND] typography printed vertically on the back and outer sides of the socks. The branding should be highly legible and visually dominant in the composition. The outfit should include a fitted black technical long-sleeve performance top with subtle [BRAND] branding on the chest or sleeve, paired with minimalist black performance running shorts featuring a small [BRAND] logo. The fit should be athletic, tailored, and premium. Use an extreme low-angle camera perspective shot with a 14mm ultra-wide lens. The shoes and socks should dominate the foreground, with the foot and lower body filling most of the frame. Use shallow depth of field to keep the subject sharp while softly blurring the environment. Set the scene in [ENVIRONMENT], with [GROUND SURFACE] beneath the runner. Include [BACKGROUND ELEMENT] in the background along with [SKY CONDITION]. The environment should feel cinematic, modern, and fashion-editorial rather than like a typical sports advertisement. Use natural daylight with dramatic side lighting, high contrast, crisp highlights on the shoes and socks, and deep editorial shadows. Apply luxury campaign-style color grading inspired by [BRAND], using [COLOR TONE] tones, strong contrast, controlled saturation, and a premium polished finish. The final image should look like a world-class luxury sportswear campaign photographed for a global fashion-performance brand. Avoid generic sportswear aesthetics, cartoon style, CGI appearance, plastic-looking skin, over-smoothing, low resolution, or stock-photo styling.",
+    "prompt_ar": "استخدم الصورة المرجعية المرفوعة كأساس دقيق لهوية الحذاء ولغة خاماته وسيلويته وموضع العلامة والتشوه التصميمي. حافظ على هوية المنتج الأصلية مع السماح فقط بتغيير بسيط عالي الموضة. يجب أن تبدو النتيجة النهائية كحملة أداء عالمية فاخرة بجودة فوتورياليستية فائقة وتفاصيل شديدة. أنشئ صورة أزياء تحريرية واحدة فائقة الدقة 8K لامرأة رياضية في منتصف العشرينات ملتقطة أثناء الركض بحركة قوية للأمام. يجب أن تبدو الصورة هجومية وأفانت جارد ونخبوية وكأنها دمج بين أزياء المنصة وملابس الأداء الرياضي العالية. يجب أن تمتلك الشخصية ملمس بشرة طبيعيًا مع مسام واضحة وعرق خفيف وتفاصيل وجه وجسم واقعية. تجنب البشرة البلاستيكية أو المعالجة بشكل مفرط. استخدم واقعية فوتوغرافية شديدة بوضوح حاد جدًا على الشخصية مع السماح بضبابية حركة خفيفة فقط في الخلفية البعيدة. يجب أن تطابق الأحذية الصورة المرجعية المرفوعة في الهوية العامة والبناء والشكل والخامات ولغة العلامة واللون. استخدم علامة [BRAND] باستمرار عبر تصميم الحذاء. يجب أن تبدو السنيكرز فاخرة ومستقبلية وموجهة للأداء باستخدام [SNEAKER MATERIALS] مع خامات شبكية واضحة ونقوش قبضة مطاطية وبناء طبقات وخياطة ونسيج قماش وتفاصيل عاكسة. نسق الشخصية بجوارب رياضية بيضاء فاخرة عليها تايبوجرافي أسود جريء لـ [BRAND] مطبوع رأسيًا على الخلف والجوانب الخارجية. يجب أن تكون العلامة واضحة ومهيمنة بصريًا. يجب أن يتضمن الزي توب أداء تقنيًا أسود ضيقًا بأكمام طويلة مع علامة [BRAND] خفيفة على الصدر أو الكم، مع شورت ركض أسود مينيمال عليه شعار صغير لـ [BRAND]. يجب أن يكون القص رياضيًا ومفصلًا وفاخرًا. استخدم منظور كاميرا منخفض جدًا بعدسة واسعة 14mm. يجب أن تسيطر الأحذية والجوارب على مقدمة الصورة، مع القدم والجزء السفلي من الجسم يملآن معظم الإطار. استخدم عمق ميدان ضحلًا لإبقاء الشخصية حادة مع طمس البيئة بنعومة. اجعل المشهد في [ENVIRONMENT] مع [GROUND SURFACE] أسفل العداءة. أضف [BACKGROUND ELEMENT] في الخلفية مع [SKY CONDITION]. يجب أن تبدو البيئة سينمائية وحديثة وتحريرية أكثر من إعلان رياضي تقليدي. استخدم ضوء نهار طبيعيًا مع إضاءة جانبية درامية وتباين عالٍ ولمعات واضحة على الأحذية والجوارب وظلال تحريرية عميقة. طبق تلوين حملة فاخرة مستوحى من [BRAND] باستخدام درجات [COLOR TONE] وتباين قوي وتشبع محكوم ولمسة نهائية مصقولة. يجب أن تبدو النتيجة كحملة ملابس رياضية فاخرة عالمية مصورة لعلامة أزياء أداء كبرى. تجنب الجماليات الرياضية العامة، الكرتون، مظهر CGI، البشرة البلاستيكية، التنعيم الزائد، الدقة المنخفضة، أو أسلوب الصور الستوك.",
+    "category": "Fashion",
+    "category_ar": "أزياء",
+    "style": "Luxury Sports Editorial",
+    "style_ar": "تحريري رياضي فاخر",
+    "tags": [
+      "sneakers",
+      "running",
+      "fashion"
+    ],
+    "tags_ar": [
+      "سنيكرز",
+      "ركض",
+      "أزياء"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-021",
+    "title": "Article Infographic",
+    "title_ar": "إنفوجرافيك مقالة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330501/12_lqbxuo.jpg",
+    "description": "A cute cartoon infographic that translates article content into English, extracts key information, and presents only the main title.",
+    "description_ar": "إنفوجرافيك كرتوني لطيف يترجم محتوى المقالة إلى الإنجليزية ويستخرج أهم المعلومات ويعرض العنوان الرئيسي فقط.",
+    "prompt": "Generate an infographic for the provided article content. Requirements: translate the content into English and extract the key information from the article. Keep the content in the image concise, only retaining the main title. Use English text in the image. Add rich and cute cartoon characters and elements that visually support the topic. Use a clean infographic layout with a strong main headline, playful illustrated characters, colorful supporting icons, soft rounded shapes, clear visual hierarchy, friendly composition, and a polished educational style. The final design should feel cute, readable, modern, and suitable for sharing on social media.",
+    "prompt_ar": "أنشئ إنفوجرافيك لمحتوى المقالة المقدمة. المتطلبات: ترجم المحتوى إلى الإنجليزية واستخرج أهم المعلومات من المقالة. اجعل المحتوى داخل الصورة مختصرًا جدًا، مع الاحتفاظ بالعنوان الرئيسي فقط. استخدم نصًا باللغة الإنجليزية داخل الصورة. أضف شخصيات كرتونية لطيفة وغنية وعناصر مرئية تدعم موضوع المقالة. استخدم تخطيط إنفوجرافيك نظيفًا مع عنوان رئيسي قوي، وشخصيات مرسومة مرحة، وأيقونات داعمة ملونة، وأشكال ناعمة بحواف مستديرة، وتسلسل بصري واضح، وتكوين ودود، وأسلوب تعليمي مصقول. يجب أن يبدو التصميم النهائي لطيفًا وسهل القراءة وعصريًا ومناسبًا للمشاركة على وسائل التواصل الاجتماعي.",
+    "category": "Infographic",
+    "category_ar": "إنفوجرافيك",
+    "style": "Cute Cartoon Infographic",
+    "style_ar": "إنفوجرافيك كرتوني لطيف",
+    "tags": [
+      "infographic",
+      "article",
+      "cartoon"
+    ],
+    "tags_ar": [
+      "إنفوجرافيك",
+      "مقالة",
+      "كرتون"
     ],
     "suggestedTools": [
       "1",
