@@ -278,5 +278,89 @@
       "1",
       "242"
     ]
+  },
+  {
+    "id": "prompt-011",
+    "title": "Deep Sea Eldritch Monster Sheet",
+    "title_ar": "ورقة تصميم وحش إلدريتش من الأعماق",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330502/11_cjc0ei.jpg",
+    "description": "A dark fantasy creature design sheet showing a deep sea eldritch monster from side and three-quarter views, with slimy skin, multiple eyes, tentacles, and bioluminescent organs.",
+    "description_ar": "ورقة تصميم مخلوق فانتازيا مظلمة تعرض وحش إلدريتش من أعماق البحر من زاوية جانبية وثلاثة أرباع، بجلد لزج وعيون متعددة ومجسات وأعضاء مضيئة حيويًا.",
+    "prompt": "Create a Dark Fantasy Creature Design Sheet featuring a Deep Sea Eldritch Monster. Composition: side profile view showing spine and posture, plus a 3/4 view to reveal form, silhouette, and anatomy. Features: slimy skin, multiple eyes, tentacle appendages, strange deep-sea body structure, bioluminescent organs, wet reflective surfaces, sharp organic details, and unsettling asymmetry. Style: digital painting style, similar to Dark Souls or Bloodborne concept art, gloomy and oppressive atmosphere, dramatic shadows, muted colors, high detail, horror fantasy mood, professional creature concept art presentation.",
+    "prompt_ar": "أنشئ ورقة تصميم مخلوق فانتازيا مظلمة لوحش إلدريتش من أعماق البحر. التكوين: عرض جانبي يوضح العمود الفقري ووضعية الجسم، مع عرض بزاوية ثلاثة أرباع لإظهار الشكل العام والهيئة والتشريح. المميزات: جلد لزج، عيون متعددة، أطراف مجسية، بنية جسدية غريبة مستوحاة من أعماق البحر، أعضاء مضيئة حيويًا، أسطح رطبة عاكسة، تفاصيل عضوية حادة، ولا تماثل مزعج. الأسلوب: رسم رقمي مشابه لأعمال الكونسبت آرت في أجواء Dark Souls أو Bloodborne، جو كئيب وضاغط، ظلال درامية، ألوان مكتومة، تفاصيل عالية، إحساس رعب فانتازي، وعرض احترافي لتصميم مخلوق.",
+    "category": "Creature Design",
+    "category_ar": "تصميم مخلوقات",
+    "style": "Dark Fantasy Concept Art",
+    "style_ar": "كونسبت آرت فانتازيا مظلمة",
+    "tags": [
+      "monster",
+      "eldritch",
+      "creature"
+    ],
+    "tags_ar": [
+      "وحش",
+      "إلدريتش",
+      "مخلوق"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-012",
+    "title": "Cute Article Infographic",
+    "title_ar": "إنفوجرافيك مقالة كرتوني لطيف",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330501/12_lqbxuo.jpg",
+    "description": "A cute cartoon-style infographic that translates article content into English, extracts the key information, and presents only the main title with rich characters and playful visual elements.",
+    "description_ar": "إنفوجرافيك لطيف بأسلوب كرتوني يترجم محتوى المقالة إلى الإنجليزية، يستخرج أهم المعلومات، ويعرض العنوان الرئيسي فقط مع شخصيات وعناصر مرحة وغنية.",
+    "prompt": "Generate an infographic for the provided article content. Requirements: translate the content into English and extract the key information from the article. Keep the content in the image concise, only retaining the main title. Use English text in the image. Add rich and cute cartoon characters and elements that visually support the topic. Use a clean infographic layout with a strong main headline, playful illustrated characters, colorful supporting icons, soft rounded shapes, clear visual hierarchy, friendly composition, and a polished educational style. The final design should feel cute, readable, modern, and suitable for sharing on social media.",
+    "prompt_ar": "أنشئ إنفوجرافيك لمحتوى المقالة المقدمة. المتطلبات: ترجم المحتوى إلى الإنجليزية واستخرج أهم المعلومات من المقالة. اجعل المحتوى داخل الصورة مختصرًا جدًا، مع الاحتفاظ بالعنوان الرئيسي فقط. استخدم نصًا باللغة الإنجليزية داخل الصورة. أضف شخصيات كرتونية لطيفة وغنية وعناصر مرئية تدعم موضوع المقالة. استخدم تخطيط إنفوجرافيك نظيفًا مع عنوان رئيسي قوي، وشخصيات مرسومة مرحة، وأيقونات داعمة ملونة، وأشكال ناعمة بحواف مستديرة، وتسلسل بصري واضح، وتكوين ودود، وأسلوب تعليمي مصقول. يجب أن يبدو التصميم النهائي لطيفًا وسهل القراءة وعصريًا ومناسبًا للمشاركة على وسائل التواصل الاجتماعي.",
+    "category": "Infographic",
+    "category_ar": "إنفوجرافيك",
+    "style": "Cute Cartoon Infographic",
+    "style_ar": "إنفوجرافيك كرتوني لطيف",
+    "tags": [
+      "infographic",
+      "article",
+      "cartoon"
+    ],
+    "tags_ar": [
+      "إنفوجرافيك",
+      "مقالة",
+      "كرتون"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-013",
+    "title": "X Post Frame 3D Portrait",
+    "title_ar": "بورتريه ثلاثي الأبعاد داخل منشور X",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330502/13_rb2get.jpg",
+    "description": "A hyper-realistic 3D illusion portrait of a person stepping out of a giant X post frame, with bold blue-cyan background energy and cinematic lighting.",
+    "description_ar": "بورتريه فائق الواقعية بخداع بصري ثلاثي الأبعاد لشخص يخرج من إطار منشور ضخم بأسلوب X، مع خلفية زرقاء وسماوية جريئة وإضاءة سينمائية.",
+    "prompt": "A hyper-realistic portrait of the uploaded person inside a giant X, formerly Twitter, post frame that dominates the scene. Their face remains the same, sharp and untouched, wearing stylish sunglasses and sleek shoes, exuding bold charisma. Their relaxed pose shows their right elbow resting on their knee, left arm casual, and one leg stepping out of the X frame in a 3D illusion. The X frame is highly realistic with username GoogleGeminiPrompts, verified checkmark, display name \"DemoName\", caption: \"Too real to stay inside the frame #AlCreation #GoogleGeminiPrompts\", and authentic X-style icons. The background is designed for boldness and energy: deep cobalt blue blending into cyan, with subtle light streaks enhancing the dynamic feel. Clean, cinematic lighting highlights their clothing textures and the 3D illusion, making them the viral centerpiece.",
+    "prompt_ar": "بورتريه فائق الواقعية للشخص المرفوع داخل إطار منشور ضخم بأسلوب X، تويتر سابقًا، يسيطر على المشهد. يجب أن يظل الوجه كما هو تمامًا، واضحًا وحادًا وبدون تغيير، مع نظارة شمسية أنيقة وحذاء أنيق، وإحساس قوي بالكاريزما. تكون الوضعية مريحة، حيث يستند الكوع الأيمن على الركبة، والذراع اليسرى بوضعية عفوية، مع ساق واحدة تخرج من إطار X بخداع بصري ثلاثي الأبعاد. يكون إطار X واقعيًا جدًا ويحتوي على اسم المستخدم GoogleGeminiPrompts، وعلامة توثيق، واسم العرض \"DemoName\"، والتعليق: \"Too real to stay inside the frame #AlCreation #GoogleGeminiPrompts\"، وأيقونات أصلية بأسلوب X. الخلفية مصممة لتكون جريئة ومليئة بالطاقة: أزرق كوبالت عميق يمتزج مع السماوي، مع خطوط ضوء خفيفة تعزز الإحساس الديناميكي. إضاءة سينمائية نظيفة تبرز خامات الملابس والخداع البصري ثلاثي الأبعاد، ليصبح الشخص محورًا بصريًا قويًا وكأنه صورة فيروسية.",
+    "category": "Portrait",
+    "category_ar": "بورتريه",
+    "style": "Hyper-realistic 3D Illusion",
+    "style_ar": "خداع بصري ثلاثي الأبعاد فائق الواقعية",
+    "tags": [
+      "portrait",
+      "social post",
+      "3D illusion"
+    ],
+    "tags_ar": [
+      "بورتريه",
+      "منشور اجتماعي",
+      "خداع ثلاثي الأبعاد"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   }
 ]
