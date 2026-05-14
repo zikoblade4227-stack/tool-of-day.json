@@ -1,6 +1,370 @@
 [
   {
     "id": "prompt-001",
+    "title": "Flying Elephant Book Cover",
+    "title_ar": "غلاف كتاب لفيل يطير",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740489/23_bnycz9.jpg",
+    "description": "A cute 3D Disney-Pixar style book cover featuring a baby elephant wearing goggles and flying a small red airplane in a magical colorful scene.",
+    "description_ar": "غلاف كتاب لطيف بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار لفيل صغير يرتدي نظارات طيران ويقود طائرة حمراء صغيرة في مشهد سحري ملون.",
+    "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a baby elephant with goggles flying a small red airplane. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
+    "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر فيلًا صغيرًا يرتدي نظارات طيران ويقود طائرة حمراء صغيرة. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح وجه لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
+    "category": "Book Cover",
+    "category_ar": "غلاف كتاب",
+    "style": "3D Disney-Pixar",
+    "style_ar": "ثلاثي الأبعاد ديزني بيكسار",
+    "tags": [
+      "elephant",
+      "airplane",
+      "book cover"
+    ],
+    "tags_ar": [
+      "فيل",
+      "طائرة",
+      "غلاف كتاب"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-002",
+    "title": "Magical Owl Book Cover",
+    "title_ar": "غلاف كتاب لبومة سحرية",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740621/24_pydem8.jpg",
+    "description": "A whimsical 3D book cover featuring a fluffy owl with large round glasses sitting on magical books in an enchanted colorful atmosphere.",
+    "description_ar": "غلاف كتاب خيالي ثلاثي الأبعاد لبومة لطيفة ترتدي نظارة كبيرة وتجلس فوق كتب سحرية في أجواء ملونة وساحرة.",
+    "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a cute fluffy owl with large round glasses sitting on magical books. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
+    "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر بومة لطيفة وناعمة ترتدي نظارة دائرية كبيرة وتجلس فوق كتب سحرية. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح وجه لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
+    "category": "Book Cover",
+    "category_ar": "غلاف كتاب",
+    "style": "3D Disney-Pixar",
+    "style_ar": "ثلاثي الأبعاد ديزني بيكسار",
+    "tags": [
+      "owl",
+      "books",
+      "magic"
+    ],
+    "tags_ar": [
+      "بومة",
+      "كتب",
+      "سحر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-003",
+    "title": "Fox Forest Book Cover",
+    "title_ar": "غلاف كتاب لثعلب في الغابة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740703/25_ewpr1n.jpg",
+    "description": "A magical 3D book cover featuring a fluffy fox with a backpack standing on a glowing forest path with a whimsical adventure mood.",
+    "description_ar": "غلاف كتاب سحري ثلاثي الأبعاد لثعلب لطيف يحمل حقيبة ظهر ويقف على طريق مضيء داخل غابة خيالية.",
+    "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a fluffy fox with a backpack standing on a glowing forest path. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
+    "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر ثعلبًا ناعمًا يحمل حقيبة ظهر ويقف على طريق مضيء داخل غابة سحرية. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
+    "category": "Book Cover",
+    "category_ar": "غلاف كتاب",
+    "style": "3D Disney-Pixar",
+    "style_ar": "ثلاثي الأبعاد ديزني بيكسار",
+    "tags": [
+      "fox",
+      "forest",
+      "adventure"
+    ],
+    "tags_ar": [
+      "ثعلب",
+      "غابة",
+      "مغامرة"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-004",
+    "title": "Chef Cat Pizza Book Cover",
+    "title_ar": "غلاف كتاب لقطة شيف تصنع بيتزا",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740714/26_y7wb7i.jpg",
+    "description": "A cute 3D Disney-Pixar style book cover featuring a ginger cat wearing a tall chef hat and making pizza in a magical warm scene.",
+    "description_ar": "غلاف كتاب لطيف بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار لقطة برتقالية ترتدي قبعة شيف طويلة وتصنع البيتزا في مشهد دافئ وسحري.",
+    "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a ginger cat in a tall white chef's hat making pizza. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
+    "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر قطة برتقالية ترتدي قبعة شيف بيضاء طويلة وتصنع البيتزا. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح وجه لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
+    "category": "Book Cover",
+    "category_ar": "غلاف كتاب",
+    "style": "3D Disney-Pixar",
+    "style_ar": "ثلاثي الأبعاد ديزني بيكسار",
+    "tags": [
+      "cat",
+      "chef",
+      "pizza"
+    ],
+    "tags_ar": [
+      "قطة",
+      "شيف",
+      "بيتزا"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-005",
+    "title": "Perfume Beach Resort Miniature",
+    "title_ar": "منتجع شاطئي مصغر حول زجاجة عطر",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740880/27_xkb4g6.jpg",
+    "description": "A hyper-realistic miniature tropical beach resort built around a luxury perfume bottle with tiny tourists relaxing and swimming naturally.",
+    "description_ar": "عالم مصغر فائق الواقعية لمنتجع شاطئي استوائي مبني حول زجاجة عطر فاخرة مع سائحين صغار يسترخون ويسبحون بشكل طبيعي.",
+    "prompt": "Hyper realistic miniature world of tropical beach resort built around a detailed perfume bottle, featuring tiny tourists relaxing and swimming interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: tropical luxury environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لمنتجع شاطئي استوائي مبني حول زجاجة عطر مفصلة، مع سائحين صغار يسترخون ويسبحون ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة استوائية فاخرة مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "perfume",
+      "beach",
+      "miniature"
+    ],
+    "tags_ar": [
+      "عطر",
+      "شاطئ",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-006",
+    "title": "Sports Car Factory Miniature",
+    "title_ar": "مصنع سيارات مصغر حول سيارة رياضية",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740881/28_cm0rkp.jpg",
+    "description": "A hyper-realistic miniature car factory assembly line built around a detailed sports car model with tiny workers assembling parts.",
+    "description_ar": "عالم مصغر فائق الواقعية لخط تجميع مصنع سيارات مبني حول موديل سيارة رياضية مفصل مع عمال صغار يقومون بتجميع الأجزاء.",
+    "prompt": "Hyper realistic miniature world of car factory assembly line built around a detailed sports car model, featuring tiny workers assembling parts interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: industrial factory environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لخط تجميع مصنع سيارات مبني حول موديل سيارة رياضية مفصل، مع عمال صغار يجمعون الأجزاء ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة مصنع صناعية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "car",
+      "factory",
+      "miniature"
+    ],
+    "tags_ar": [
+      "سيارة",
+      "مصنع",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-007",
+    "title": "Smartphone Futuristic City Miniature",
+    "title_ar": "مدينة مستقبلية مصغرة حول هاتف",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740882/30_brab3r.jpg",
+    "description": "A hyper-realistic miniature futuristic city built around a smartphone with tiny engineers maintaining glowing circuits.",
+    "description_ar": "عالم مصغر فائق الواقعية لمدينة مستقبلية مبنية حول هاتف ذكي مع مهندسين صغار يصلحون دوائر مضيئة.",
+    "prompt": "Hyper realistic miniature world of futuristic city built around a detailed smartphone, featuring tiny engineers maintaining glowing circuits interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: futuristic neon environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لمدينة مستقبلية مبنية حول هاتف ذكي مفصل، مع مهندسين صغار يقومون بصيانة دوائر مضيئة ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة نيون مستقبلية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "smartphone",
+      "city",
+      "miniature"
+    ],
+    "tags_ar": [
+      "هاتف ذكي",
+      "مدينة",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-008",
+    "title": "Croissant Bakery Miniature",
+    "title_ar": "مخبز مصغر حول كرواسون",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778740882/29_cdlfwm.jpg",
+    "description": "A hyper-realistic miniature bakery workshop built around a detailed croissant with tiny chefs baking and decorating pastries.",
+    "description_ar": "عالم مخبز مصغر فائق الواقعية مبني حول كرواسون مفصل مع شيفات صغار يخبزون ويزينون المعجنات.",
+    "prompt": "Hyper realistic miniature world of bakery workshop built around a detailed croissant, featuring tiny chefs baking and decorating pastries interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: warm bakery environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لورشة مخبز مبنية حول كرواسون مفصل، مع شيفات صغار يخبزون ويزينون المعجنات ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة مخبز دافئة مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "croissant",
+      "bakery",
+      "miniature"
+    ],
+    "tags_ar": [
+      "كرواسون",
+      "مخبز",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-009",
+    "title": "Luxury Watch Construction Miniature",
+    "title_ar": "موقع بناء مصغر حول ساعة فاخرة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778741159/31_m4vzpw.jpg",
+    "description": "A hyper-realistic miniature construction site built around a luxury wristwatch with tiny workers assembling gears and polishing metal.",
+    "description_ar": "عالم مصغر فائق الواقعية لموقع بناء حول ساعة يد فاخرة مع عمال صغار يجمعون التروس ويلمعون المعدن.",
+    "prompt": "Hyper realistic miniature world of busy construction site built around a detailed luxury wristwatch, featuring tiny workers assembling gears and polishing metal interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: industrial metallic environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لموقع بناء مزدحم مبني حول ساعة يد فاخرة مفصلة، مع عمال صغار يجمعون التروس ويلمعون المعدن ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة معدنية صناعية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "watch",
+      "construction",
+      "miniature"
+    ],
+    "tags_ar": [
+      "ساعة",
+      "بناء",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-010",
+    "title": "Watch Gear Workshop Miniature",
+    "title_ar": "ورشة تروس مصغرة حول ساعة فاخرة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778741160/32_vwqcc9.jpg",
+    "description": "A second hyper-realistic luxury watch miniature construction scene with tiny workers polishing metal and assembling detailed gears.",
+    "description_ar": "مشهد ثان لعالم مصغر فائق الواقعية حول ساعة فاخرة مع عمال صغار يلمعون المعدن ويجمعون التروس الدقيقة.",
+    "prompt": "Hyper realistic miniature world of busy construction site built around a detailed luxury wristwatch, featuring tiny workers assembling gears and polishing metal interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: industrial metallic environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لموقع بناء مزدحم مبني حول ساعة يد فاخرة مفصلة، مع عمال صغار يجمعون التروس ويلمعون المعدن ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة معدنية صناعية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "watch",
+      "gears",
+      "miniature"
+    ],
+    "tags_ar": [
+      "ساعة",
+      "تروس",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-011",
+    "title": "Soda Can Jungle Miniature",
+    "title_ar": "مغامرة غابة مصغرة حول علبة صودا",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778741161/33_kmdtds.jpg",
+    "description": "A hyper-realistic miniature jungle adventure built around a soda can with tiny adventurers climbing vines and exploring naturally.",
+    "description_ar": "عالم مصغر فائق الواقعية لمغامرة في الغابة حول علبة صودا مع مغامرين صغار يتسلقون الكروم ويستكشفون المكان.",
+    "prompt": "Hyper realistic miniature world of jungle adventure built around a detailed soda can, featuring tiny adventurers exploring and climbing vines interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: dense jungle environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لمغامرة في الغابة مبني حول علبة صودا مفصلة، مع مغامرين صغار يستكشفون ويتسلقون الكروم ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة غابة كثيفة مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "soda",
+      "jungle",
+      "miniature"
+    ],
+    "tags_ar": [
+      "صودا",
+      "غابة",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-012",
+    "title": "Smartwatch Space Mission Miniature",
+    "title_ar": "مهمة فضاء مصغرة حول ساعة ذكية",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778741162/34_wxfx2y.jpg",
+    "description": "A hyper-realistic miniature space launch site built around a smartwatch with tiny astronauts preparing for launch.",
+    "description_ar": "عالم مصغر فائق الواقعية لموقع إطلاق فضائي مبني حول ساعة ذكية مع رواد فضاء صغار يستعدون للإطلاق.",
+    "prompt": "Hyper realistic miniature world of space mission launch site built around a detailed smartwatch, featuring tiny astronauts preparing for launch interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: sci-fi space environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لموقع إطلاق مهمة فضائية مبني حول ساعة ذكية مفصلة، مع رواد فضاء صغار يستعدون للإطلاق ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة فضاء خيال علمي مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "smartwatch",
+      "space",
+      "miniature"
+    ],
+    "tags_ar": [
+      "ساعة ذكية",
+      "فضاء",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-013",
+    "title": "Coffee Cup Mountain Miniature",
+    "title_ar": "رحلة جبلية مصغرة حول كوب قهوة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778741162/35_m8rkcs.jpg",
+    "description": "A hyper-realistic miniature snowy mountain expedition built around a coffee cup with tiny explorers climbing and camping.",
+    "description_ar": "عالم مصغر فائق الواقعية لرحلة جبلية ثلجية مبنية حول كوب قهوة مع مستكشفين صغار يتسلقون ويخيمون.",
+    "prompt": "Hyper realistic miniature world of snowy mountain expedition built around a detailed coffee cup, featuring tiny explorers climbing and camping interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: snowy alpine environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
+    "prompt_ar": "عالم مصغر فائق الواقعية لرحلة جبلية ثلجية مبنية حول كوب قهوة مفصل، مع مستكشفين صغار يتسلقون ويخيمون ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة جبال ألب ثلجية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
+    "category": "Miniature World",
+    "category_ar": "عالم مصغر",
+    "style": "Ultra-realistic Macro",
+    "style_ar": "ماكرو فائق الواقعية",
+    "tags": [
+      "coffee",
+      "mountain",
+      "miniature"
+    ],
+    "tags_ar": [
+      "قهوة",
+      "جبل",
+      "مصغر"
+    ],
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
+  },
+  {
+    "id": "prompt-014",
     "title": "Noir Light",
     "title_ar": "ضوء نوير",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362778/22_cpwjfw.jpg",
@@ -28,7 +392,7 @@
     ]
   },
   {
-    "id": "prompt-002",
+    "id": "prompt-015",
     "title": "Fanta Splash",
     "title_ar": "فانتا سبلاش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778106352/2_rfzuoj.jpg",
@@ -56,7 +420,7 @@
     ]
   },
   {
-    "id": "prompt-003",
+    "id": "prompt-016",
     "title": "Brunch Menu",
     "title_ar": "منيو برنش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362774/15_q8gzms.jpg",
@@ -84,7 +448,7 @@
     ]
   },
   {
-    "id": "prompt-004",
+    "id": "prompt-017",
     "title": "Eldritch Monster",
     "title_ar": "وحش إلدريتش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330502/11_cjc0ei.jpg",
@@ -112,7 +476,7 @@
     ]
   },
   {
-    "id": "prompt-005",
+    "id": "prompt-018",
     "title": "Tiny Chef",
     "title_ar": "شيف صغير",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778281755/10_hpdjzm.jpg",
@@ -140,7 +504,7 @@
     ]
   },
   {
-    "id": "prompt-006",
+    "id": "prompt-019",
     "title": "Social Spiral",
     "title_ar": "دوامة اجتماعية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778279766/6_p4etpe.jpg",
@@ -168,7 +532,7 @@
     ]
   },
   {
-    "id": "prompt-007",
+    "id": "prompt-020",
     "title": "Speaker Grid",
     "title_ar": "شبكة سماعة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362777/21_eot8m0.jpg",
@@ -196,7 +560,7 @@
     ]
   },
   {
-    "id": "prompt-008",
+    "id": "prompt-021",
     "title": "Mechanic Girl",
     "title_ar": "فتاة ميكانيكية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/5_ooblsd.jpg",
@@ -224,7 +588,7 @@
     ]
   },
   {
-    "id": "prompt-009",
+    "id": "prompt-022",
     "title": "Beverage Grid",
     "title_ar": "شبكة مشروب",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362773/14_qgiuyb.jpg",
@@ -252,7 +616,7 @@
     ]
   },
   {
-    "id": "prompt-010",
+    "id": "prompt-023",
     "title": "Fashion Portrait",
     "title_ar": "بورتريه أزياء",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778107142/3_qwilms.jpg",
@@ -280,7 +644,7 @@
     ]
   },
   {
-    "id": "prompt-011",
+    "id": "prompt-024",
     "title": "Doodle Portrait",
     "title_ar": "بورتريه دودل",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362776/17_maztfk.jpg",
@@ -308,7 +672,7 @@
     ]
   },
   {
-    "id": "prompt-012",
+    "id": "prompt-025",
     "title": "Tea Phone",
     "title_ar": "هاتف الشاي",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778281754/9_nhye3c.jpg",
@@ -336,7 +700,7 @@
     ]
   },
   {
-    "id": "prompt-013",
+    "id": "prompt-026",
     "title": "Earbuds Ad",
     "title_ar": "إعلان سماعات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778279952/7_t5mdoy.jpg",
@@ -364,7 +728,7 @@
     ]
   },
   {
-    "id": "prompt-014",
+    "id": "prompt-027",
     "title": "Kite Boy",
     "title_ar": "ولد وطائرة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778099239/1_rmedaz.jpg",
@@ -392,7 +756,7 @@
     ]
   },
   {
-    "id": "prompt-015",
+    "id": "prompt-028",
     "title": "Sensory Grid",
     "title_ar": "شبكة حسية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362774/16_u3dy5l.jpg",
@@ -420,7 +784,7 @@
     ]
   },
   {
-    "id": "prompt-016",
+    "id": "prompt-029",
     "title": "X Frame",
     "title_ar": "إطار X",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330502/13_rb2get.jpg",
@@ -448,7 +812,7 @@
     ]
   },
   {
-    "id": "prompt-017",
+    "id": "prompt-030",
     "title": "Handbag Grid",
     "title_ar": "شبكة حقيبة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362776/20_vt69ip.jpg",
@@ -476,7 +840,7 @@
     ]
   },
   {
-    "id": "prompt-018",
+    "id": "prompt-031",
     "title": "Urban Walk",
     "title_ar": "مشية حضرية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778108233/4_rnxsed.jpg",
@@ -504,7 +868,7 @@
     ]
   },
   {
-    "id": "prompt-019",
+    "id": "prompt-032",
     "title": "Facebook Portal",
     "title_ar": "بوابة فيسبوك",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778280557/8_eh2niq.jpg",
@@ -532,7 +896,7 @@
     ]
   },
   {
-    "id": "prompt-020",
+    "id": "prompt-033",
     "title": "Sneaker Run",
     "title_ar": "ركض سنيكر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778362776/18_jji2oa.jpg",
@@ -560,7 +924,7 @@
     ]
   },
   {
-    "id": "prompt-021",
+    "id": "prompt-034",
     "title": "Article Infographic",
     "title_ar": "إنفوجرافيك مقالة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778330501/12_lqbxuo.jpg",
