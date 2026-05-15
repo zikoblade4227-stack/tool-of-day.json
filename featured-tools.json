@@ -13,32 +13,32 @@
     "logo": "https://img.logo.dev/labs.google?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "website": "https://labs.google/fx/tools/flow"
   },
-  {
-    "id": "tod-2",
-    "name": "Kickresume",
-    "description": "AI resume builder for creating resumes, cover letters, and career documents.",
-    "description_ar": "منشئ سيرة ذاتية بالذكاء الاصطناعي لإنشاء السير الذاتية وخطابات التقديم ومستندات العمل.",
-    "category": "Resume",
-    "category_ar": "السيرة الذاتية",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "trialInfo": "",
-    "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/kickresume.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://www.kickresume.com"
-  },
-  {
-    "id": "tod-3",
-    "name": "Yandex Translate",
-    "description": "Online translation tool for text, websites, documents, and images.",
-    "description_ar": "أداة ترجمة أونلاين للنصوص والمواقع والمستندات والصور.",
-    "category": "Translation",
-    "category_ar": "الترجمة",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "trialInfo": "",
-    "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/translate.yandex.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://translate.yandex.com"
-  }
+{
+  "id": "tod-2",
+  "name": "Novoresume",
+  "description": "Resume and CV builder with professional templates and career document tools.",
+  "description_ar": "منشئ سيرة ذاتية وCV بقوالب احترافية وأدوات مستندات مهنية.",
+  "category": "Resume",
+  "category_ar": "السيرة الذاتية",
+  "pricing": "Free",
+  "pricing_ar": "مجاني",
+  "trialInfo": "",
+  "trialInfo_ar": "",
+  "logo": "https://img.logo.dev/novoresume.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+  "website": "https://novoresume.com"
+},
+{
+  "id": "tod-3",
+  "name": "CodePen",
+  "description": "Browser coding playground for front-end experiments, demos, and prototypes.",
+  "description_ar": "بيئة برمجة من المتصفح لتجارب الواجهات والعروض والنماذج الأولية.",
+  "category": "Coding",
+  "category_ar": "البرمجة",
+  "pricing": "Free",
+  "pricing_ar": "مجاني",
+  "trialInfo": "",
+  "trialInfo_ar": "",
+  "logo": "https://img.logo.dev/codepen.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+  "website": "https://codepen.io"
+}
 ]
