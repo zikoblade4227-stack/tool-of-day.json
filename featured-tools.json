@@ -15,30 +15,30 @@
   },
   {
     "id": "tod-2",
-    "name": "Papago",
-    "description": "AI-powered translation platform by Naver for translating text, websites, and conversations across multiple languages.",
-    "description_ar": "منصة ترجمة مدعومة بالذكاء الاصطناعي من Naver لترجمة النصوص والمواقع والمحادثات بين عدة لغات.",
-    "category": "Translation",
-    "category_ar": "الترجمة",
+    "name": "Rodin",
+    "description": "AI-powered 3D generation platform for creating realistic models and assets from text or images.",
+    "description_ar": "منصة ذكاء اصطناعي لإنشاء موديلات وعناصر ثلاثية الأبعاد واقعية من النصوص أو الصور.",
+    "category": "3D",
+    "category_ar": "ثلاثي الأبعاد",
     "pricing": "Free",
     "pricing_ar": "مجاني",
     "trialInfo": "",
     "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/papago.naver.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://papago.naver.com"
+    "logo": "https://img.logo.dev/hyper3d.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "website": "https://hyper3d.ai"
   },
   {
     "id": "tod-3",
-    "name": "Slazzer",
-    "description": "AI background remover for creating transparent cutouts and clean product or portrait images instantly.",
-    "description_ar": "أداة إزالة خلفية بالذكاء الاصطناعي لإنشاء صور مقصوصة وخلفيات شفافة بسرعة.",
-    "category": "Image Editing",
-    "category_ar": "تعديل الصور",
+    "name": "Audiotool",
+    "description": "Browser-based music production studio for creating beats, mixing tracks, and collaborating online.",
+    "description_ar": "استوديو إنتاج موسيقي من المتصفح لصناعة الإيقاعات ومزج المقاطع والتعاون أونلاين.",
+    "category": "Audio",
+    "category_ar": "الصوت",
     "pricing": "Free",
     "pricing_ar": "مجاني",
     "trialInfo": "",
     "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/slazzer.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://www.slazzer.com"
+    "logo": "https://img.logo.dev/audiotool.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "website": "https://www.audiotool.com"
   }
 ]
