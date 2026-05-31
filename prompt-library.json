@@ -1,569 +1,866 @@
 [
   {
-    "id": "prompt-001",
+    "title": "Floating Sushi",
+    "title_ar": "سوشي عائم",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268938/Floating_sushi_rolls_with_herbs_202606010301_hkjifb.jpg",
+    "prompt": "8K ultra high definition cinematic food photography of a floating cluster of four sushi rolls, variation with sesame seeds and herbs suspended. Focus on white rice texture and orange fish filling. Soft crisp studio lighting with a clean dark blue-grey backdrop. Extreme micro-detail, sharp focus, clean edges. 4:3 landscape aspect ratio.",
+    "prompt_ar": "تصوير طعام سينمائي فائق الدقة 8K لمجموعة عائمة من أربع قطع سوشي مع السمسم والأعشاب. تركيز على ملمس الأرز الأبيض وحشوة السمك البرتقالية. إضاءة استوديو ناعمة وخلفية زرقاء رمادية داكنة نظيفة. تفاصيل دقيقة للغاية وحواف حادة.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-001"
+  },
+  {
+    "title": "Monogram M Monument",
+    "title_ar": "مونوجرام M جبلي",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268938/Monogram__M__stone_monument_moun__202606010250_gk0m2n.jpg",
+    "prompt": "A hyper-realistic 3D render of a thick, geometric monogram logo shaped like an 'M' sculpted as a massive, frosted stone monument on a jagged mountain peak. The monogram is extruded into a bold, chunky sculptural mass of carved granite stone. Translucent frost and rime ice collect in the crevices. Sky is misty and ethereal with soft light filtering through clouds. Low camera angle emphasizing monumentality. Photorealistic, cinematic, ultra-detailed.",
+    "prompt_ar": "رندر ثلاثي الأبعاد فائق الواقعية لمونوجرام حرف M منحوت كأثر حجري ضخم متجمد فوق قمة جبلية حادة. جرانيت منحوت مع طبقات صقيع وجليد داخل الشقوق. سماء ضبابية بإضاءة ناعمة وزاوية تصوير منخفضة تبرز العظمة.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-002"
+  },
+  {
+    "title": "Luxury Skincare Jar",
+    "title_ar": "عبوة عناية فاخرة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268937/Skincare_cream_jar_on_marble_202606010304_jzn65v.jpg",
+    "prompt": "A premium skincare cream jar placed on a smooth marble surface, surrounded by soft beige silk fabric, fresh water droplets, tiny flowers, and warm golden sunlight. Calm luxury background, clean minimal composition, creamy texture visible, elegant cosmetic branding, realistic reflections, soft shadows, high-end beauty product photography, ultra-realistic, cinematic lighting, 8k detail, commercial advertisement style.",
+    "prompt_ar": "عبوة كريم عناية بالبشرة فاخرة على سطح رخامي ناعم محاطة بقماش حريري بيج وقطرات ماء وزهور صغيرة وضوء ذهبي دافئ. خلفية فاخرة هادئة وتكوين نظيف مع انعكاسات واقعية وإضاءة سينمائية.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-003"
+  },
+  {
+    "title": "Monster Arctic Monument",
+    "title_ar": "مونستر القطب الشمالي",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268937/Monster_Energy_can_arctic_snow_202606010306_s0lt9y.jpg",
+    "prompt": "Hyper-realistic cinematic 8k photograph, low-angle wide perspective. A massive Monster Energy can standing vertically like an arctic monument, partially frozen inside thick blue ice and snow. Frost covering the textured surface, icicles forming along the logo and rim, snow filling the pull-tab opening. Snowcat vehicle and scientists in red parkas emphasize scale. Overcast arctic daylight, HDR, ultra-detailed frozen textures, cinematic realism.",
+    "prompt_ar": "صورة سينمائية فائقة الواقعية 8K لعلبة مونستر ضخمة كأنها نصب تذكاري قطبي متجمدة داخل الجليد والثلوج. صقيع وجليد متدلي مع علماء ومركبة ثلجية لإبراز الحجم.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-004"
+  },
+  {
+    "title": "Aura Pay Identity",
+    "title_ar": "هوية Aura Pay",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268937/Fintech_startup_brand_identity_p__202606010302_n7onqa.jpg",
+    "prompt": "A professional brand identity presentation board for a modern fintech startup named 'Aura Pay'. The layout is a single composite image arranged in a dynamic brand grid... Premium advertising photography, ultra high detail, 8k resolution, photorealistic, cohesive brand identity system.",
+    "prompt_ar": "لوحة عرض هوية بصرية احترافية لشركة تقنية مالية حديثة باسم Aura Pay بتخطيط شبكي متكامل يضم الشعار والمنتجات والواجهات ولوحة الألوان بأسلوب فاخر ومتناسق.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-005"
+  },
+  {
+    "title": "ASICS Run Faster",
+    "title_ar": "اركض أسرع",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268937/Man_in_sprint-start_pose_202606010305_ppezj1.jpg",
+    "prompt": "8K premium ASICS sportswear advertisement. A young athletic male in a low sprint-start stance on wet reflective ground in a dark industrial tunnel... Photorealistic, editorial feel, crisp subject, premium high-performance aesthetic.",
+    "prompt_ar": "إعلان رياضي فاخر لـ ASICS يظهر عداء في وضعية انطلاق داخل نفق صناعي مظلم مع إضاءة برتقالية درامية وتفاصيل احترافية للحذاء والملابس الرياضية.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-006"
+  },
+  {
+    "title": "Peach Soda Origin",
+    "title_ar": "مشروب خوخ Origin",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268937/Peach_soda_can_paper_tear_202606010248_khdtnq.jpg",
+    "prompt": "A photorealistic, highly detailed commercial product photograph of a standard aluminum Peach Soda Can centered against a minimal, textured Forest Green paper background... 8k resolution, macro details on fibrous paper and glossy fruit texture.",
+    "prompt_ar": "صورة منتج تجارية فائقة التفاصيل لعبوة مشروب خوخ مع تمزيق ورقي يكشف شرائح الخوخ داخل العبوة وخلفية خضراء أنيقة وإضاءة سينمائية.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-007"
+  },
+  {
+    "title": "MINISO Mango World",
+    "title_ar": "عالم مانجو مينيسو",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268937/Mango_smoothie_MINISO_brand_univ__202606010246_rbdnob.jpg",
+    "prompt": "MINISO WORLD BUILDING SYSTEM. Center: A stylized, premium mango smoothie in a sleek cup... Mood: Modern Asian consumer branding, cute but premium, commercial but emotional.",
+    "prompt_ar": "مشروب مانجو فاخر بأسلوب MINISO داخل عالم مصغر مليء بالعناصر المرحة والنجوم والحقائب مع هوية تجارية آسيوية حديثة.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-008"
+  },
+  {
+    "title": "Einstein Collectible",
+    "title_ar": "تمثال اينشتاين",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268936/Einstein_caricature_bobblehead_s__202606010303_dqusda.jpg",
+    "prompt": "Highly detailed caricature figurine of Albert Einstein as a cute but intense bobblehead-style collectible statue... professional product photography, 8k quality",
+    "prompt_ar": "تمثال كاريكاتيري تفصيلي لألبرت أينشتاين بأسلوب bobblehead مع رأس ضخم وتفاصيل واقعية وخلفية سبورة مليئة بالمعادلات وإضاءة استوديو احترافية.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-009"
+  },
+  {
+    "id": "prompt-010",
     "title": "Ice Cream Fantasy",
     "title_ar": "خيال آيس كريم",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/64_sjic87.jpg",
     "prompt": "BASKIN ROBBINS — \"31 FLAVORS. ONE FANTASY. \"\nULTRA-PREMIUM GLOBAL FMCG CAMPAIGN\n\n[BRAND = BASKIN ROBBINS]\n[STYLE = PLAYFUL LUXURY × CINEMATIC FMCG]\n[FORMAT = 4:3 PREMIUM BILLBOARD POSTER]\n[CAMPAIGN TYPE = GLOBAL PRODUCT HERO VISUAL]\n\nACT AS:\nA world-class FMCG creative director, luxury dessert advertising specialist, and editorial campaign designer creating a premium Baskin Robbins commercial poster that feels like a fusion of Nike-level campaign execution, luxury beauty advertising, and surreal dessert fantasy branding.\n\nThe final visual must feel globally award-winning, emotionally immersive, hyper-premium, internet-culturally relevant, and instantly recognizable as Baskin Robbins while elevating the brand into a modern cinematic luxury universe.\n\nPHASE 1 — CREATIVE CONCEPT\n\nCreate a surreal frozen fantasy world built entirely around Baskin Robbins' iconic identity of flavor abundance, playful happiness, creamy indulgence, and colorful escapism.\n\nThe visual should communicate:\n \"Entering a dream universe made of ice cream. \"\n\nNOT a simple product placement poster.\n\nThe poster must feel:\n• cinematic\n• fashionable\n• edible\n• glossy\n• immersive\n• youthful\n• luxurious\n• dreamlike\n• emotionally addictive\n\nCore emotional tone:\njoy + fantasy + premium craving.\n\nPHASE 2 — HERO PRODUCT DIRECTION\n\nFeature an ultra-detailed Baskin Robbins ice cream scoop composition as the central hero object.\n\nUse:\n• strawberry swirl scoop\n• blueberry cheesecake scoop\n• vanilla cream scoop\n• raspberry ribbons\n• glossy syrup textures\n• realistic creamy depth\n• frozen condensation\n• melting edges\n• hyper-real scoop texture\n• visible flavor chunks\n• reflective creamy highlights\n\nThe scoops should feel:\n• cold\n• luxurious\n• freshly served\n• physically craveable\n• macro-photographed\n\nAdd floating:\n• candy particles\n• cream splashes\n• frozen sugar dust\n• syrup arcs\n• ice crystals\n• glossy droplets\n\nPHASE 3 — ENVIRONMENT DESIGN\n\nCreate a massive surreal Baskin Robbins fantasy environment.\n\nBackground world:\n• pastel dreamscape\n• floating creamy clouds\n• glossy pink-blue atmospheric haze\n• frozen dessert skyline\n• surreal candy architecture\n• soft reflective marble surfaces\n• dreamy cinematic fog\n• floating flavor particles\n• glowing ice cream nebula atmosphere\n\nPHASE 4 — COLOR SYSTEM\n\nPrimary palette:\n• Baskin Robbins pink\n• aqua blue\n• creamy white\n• soft lavender\n• strawberry tones\n• pastel cyan\n\nAccent palette:\n• cherry red\n• caramel gold\n• glossy chocolate brown\n\nPHASE 5 — TYPOGRAPHY SYSTEM\n\nMain slogan:\n \"31 FLAVORS. ONE FANTASY. \"\n\nSecondary typography:\n \"STEP INTO THE SWEETEST DIMENSION. \"\n\nTypography must become part of the composition itself.\n\nPHASE 6 — COMPOSITION ENGINEERING\n\nBuild composition in cinematic depth layers:\n\nFOREGROUND: syrup splashes, floating toppings, glossy reflections, ice cream particles\nMIDGROUND: giant hero scoops, Baskin Robbins cup, floating creamy textures\nBACKGROUND: fantasy dessert skyline, giant soft typography, cinematic haze, atmospheric glow",
     "prompt_ar": "باسكن روبنز — \"31 نكهة. خيال واحد. \"\nحملة FMCG عالمية فائقة الجودة\n\n[BRAND = BASKIN ROBBINS]\n[STYLE = فخامة مرحة × FMCG سينمائي]\n[FORMAT = بوستر بيلبورد فاخر 4:3]\n[CAMPAIGN TYPE = بطل المنتج العالمي]\n\nتصرف كـ:\nمدير إبداعي عالمي متخصص في FMCG وإعلانات الحلويات الفاخرة، ينشئ بوستر باسكن روبنز التجاري الفاخر الذي يجمع بين أسلوب نايكي الإعلاني وجماليات الإعلانات الفاخرة وعالم الحلويات الخيالي السريالي.\n\nالمرحلة 1 — المفهوم الإبداعي:\nأنشئ عالمًا خياليًا مجمدًا مبنيًا بالكامل حول هوية باسكن روبنز بكثرة النكهات والفرح والبهجة والألوان الزاهية. الرسالة: \"دخول عالم حلم مصنوع من الآيس كريم. \"\n\nالمزاج العاطفي: فرح + خيال + شوق فاخر.\n\nالمرحلة 2 — اتجاه المنتج البطل:\nسكوبات آيس كريم فائقة التفاصيل: فراولة دوارة، تشيز كيك توت أزرق، كريمة فانيلا، أشرطة توت العليق، خامات شراب لامعة، تكثف مجمد، حواف ذائبة، قطع نكهات مرئية، قطرات لامعة عائمة.\n\nالمرحلة 3 — تصميم البيئة:\nعالم باستيل حلمي، غيوم كريمية عائمة، ضباب جوي وردي وأزرق، أفق حلوى سريالي، أسطح رخامية عاكسة، أجواء سديم آيس كريم متوهجة.\n\nالمرحلة 4 — نظام الألوان:\nوردي باسكن روبنز، أزرق مائي، أبيض كريمي، لافندر ناعم، درجات فراولة، أخضر مائي باستيل.\n\nالمرحلة 5 — نظام التايبوجرافي:\nالشعار الرئيسي: \"31 نكهة. خيال واحد. \"\nالشعار الثانوي: \"ادخل أحلى بُعد. \"\nالتايبوجرافي يصبح جزءًا من التكوين نفسه.\n\nالمرحلة 6 — هندسة التكوين:\nالمقدمة: رذاذ الشراب، مكملات عائمة، انعكاسات لامعة.\nالمنتصف: سكوبات بطلة ضخمة، كوب باسكن روبنز.\nالخلفية: أفق حلوى خيالي، تايبوجرافي ناعم ضخم، ضباب سينمائي.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-002",
+    "id": "prompt-011",
     "title": "Golden Morn Poster",
     "title_ar": "بوستر جولدن مورن",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/53_madat4.jpg",
     "prompt": "GOLDEN MORN VIRAL FMCG POSTER CAMPAIGN SYSTEM\n \"START GOLDEN. STAY STRONG. \"\n\nACT AS:\nA senior global FMCG creative director, luxury breakfast food stylist, premium commercial product photographer, typography designer, and modern brand advertiser creating a viral Golden Morn breakfast campaign poster for a world-class cereal brand.\n\nThe design should feel like a fusion of:\n— premium breakfast FMCG campaigns\n— modern cereal advertisements\n— healthy lifestyle branding\n— vibrant Instagram food editorials\n— bold typography-driven poster design\n— colorful family-friendly commercial aesthetics\n\nThe poster should feel: fresh, healthy, energetic, warm, premium, uplifting, appetizing, highly shareable.\n\nTYPOGRAPHY STYLE (MOST IMPORTANT):\nUse HUGE oversized retro-modern typography dominating the background. Typography should occupy 40–60% of the composition, sit behind and around the cereal bowl, feel bold and uplifting. Font: ultra-bold, rounded edges, chunky soft forms, retro-modern style, thick sans-serif letterforms, playful but premium.\n\nExample headline: \"START GOLDEN \" / \"MORNING ENERGY \" / \"POWER YOUR DAY \"\n\nMAIN PRODUCT COMPOSITION:\nHyper-realistic bowl of creamy Golden Morn cereal in the foreground. Surround with: sliced bananas, maize grains, soybeans, oats, honey drizzle, milk splashes, floating cereal dust, fresh fruits. Frozen mid-motion commercial breakfast shoot.\n\nLIGHTING: Bright premium commercial studio lighting, creamy highlights, glossy reflections, warm morning glow.\n\nBACKGROUND: Bold seamless studio background in rich golden yellow, warm cream beige, or sky blue. Add soft sunlight glow, floating grain particles, milk splash trails.\n\nCOLOR SYSTEM: golden yellow, creamy beige, fresh sky blue, honey gold, soft white, natural grain tones.\n\nPRODUCT PACKAGING: Include realistic Golden Morn packaging naturally integrated, glossy and authentic, iconic blue-and-yellow branding.\n\nEMOTIONAL GOAL: The viewer should instantly think: \"I want this every morning. \"\n\nFINAL QUALITY: Ultra photorealistic, 8K, premium commercial breakfast photography, billboard-ready, hyper-detailed food textures. Aspect Ratio: 4:3.",
     "prompt_ar": "نظام حملة بوستر جولدن مورن الفيروسي\n \"ابدأ ذهبيًا. ابقَ قويًا. \"\n\nتصرف كـ:\nمدير إبداعي عالمي كبير في FMCG ومصمم تايبوجرافي ومصور منتجات فاخر، تنشئ بوستر حملة إفطار جولدن مورن الفيروسية لعلامة حبوب فطور عالمية.\n\nيجب أن يشعر التصميم بأنه مزيج من: حملات FMCG فطور راقية، إعلانات حبوب حديثة، براندنج أسلوب حياة صحي، إصدارات طعام فيبراميتري على إنستغرام، وبوستر مدفوع بتصميم تايبوجرافي جريء.\n\nيجب أن يبدو البوستر: طازجًا، صحيًا، نشيطًا، دافئًا، فاخرًا، مبهجًا، مشهيًا، وقابلًا للمشاركة.\n\nأسلوب التايبوجرافي (الأهم):\nاستخدم تايبوجرافيًا ضخمًا يهيمن على الخلفية، يشغل 40-60% من التكوين، بخط ريترو-حديث جريء وسانس سيريف ممتلئ وناعم. مقترحات: \"START GOLDEN \" / \"MORNING ENERGY \" / \"POWER YOUR DAY \".\n\nتكوين المنتج الرئيسي:\nوعاء كريمي فائق الواقعية من جولدن مورن في المقدمة. محاط بـ: موز مقطع، حبوب ذرة، صويا، شوفان، رذاذ عسل، رذاذ حليب، غبار حبوب عائم، فواكه طازجة. مشهد إفطار تجاري مجمد في منتصف الحركة.\n\nالإضاءة: إضاءة استوديو تجاري فاخر ساطع، لمعات كريمية، انعكاسات لامعة، توهج صباح دافئ.\n\nالخلفية: خلفية استوديو نظيفة بالأصفر الذهبي الغني أو الأزرق السماوي. أضف توهج ضوء ناعم وجزيئات حبوب عائمة.\n\nنظام الألوان: الأصفر الذهبي، البيج الكريمي، الأزرق السماوي الطازج، الذهب العسلي، الأبيض الناعم.\n\nالتغليف: تغليف جولدن مورن الأصلي بالأزرق والأصفر الأيقونيين مدمج بشكل طبيعي.\n\nالهدف العاطفي: يجب أن يفكر المشاهد فورًا: \"أريد هذا كل صباح. \"\n\nجودة نهائية: فوتورياليستية فائقة، 8K، تصوير إفطار تجاري فاخر، جاهز للبيلبورد، نسبة 4:3.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-003",
+    "id": "prompt-012",
     "title": "Kids Shoe Ad",
     "title_ar": "إعلان حذاء أطفال",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/63_odzsvn.jpg",
     "prompt": "A vibrant children's shoe advertisement poster featuring a joyful 7-year-old boy leaning energetically on top of a giant rose design clog shoe that is four times his size, while wearing matching mini rose design clogs. The scene is set against a bright sunny blue and yellow studio background filled with colorful confetti falling everywhere, creating a playful and energetic atmosphere. At the top, large 3D bubble letters spell \"WALKY \" in bright BLACK AND WHITE colors, adding a bold and fun visual impact. On the left side, a catchy tagline in a bold playful font reads \"WALK WITH COMFORT. \" while in the top-right corner, small grey text reads \"Designed by Shamus. \" The overall style is photorealistic with a cheerful, lively mood that captures excitement, fun, and childlike energy.",
     "prompt_ar": "بوستر إعلاني ملون لحذاء أطفال يظهر فيه طفل سعيد عمره 7 سنوات يتكئ بنشاط فوق حذاء كلوج ضخم بتصميم وردة يبلغ أربعة أضعاف حجمه، بينما يرتدي حذاءً مطابقًا صغيرًا بتصميم وردة. المشهد داخل استوديو مشمس بخلفية زرقاء وصفراء مليئة بالقصاصات الملونة المتساقطة في كل مكان، مما يخلق أجواءً مرحة ونشيطة. في الأعلى، حروف فقاعية ثلاثية الأبعاد تكتب \"WALKY \" بألوان أبيض وأسود جريئة. على الجانب الأيسر، شعار جذاب بخط مرح وجريء يقرأ \"WALK WITH COMFORT. \" بينما في الركن العلوي الأيمن، نص رمادي صغير يكتب \"Designed by Shamus. \" الأسلوب العام فوتورياليستي مع مزاج مبهج وحيوي يجسد الإثارة والمرح وروح الطفولة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-004",
+    "id": "prompt-013",
     "title": "Travel Selfie",
     "title_ar": "سيلفي السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662704/62_aaiadc.jpg",
     "prompt": "Primary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.\nScene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.\nSubject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.\nStyle/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.\nComposition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.\nLighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.\nColor palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.\nTextures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.\nConstraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.\nNegative Prompt: watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors.",
     "prompt_ar": "الطلب الرئيسي: إنشاء بورتريه سيلفي سفر فوتورياليستي، باستخدام الصورة الشخصية المرفوعة كمرجع للمظهر.\nالمشهد/الخلفية: مرج جبلي مفتوح تحت سماء زرقاء زاهية، محاط بالأعلى بمئات من أعلام الصلاة التبتية الملونة مرتبة في مظلة حلزونية دائرية، مع تلال خضراء بعيدة وضوء نهار ساطع.\nالشخصية: شابة بملامح وجه مميزة وعيون وخط شعر واتجاهه وملمس بشرة طبيعي من الصورة المرفوعة، ترتدي جاكيت خارجي أزرق سماوي فاتح، وبنطال مشي أبيض، وقبعة صوف خردلية، ونظارة شمسية فوق القبعة، وحقيبة ظهر.\nالأسلوب: تصوير سفر فوتورياليستي فائق الواقعية بإحساس كاميرا حركية ديناميكية، تفاصيل حادة وطبيعية، بورتريه مغامرة حي للسوشيال ميديا.\nالتكوين: إطار رأسي 3:4، منظور واسع للغاية، تكوين سيلفي من الأسفل إلى الأعلى، يد واحدة ممدودة نحو الكاميرا في المقدمة بتكبير منظوري قوي، الوجه في منتصف الإطار، الأعلام تشكل نفقًا إشعاعيًا ملونًا فوق رأسها.\nالإضاءة: شمس ظهيرة جبلية ساطعة، انكسار عدسة مرئي في الأعلى الأيسر، ضوء خلفي متلألئ، مزاج مبهج وواضح.\nلوحة الألوان: أزرق سماوي مشبع، أصفر خردلي، أحمر، برتقالي، أخضر، أبيض، وأزرق سماوي.\nالقيود: الحفاظ على المظهر المميز من الصورة المرفوعة، بدون علامة مائية أو شعار أو نص.\nبروميبت سلبي: علامة مائية، شعار، نص، تعليق، توقيع، أصابع إضافية، أصابع مفقودة، أصابع ملتصقة، أيدي مشوهة، عيون غير متماثلة، وجه مشوه، بشرة بلاستيكية، فلتر تنعيم مفرط، وجه ضبابي، دقة منخفضة، أعلام مشوهة، مظهر CGI مزيف.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-005",
+    "id": "prompt-014",
     "title": "Adventure Portrait",
     "title_ar": "بورتريه مغامرة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/60_p7yzey.jpg",
     "prompt": "Primary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.\nScene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.\nSubject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.\nStyle/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.\nComposition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.\nLighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.\nColor palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.\nTextures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.\nConstraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.\nNegative Prompt: watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors.",
     "prompt_ar": "الطلب الرئيسي: إنشاء بورتريه سيلفي سفر فوتورياليستي، باستخدام الصورة الشخصية المرفوعة كمرجع للمظهر.\nالمشهد/الخلفية: مرج جبلي مفتوح تحت سماء زرقاء زاهية، محاط بالأعلى بمئات من أعلام الصلاة التبتية الملونة مرتبة في مظلة حلزونية دائرية، مع تلال خضراء بعيدة وضوء نهار ساطع.\nالشخصية: شابة بملامح وجه مميزة وعيون وخط شعر واتجاهه وملمس بشرة طبيعي من الصورة المرفوعة، ترتدي جاكيت أزرق سماوي، وبنطال مشي أبيض، وقبعة صوف خردلية، ونظارة شمسية فوق القبعة، وحقيبة ظهر.\nالأسلوب: تصوير سفر فوتورياليستي فائق بإحساس كاميرا ديناميكية، بورتريه مغامرة حي للسوشيال ميديا.\nالتكوين: إطار رأسي 3:4، منظور واسع للغاية، تكوين سيلفي من الأسفل للأعلى، يد ممدودة نحو الكاميرا في المقدمة، الأعلام تشكل نفقًا ملونًا فوق رأسها، ابتسامة عفوية نشيطة.\nالإضاءة: شمس ظهيرة جبلية ساطعة، انكسار عدسة مرئي، ضوء خلفي متلألئ، مزاج مبهج وواضح.\nلوحة الألوان: أزرق سماوي، أصفر خردلي، أحمر، برتقالي، أخضر، أبيض.\nالقيود: الحفاظ على المظهر المميز، بدون علامة مائية أو نص.\nبروميبت سلبي: علامة مائية، شعار، نص، أصابع إضافية، أيدي مشوهة، بشرة بلاستيكية، وجه ضبابي، أعلام مشوهة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-006",
+    "id": "prompt-015",
     "title": "Spring Water Ad",
     "title_ar": "إعلان مياه سبرينج",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/56_ggssjz.jpg",
     "prompt": "A premium mineral water advertisement poster featuring a fresh-faced young man in a relaxed white and yellow linen outfit standing confidently beside a giant crystal-clear mineral water bottle nearly 3x his height, covered in realistic water droplets with the \"SPRING \" label clearly visible. The scene is set against a clean arctic-white AND FOREST GREEN minimal background filled with floating ice crystals, soft mist, and dynamic water splash effects creating a refreshing luxury commercial atmosphere. Large crisp sans-serif typography reading \"SPRING \" appears subtly oversized in light blue across the background, while the tagline \"DROP FROM VALLEY. \" is placed elegantly at the bottom. In the top-right corner, small grey text reads \"Designed BY SHAMUS. \" Photorealistic lighting, ultra-clean product advertising aesthetic, glossy reflections, premium hydration campaign style, minimal yet cinematic composition.",
     "prompt_ar": "بوستر إعلاني فاخر لمياه معدنية يعرض شابًا بوجه طازج يرتدي زيًا كتانيًا أبيض وأصفر مريحًا، يقف بثقة بجانب زجاجة مياه معدنية شفافة كبيرة تبلغ ثلاثة أضعاف طوله تقريبًا، مغطاة بقطرات ماء واقعية وعليها بوضوح ملصق \"SPRING \". المشهد على خلفية بيضاء أرتيك وأخضر غابات مينيمال ممتلئة بمتبلورات ثلج عائمة وضباب ناعم وتأثيرات رذاذ ماء ديناميكية تخلق أجواءً تجارية فاخرة ومنعشة. تايبوجرافي سانس سيريف كبير وحاد يقرأ \"SPRING \" بلون أزرق فاتح في الخلفية، بينما يوضع الشعار \"DROP FROM VALLEY. \" بأناقة في الأسفل. في الركن العلوي الأيمن، نص رمادي صغير يكتب \"Designed BY SHAMUS. \" إضاءة فوتورياليستية، جمالية إعلانية نظيفة للغاية، انعكاسات لامعة، أسلوب حملة ترطيب فاخرة، تكوين بسيط ولكن سينمائي.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-007",
+    "id": "prompt-016",
     "title": "Natural Product Shot",
     "title_ar": "تصوير منتج طبيعي",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/59_mfhpgl.jpg",
     "prompt": "A professional prompt for generating realistic, elegant product photography in a natural setting. Each version features a different product showcased on stone surfaces with soft greenery, natural lighting, and minimalist beige tones — perfect for beauty, wellness, or lifestyle branding visuals.",
     "prompt_ar": "بروميبت احترافي لإنشاء تصوير منتجات واقعي وأنيق في إعداد طبيعي. كل نسخة تعرض منتجًا مختلفًا على أسطح حجرية مع خضرة ناعمة وإضاءة طبيعية ودرجات بيج مينيمال — مثالي لصور براندنج الجمال والعافية وأسلوب الحياة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-008",
+    "id": "prompt-017",
     "title": "Wedding Gift Bag",
     "title_ar": "حقيبة هدية زفاف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/55_gzf5ae.jpg",
     "prompt": "Create a high-end luxury wedding gift bag mockup in a clean premium studio setting.\n\nDesign an elegant ivory/off-white paper wedding bag with champagne satin ribbon handles, realistic paper texture, soft shadows, and premium lighting. Show one main bag facing forward and a second matching bag slightly turned to the side in the background.\n\nUse a romantic wedding color palette: ivory, cream, champagne gold, blush pink, soft beige, and muted green.\n\nAdd refined gold foil details on the bag: thin decorative border lines, elegant corner ornaments, a luxury monogram crest, and floral line art.\n\nBag text:\nA & S\nWedding\nCelebrating Love\n12.08.2026\n\nAdd beautiful watercolor-style wedding florals at the bottom of the bag: blush roses, cream peonies, white flowers, small baby's breath, and soft green leaves.\n\nPlace the bags on a marble or stone surface with soft draped fabric in the background. Add a few real flowers and ribbons around the base for a romantic wedding presentation.\n\nStyle: ultra-realistic product mockup, luxury wedding packaging, elegant typography, gold foil print, soft romantic lighting, premium commercial photography, clean composition, high-end bridal stationery design, 4K quality.",
     "prompt_ar": "أنشئ موكاب فاخر لحقيبة هدية زفاف راقية داخل استوديو فاخر ونظيف.\n\nصمم حقيبة زفاف ورقية أنيقة بلون عاجي/أوف وايت مع يدات شريط ساتان شامبانيا، وملمس ورق واقعي وظلال ناعمة وإضاءة فاخرة. اعرض حقيبة رئيسية واحدة مواجهة للأمام وحقيبة مطابقة ثانية مائلة قليلًا للخلف.\n\nاستخدم لوحة ألوان زفاف رومانسية: عاجي، كريمي، ذهب شامبانيا، وردي خفيف، بيج ناعم، وأخضر مكتوم.\n\nأضف تفاصيل رقيقة من الرقائق الذهبية: خطوط حواف زخرفية رفيعة، زخارف أركان أنيقة، شعار مونوجرام فاخر، ورسم خطي للزهور.\n\nنص الحقيبة:\nA & S\nWedding\nCelebrating Love\n12.08.2026\n\nأضف زهور زفاف جميلة بأسلوب ألوان مائية في الجزء السفلي: ورود وردية، عشبة القطن الكريمية، زهور بيضاء، أزهار نفس صغيرة، وأوراق خضراء ناعمة.\n\nضع الحقائب على سطح رخامي أو حجري مع قماش متدرج ناعم في الخلفية. أضف بعض الزهور الحقيقية والأشرطة حول القاعدة.\n\nالأسلوب: موكاب منتج فائق الواقعية، تغليف زفاف فاخر، تايبوجرافي أنيق، طباعة رقائق ذهبية، إضاءة رومانسية ناعمة، تصوير تجاري فاخر، تكوين نظيف، جودة 4K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-009",
+    "id": "prompt-018",
     "title": "Travel Chips Poster",
     "title_ar": "بوستر شيبس السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/51_ftz4ej.jpg",
     "prompt": "Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay's-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.\n\nA cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY].\n\nFloating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package.\n\nInclude only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment:\n- taking photos\n- exploring landmarks\n- sitting on floating chips\n- riding local transport\n- observing scenery\n- walking through the swirl paths\n\nInclude authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY].\n\nBackground should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams.\n\nElegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design.\n\nComposition rules:\n- one dominant centered chips packet\n- floating ridged potato chips throughout composition\n- one continuous upward spiral motion\n- landmarks layered vertically\n- miniature people sparse and intentional\n- no duplicate landmarks\n- no overcrowding\n- clean premium hierarchy\n- cinematic storytelling through scale contrast\n- premium advertising composition matching high-end chips commercials",
     "prompt_ar": "بوستر إعلاني فائق التفاصيل وفاخر لطعام السفر في [المدينة/البلد]، تكوين رأسي، مستوحى من إعلانات شيبس ليز الفاخرة. حزمة شيبس واقعية في المركز السفلي كبطل رئيسي.\n\nشريط حلزوني سينمائي من الصلصة أو الكريمة أو السحاب أو البخار يرتفع من حزمة الشيبس، يلتف ديناميكيًا حول المعالم الأيقونية والأطعمة المحلية والعناصر الثقافية من [المدينة/البلد].\n\nشرائح بطاطس مضلعة عائمة بشكل طبيعي في الحركة الحلزونية، تتفاعل مع المعالم ومسافرين مصغرين. تصميم حزمة الشيبس يجب أن يبدو أصيلًا لـ [المدينة/البلد] بألوانها ونقوشها وإلهامها المحلي.\n\nأدرج فقط المعالم الأكثر شهرة من [المدينة/البلد] بتباعد دقيق وتكوين نظيف. أضف مسافرين مصغرين يتفاعلون بشكل طبيعي: يلتقطون صورًا، يستكشفون، يجلسون على الشيبس العائم، يسافرون على مواصلات محلية.\n\nالخلفية: تدرج باستيل ناعم أو فاخر دافئ مع فتحة سقف دائرية في الأعلى تنبعث منها أشعة سبوت لايت سينمائية.\n\nإضاءة تجارية فاخرة، ظلال ناعمة، جزيئات عائمة، عمق واقعي، مساحة سلبية متوازنة، جمالية حملة سياحية فاخرة.\n\nقواعد التكوين:\n- حزمة شيبس واحدة مهيمنة في المنتصف\n- شيبس مضلع عائم في التكوين بأكمله\n- حركة حلزونية واحدة متصلة للأعلى\n- معالم مرتبة رأسيًا\n- ناس مصغرون قليلون ومتعمدون\n- لا تكرار في المعالم\n- تسلسل هرمي نظيف وفاخر",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-010",
+    "id": "prompt-019",
     "title": "KitKat Break",
     "title_ar": "استراحة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/54_h72igl.jpg",
     "prompt": "FORMAT: hyper-commercial chocolate campaign poster, ultra-high resolution (8K), premium billboard + social media advertising ready. Style: bold FMCG advertising × modern snack campaign × energetic commercial poster design × high-impact product photography.\n\nCORE IDEA: THE BREAK EVERYONE WAITS FOR. A campaign built around impact, craving, and satisfying motion. Everything in the composition reacts to the iconic KitKat snap.\n\nMASTER COMPOSITION:\nBACKGROUND: Deep KitKat red environment layered with rich red gradients, chocolate texture overlays, dynamic motion streaks, subtle crumb particles, repeated typography patterns, glossy studio reflections.\n\nHUMAN SUBJECT: Young Gen-Z male/female model. Expression: playful, confident, mid-enjoyment moment. Pose: holding KitKat toward camera, mid-snap action. Camera: slightly low + close perspective. Wardrobe: modern streetwear in neutral tones.\n\nVISUAL ENERGY: The SNAP becomes the visual explosion. At the break point: chocolate shards flying outward, wafer crumbs suspended mid-air, liquid chocolate streaks, motion lines radiating from snap.\n\nPRODUCT HERO: KitKat chocolate bar + wrapper. Placement: foreground center-right. Angle: extreme 3/4 hero perspective. Details: hyper-real chocolate texture, visible wafer layers, glossy melted chocolate highlights, realistic crumbs, embossed KitKat logo, premium wrapper reflections.\n\nTYPOGRAPHY SYSTEM:\nMAIN HEADLINE: \"BREAK TIME. \" — ultra-bold condensed sans-serif, oversized stacked layout, white typography, extremely tight spacing, cracked/distorted around snap point.\nSECONDARY TEXT: \"HAVE A BREAK. HAVE A KITKAT. \"\nBACKGROUND TYPOGRAPHY: SNAP / CRUNCH / BREAK / CHOCOLATE / WAFER / MELT integrated into background layers.\n\nFEATURE STRIP: CRISPY WAFER | RICH CHOCOLATE | ICONIC SNAP | PERFECT BREAK\n\nCTA: \"NEW SHARING PACK AVAILABLE \" | \"GRAB NOW \" button | \"Available Online & In Stores \"\n\nWEBSITE: www.kitkat | \"NESTLÉ KITKAT · 2026 EDITION \"\n\nCOLOR SYSTEM: KitKat red, deep chocolate brown, white typography, warm chocolate highlights, golden wafer tones.\n\nLIGHTING: Strong commercial studio key light, warm chocolate rim highlights, soft red glow behind snap motion, glossy FMCG-grade reflections.\n\nFINAL FEEL: Feels like Nike energy campaign × premium FMCG launch × modern Behance commercial food poster.",
     "prompt_ar": "التنسيق: بوستر حملة شوكولاتة تجاري مفرط، دقة عالية 8K، جاهز للبيلبورد وسوشيال ميديا. الأسلوب: إعلان FMCG جريء × حملة وجبات خفيفة حديثة × تصميم بوستر تجاري نشيط.\n\nالفكرة الأساسية: الاستراحة التي ينتظرها الجميع. حملة مبنية على التأثير والشوق والحركة المُرضية. كل شيء في التكوين يتفاعل مع كسرة كيت كات الأيقونية.\n\nالتكوين الرئيسي:\nالخلفية: بيئة حمراء عميقة بلون كيت كات مع تدرجات حمراء غنية وطبقات ملمس شوكولاتة وخطوط حركة ديناميكية وجزيئات فتات خفيفة ونقوش تايبوجرافي متكررة وانعكاسات استوديو لامعة.\n\nالشخصية: موديل شاب من جيل Z. التعبير: مرح وواثق أثناء التمتع. الوضعية: ممسك كيت كات نحو الكاميرا أثناء الكسر. الكاميرا: منخفضة قليلًا وقريبة. الملابس: ستريت وير حديث بدرجات محايدة.\n\nالطاقة البصرية: الكسرة تصبح الانفجار البصري. عند نقطة الكسر: شظايا شوكولاتة تتطاير، فتات ويفر معلق في الهواء، خطوط شوكولاتة سائلة.\n\nالمنتج البطل: شريط كيت كات بغلافه. الموضع: مقدمة وسط يمين. الزاوية: منظور ثلاثة أرباع شديد. التفاصيل: ملمس شوكولاتة واقعي، طبقات ويفر مرئية، لمعات شوكولاتة ذائبة، فتات واقعي، شعار كيت كات محفور.\n\nنظام التايبوجرافي:\nالعنوان الرئيسي: \"BREAK TIME. \" - سانس سيريف مكثف وجريء للغاية، تخطيط كبير مكدس، تايبوجرافي أبيض، تباعد ضيق جدًا، متشقق/مشوه عند نقطة الكسر.\nالنص الثانوي: \"HAVE A BREAK. HAVE A KITKAT. \"\nتايبوجرافي الخلفية: SNAP / CRUNCH / BREAK / CHOCOLATE / WAFER / MELT\n\nشريط المميزات: ويفر هش | شوكولاتة غنية | كسرة أيقونية | استراحة مثالية\n\nCTA: \"حزمة المشاركة الجديدة متاحة \" | زر \"GRAB NOW \" | \"متاح أونلاين وفي المتاجر \"\n\nالموقع: www.kitkat | \"NESTLÉ KITKAT · 2026 EDITION \"\n\nنظام الألوان: أحمر كيت كات، بني شوكولاتة داكن، تايبوجرافي أبيض، لمعات شوكولاتة دافئة.\n\nالإضاءة: مصدر إضاءة استوديو قوي، لمعات حمراء دافئة حول الكسرة.\n\nالشعور النهائي: مثل حملة نايكي × إطلاق FMCG فاخر × بوستر طعام تجاري حديث.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-011",
+    "id": "prompt-020",
     "title": "KitKat Campaign",
     "title_ar": "حملة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/58_yzzi8a.jpg",
     "prompt": "FORMAT: hyper-commercial chocolate campaign poster, ultra-high resolution (8K), premium billboard + social media advertising ready. Style: bold FMCG advertising × modern snack campaign × energetic commercial poster design × high-impact product photography.\n\nCORE IDEA: THE BREAK EVERYONE WAITS FOR. A campaign built around impact, craving, and satisfying motion. Everything in the composition reacts to the iconic KitKat snap.\n\nMASTER COMPOSITION:\nBACKGROUND: Deep KitKat red environment layered with rich red gradients, chocolate texture overlays, dynamic motion streaks, subtle crumb particles, repeated typography patterns, glossy studio reflections.\n\nHUMAN SUBJECT: Young Gen-Z male/female model. Expression: playful, confident, mid-enjoyment moment. Pose: holding KitKat toward camera, mid-snap action. Camera: slightly low + close perspective. Wardrobe: modern streetwear in neutral tones.\n\nVISUAL ENERGY: The SNAP becomes the visual explosion. At the break point: chocolate shards flying outward, wafer crumbs suspended mid-air, liquid chocolate streaks, motion lines radiating from snap.\n\nPRODUCT HERO: KitKat chocolate bar + wrapper. Placement: foreground center-right. Details: hyper-real chocolate texture, visible wafer layers, glossy melted chocolate highlights, embossed KitKat logo.\n\nTYPOGRAPHY: MAIN: \"BREAK TIME. \" Secondary: \"HAVE A BREAK. HAVE A KITKAT. \" Background: SNAP / CRUNCH / BREAK / CHOCOLATE / WAFER / MELT\n\nFEATURE STRIP: CRISPY WAFER | RICH CHOCOLATE | ICONIC SNAP | PERFECT BREAK\n\nCTA: \"GRAB NOW \" | www.kitkat | \"NESTLÉ KITKAT · 2026 EDITION \"\n\nCOLOR: KitKat red, deep chocolate brown, white typography, golden wafer tones.\n\nLIGHTING: Strong commercial studio key light, warm rim highlights, soft red glow, glossy FMCG reflections.\n\nFINAL FEEL: Nike energy campaign × premium FMCG launch × Behance commercial food poster.",
     "prompt_ar": "التنسيق: بوستر حملة شوكولاتة تجاري مفرط، 8K، جاهز للبيلبورد وسوشيال ميديا. الأسلوب: إعلان FMCG جريء × حملة وجبات خفيفة حديثة × تصميم بوستر نشيط.\n\nالفكرة: الاستراحة التي ينتظرها الجميع. كل شيء يتفاعل مع كسرة كيت كات الأيقونية.\n\nالتكوين: خلفية حمراء عميقة بلون كيت كات مع تدرجات وطبقات شوكولاتة وخطوط حركة ديناميكية.\n\nالشخصية: موديل شاب من جيل Z، تعبير مرح وواثق، ممسك كيت كات نحو الكاميرا أثناء الكسر.\n\nالطاقة البصرية: الكسرة تصبح انفجارًا بصريًا مع شظايا شوكولاتة وفتات ويفر معلق في الهواء.\n\nالمنتج البطل: شريط كيت كات بغلافه في مقدمة التكوين بزاوية ثلاثة أرباع شديدة مع ملمس شوكولاتة واقعي.\n\nالتايبوجرافي: العنوان: \"BREAK TIME. \" الثانوي: \"HAVE A BREAK. HAVE A KITKAT. \" خلفية: SNAP / CRUNCH / BREAK\n\nشريط المميزات: ويفر هش | شوكولاتة غنية | كسرة أيقونية | استراحة مثالية\n\nالألوان: أحمر كيت كات، بني شوكولاتة، أبيض.\n\nالإضاءة: مصدر إضاءة قوي مع لمعات حمراء دافئة وانعكاسات FMCG لامعة.\n\nالشعور النهائي: حملة نايكي × إطلاق FMCG فاخر × بوستر طعام تجاري حديث.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-012",
+    "id": "prompt-021",
     "title": "Match Day",
     "title_ar": "يوم المباراة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/52_lqx6id.jpg",
     "prompt": "Ultra-realistic football match day poster design, Cristiano Ronaldo seen from the back wearing Portugal red jersey number 7, fist raised in victory, walking forward confidently, giant bold typography \"MATCH DAY \" behind player, modern sports graphic design, Portugal vs Colombia logos at top, FIFA World Cup 2026 branding, cinematic stadium atmosphere, textured off-white background, national flag elements blended diagonally, dramatic lighting, dust particles, high-detail jersey fabric, centered composition, editorial sports poster style, minimal premium layout, green red yellow color palette, realistic shadows, sharp focus, Nike/Puma style campaign aesthetic, 4k.",
     "prompt_ar": "تصميم بوستر يوم مباراة كرة قدم فائق الواقعية، كريستيانو رونالدو مرئي من الخلف يرتدي قميص البرتغال الأحمر رقم 7، قبضته مرفوعة انتصارًا، يمشي للأمام بثقة، تايبوجرافي جريء وضخم يكتب \"MATCH DAY \" خلف اللاعب، تصميم رسومات رياضية حديث، شعارات البرتغال وكولومبيا في الأعلى، هوية كأس العالم FIFA 2026، أجواء ملعب سينمائية، خلفية أوف وايت ذات ملمس، عناصر العلم الوطني مدمجة قطريًا، إضاءة درامية، جزيئات غبار، قماش قميص عالي التفاصيل، تكوين مركزي، أسلوب بوستر رياضي تحريري، تخطيط فاخر بسيط، لوحة ألوان أخضر وأحمر وأصفر، ظلال واقعية، تركيز حاد، جمالية حملة نايكي/بوما، 4K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-013",
+    "id": "prompt-022",
     "title": "Tide Detergent Ad",
     "title_ar": "إعلان تايد للغسيل",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/61_i4p7tr.jpg",
     "prompt": "premium FMCG SMM poster, hyper-realistic detergent advertising, luxury commercial product photography, Instagram + billboard hybrid composition, 8K ultra-detail.\n\nCONCEPT: Tide adapts its own authentic global FMCG identity, bold orange-and-yellow brand dominance, clean energy-driven composition, high-trust household advertising aesthetic, performance-focused stain-removal storytelling.\n\nSCENE: Modern Indian luxury laundry room flooded with warm morning sunlight, young Indian mother holding perfectly clean white shirt confidently, soft floating fabric movement across scene, premium minimal household interior, subtle laundry basket and washing machine in background, freshness atmosphere with visible fabric softness, dramatic before-and-after cleaning transformation integrated naturally.\n\nCOMPOSITION: Large Tide detergent pack hero placement foreground, product positioned lower-center, dynamic circular composition inspired by Tide logo geometry, huge negative space upper-left for typography, layered FMCG commercial depth, clean premium visual hierarchy.\n\nPRODUCT: ultra-realistic Tide detergent pack, slightly angled toward camera, water splash + detergent particle simulation surrounding pack, orange-yellow glow accents matching packaging identity, premium reflective packaging detail.\n\nUI ELEMENTS: premium Tide freshness indicator card, \"99% stain removal \", fabric softness badge, quick-wash icon system, freshness meter UI, sparkle cleanliness overlays, minimal FMCG-style notification chips, realistic detergent molecule graphics.\n\nTYPOGRAPHY:\nHuge bold headline: \"TOUGH ON STAINS. \"\nSecondary: \"GENTLE ON FABRIC. \"\nSubheading: \"India's trusted clean for everyday life. \"\nCTA button: \"SHOP NOW \"\n\nDESIGN DETAILS: orange and yellow kinetic gradients, floating detergent particles, foam textures, clean information layering, sparkle highlights, realistic fabric fiber textures, modern FMCG composition system.\n\nLIGHTING: warm natural sunlight, commercial soft-box reflections, ultra-clean product highlights, HDR realism, soft cinematic shadows.\n\nCAMERA: Sony A1, 85mm commercial lens, f/2.0, advertising-grade sharpness.\n\nSTYLE: official Tide global campaign aesthetic, premium, clean, trustworthy, modern, hyper-realistic, high-conversion FMCG advertising.",
     "prompt_ar": "بوستر FMCG SMM فاخر، إعلان منظفات فائق الواقعية، تصوير منتجات تجاري فاخر، تكوين هجين إنستغرام + بيلبورد، 8K فائق التفاصيل.\n\nالمفهوم: تايد يعبر عن هويته FMCG العالمية الأصيلة، هيمنة علامة برتقالية وصفراء جريئة، تكوين مدفوع بالطاقة النظيفة، جمالية إعلانية منزلية عالية الثقة.\n\nالمشهد: غرفة غسيل هندية فاخرة وحديثة مغمورة بضوء الصباح الدافئ، أم هندية شابة تمسك قميصًا أبيض نظيفًا تمامًا بثقة، حركة قماش عائمة ناعمة، داخلية منزلية فاخرة بسيطة، سلة غسيل وغسالة في الخلفية، أجواء انتعاش مع نعومة قماش مرئية.\n\nالتكوين: حزمة تايد الكبيرة في مقدمة البطل، المنتج في المركز السفلي، تكوين دائري ديناميكي مستوحى من هندسة شعار تايد.\n\nالمنتج: حزمة تايد فائقة الواقعية مائلة قليلًا نحو الكاميرا، رذاذ ماء وجزيئات منظف محيطة بالحزمة.\n\nعناصر UI: بطاقة مؤشر النضارة \"إزالة 99% من البقع \"، شارة نعومة القماش، نظام أيقونات الغسيل السريع.\n\nالتايبوجرافي:\nعنوان رئيسي جريء: \"TOUGH ON STAINS. \"\nثانوي: \"GENTLE ON FABRIC. \"\nعنوان فرعي: \"النظافة الموثوقة للهند لحياتهم اليومية. \"\nزر CTA: \"SHOP NOW \"\n\nتفاصيل التصميم: تدرجات كينيتيكية برتقالية وصفراء، جزيئات منظف عائمة، خامات رغوة، إبرازات بريق، خامات ألياف قماش واقعية.\n\nالإضاءة: ضوء شمس طبيعي دافئ، انعكاسات سوفت بوكس، لمعات منتج نظيفة للغاية.\n\nالأسلوب: جمالية حملة تايد العالمية الرسمية، فاخر، نظيف، موثوق، حديث، فائق الواقعية.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-014",
+    "id": "prompt-023",
     "title": "Matcha Latte Ad",
     "title_ar": "إعلان ماتشا لاتيه",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/57_jlo3j2.jpg",
     "prompt": "[Matcha Latte] STYLE & ART DIRECTION: Modern minimalist food advertising aesthetics, Swiss-style advertising composition, premium restaurant social media branding, editorial design for an FMCG campaign, visuals for startup food brands, Pinterest-style food poster aesthetics, playful geometric advertising structure, modern in-app branding style, minimalist luxury restaurant marketing.\n\nMAIN OBJECT: Hyper-realistic food hero placed in the center of the composition, striking premium food photography design, floating or suspended presentation, realistic glossy textures, detailing of fresh ingredients, mouth-watering commercial presentation, studio-quality dish rendering, premium restaurant advertising campaign atmosphere.\n\nLAYOUT & COMPOSITION: Maintain the EXACT composition structure as sampled: large, rounded organic cream background centered on a vibrant full-color backdrop, large lowercase type placed behind the protagonist and the hero's food object positioned in the center overlapping, small branding/navigation strip aligned at the top, short editorial text block positioned on the left, floating rounded ingredient or flavor labels in the UI aligned vertically on the right, minimal decorative micro-icons, clean asymmetrical spacing, large breakout room, premium minimalist style hierarchy, social media poster composition.\n\nTypography: Large, bold typeface with rounded lowercase letters, modern geometric sans-serif font system, minimal supporting text, clear typography hierarchy, soft rounded commercial lettering, large-scale typography treatment hidden behind objects.\n\nDEPTH AND LIGHT: Soft premium studio lighting, high-quality food highlights, realistic soft shadows, subtle glossy reflections, cinematic commercial lighting, highly detailed texture rendering.\n\nADDITIONAL DESIGN DETAILS: Rounded pill-shaped labels, small plus icons, minimal floating elements, app-like composition, fresh ingredient garnish, soft shadow blending, modern food delivery branding system.\n\nCOLOR PALETTE: [PRIMARY BRAND COLOR], cream/off-white, warm accent tones, high-contrast food colors, minimal black typography accents.\n\nQuality: Ultra-high resolution, Behance-level food ad quality, 8K commercial rendering, Pinterest-style restaurant ad campaign design, premium FMCG branding aesthetics.",
     "prompt_ar": "[ماتشا لاتيه] الأسلوب والتوجيه الفني: جماليات إعلانات طعام مينيمال حديثة، تكوين إعلاني بالأسلوب السويسري، براندنج سوشيال ميديا للمطاعم الراقية، تصميم تحريري لحملة FMCG، صور لعلامات طعام ناشئة، جماليات بوستر طعام بأسلوب بينتريست، هيكل إعلاني هندسي مرح، أسلوب براندنج داخل التطبيق.\n\nالعنصر الرئيسي: بطل طعام فائق الواقعية في مركز التكوين، تصميم تصوير طعام فاخر لافت، عرض عائم أو معلق، خامات لامعة واقعية، تفاصيل مكونات طازجة، عرض تجاري مشهي، رندر طبق بجودة استوديو.\n\nالتخطيط والتكوين: حافظ على بنية التكوين الدقيقة: خلفية كريمية دائرية عضوية كبيرة على خلفية ملونة كاملة، تايبوجرافي كبير بحروف صغيرة خلف بطل الطعام في المنتصف يتداخل معه، شريط براندنج صغير في الأعلى، كتلة نص تحريرية قصيرة على اليسار، تسميات مكونات أو نكهات مستديرة عائمة على اليمين.\n\nالتايبوجرافي: خط كبير جريء بحروف صغيرة مستديرة، نظام خط سانس سيريف هندسي حديث، نص داعم قليل، تسلسل تايبوجرافي واضح.\n\nالعمق والضوء: إضاءة استوديو فاخرة ناعمة، لمعات طعام عالية الجودة، ظلال ناعمة واقعية، انعكاسات لامعة خفيفة.\n\nتفاصيل تصميمية إضافية: تسميات بيضاوية مستديرة، أيقونات زائد صغيرة، عناصر عائمة بسيطة، تكوين شبيه بالتطبيق، زينة مكونات طازجة.\n\nلوحة الألوان: [لون العلامة الرئيسي]، كريمي/أوف وايت، درجات لهجة دافئة، ألوان طعام عالية التباين.\n\nالجودة: دقة فائقة، جودة إعلان طعام بمستوى بيهانس، رندر تجاري 8K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-015",
+    "id": "prompt-024",
     "title": "Brand Identity",
     "title_ar": "هوية بصرية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662699/50_wtwf90.jpg",
     "prompt": "Create a complete brand identity presentation for an original premium skincare brand called \"VELORA \". Show a cohesive 3x3 grid of nine tiles inside a portrait 2:3 canvas, with balanced margins around the grid. The overall style is elevated, clean, modern, minimal, luxurious, and ultra realistic, with a seamless light warm gray background, soft diffused studio lighting, subtle shadows, and high-end mockup photography. Use a consistent sophisticated color palette of cream, muted blush, dusty rose, warm taupe, and deep espresso. No people, no watermark, no readable real-world brand names.\n\nDesign the nine tiles as a full cohesive brand system:\nTile 1: primary logo lockup on a textured paper card, featuring the word \"VELORA \" with an elegant icon above it.\nTile 2: secondary logo marks and monogram variations, neatly arranged like a brand exploration sheet.\nTile 3: color palette swatches and a typography specimen poster, clearly showing the palette and elegant font pairings.\nTile 4: packaging mockup for a facial cleanser, premium tube and matching box.\nTile 5: hero product photo for a radiance serum, premium glass dropper bottle styled beautifully.\nTile 6: set of three moisturizer products in different sizes, matching jars or containers.\nTile 7: stationery mockups including business card, letterhead, and envelope.\nTile 8: social media post mockups and a phone screen UI preview for the brand.\nTile 9: a refined lifestyle scene featuring the facial cleanser with brand-matching props such as stone, ceramic, fabric, and subtle botanical elements.\n\nKeep every tile visually consistent and polished. Use realistic materials, tasteful typography, and premium packaging details. The composition should feel like a luxury brand identity board or portfolio presentation.",
     "prompt_ar": "أنشئ عرضًا كاملًا للهوية البصرية لعلامة عناية بالبشرة فاخرة ومبتكرة اسمها \"VELORA \". اعرض شبكة متماسكة 3×3 من تسع خلايا داخل لوحة رأسية 2:3 مع هوامش متوازنة. الأسلوب العام راقٍ ونظيف وحديث وبسيط وفاخر وفائق الواقعية، مع خلفية رمادية دافئة فاتحة سلسة وإضاءة استوديو ناعمة منتشرة وظلال خفيفة وتصوير موكاب فاخر. استخدم لوحة ألوان راقية ومتسقة: كريمي، وردي باهت، وردة مترابة، بيج دافئ، وإسبريسو عميق. بدون أشخاص، بدون علامة مائية.\n\nصمم التسع خلايا كنظام هوية بصرية متكاملة:\nالخلية 1: الشعار الأساسي على بطاقة ورقية ذات ملمس، تحتوي على كلمة \"VELORA \" مع أيقونة أنيقة فوقها.\nالخلية 2: شعارات ثانوية وتنويعات مونوجرام مرتبة بشكل أنيق كورقة استكشاف علامة.\nالخلية 3: عينات لوحة الألوان وبوستر نماذج الخطوط، يعرض اللوحة وأزواج الخطوط الأنيقة.\nالخلية 4: موكاب تغليف لمنظف الوجه، أنبوب فاخر مع صندوق مطابق.\nالخلية 5: صورة منتج بطل لسيروم التألق، زجاجة قطارة زجاجية فاخرة مصممة بجمال.\nالخلية 6: مجموعة من ثلاثة منتجات مرطبة بأحجام مختلفة، عبوات أو جرارات مطابقة.\nالخلية 7: موكاب قرطاسية تتضمن بطاقة عمل وورق رسائل ومظروف.\nالخلية 8: موكاب منشورات سوشيال ميديا ومعاينة UI لشاشة هاتف للعلامة.\nالخلية 9: مشهد حياتي راقٍ يعرض منظف الوجه مع إكسسوارات مطابقة للعلامة كالحجارة والسيراميك والقماش والعناصر النباتية.\n\nاجعل كل خلية متسقة بصريًا ومصقولة. استخدم مواد واقعية وتايبوجرافي ذوقي وتفاصيل تغليف فاخرة. يجب أن يبدو التكوين كلوحة هوية علامة فاخرة أو عرض محفظة أعمال.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-016",
+    "id": "prompt-025",
     "title": "Eid Tea",
     "title_ar": "شاي العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/38_ubxwcx.jpg",
     "prompt": "Cinematic Arabic tea advertisement during Eid family gathering, featuring a glass tea cup with swirling mint leaves and steam forming an Arabic crescent moon, warm cozy lighting, luxurious dark green and gold background, floating sugar crystals and tea splashes, elegant Arabic typography saying \"لمة العيد \", realistic reflections, premium beverage photography style, atmospheric particles, ultra detailed render.",
     "prompt_ar": "إعلان شاي عربي سينمائي أثناء تجمع عائلي في العيد، يظهر كوب شاي زجاجي مع أوراق نعناع دوارة وبخار يشكل هلالًا عربيًا، إضاءة دافئة ومريحة، خلفية فاخرة باللون الأخضر الداكن والذهبي، بلورات سكر عائمة ورذاذ شاي، تايبوجرافي عربي أنيق مكتوب عليه \"لمة العيد \", انعكاسات واقعية، أسلوب تصوير مشروبات فاخر، جزيئات جوية، رندر فائق التفاصيل.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-017",
+    "id": "prompt-026",
     "title": "Eid Tech",
     "title_ar": "تقنية العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/37_gjxd0z.jpg",
     "prompt": "Modern Arabic electronics sale poster for Eid offers, featuring floating smartphones, headphones, gaming consoles, and smart watches orbiting around a glowing ram-shaped energy core, futuristic neon lighting, premium black and blue color palette, Arabic typography saying \"عروض العيد وصلت \", glossy reflections, cinematic tech commercial aesthetic, ultra detailed product renders, energetic composition, 8k.",
     "prompt_ar": "بوستر عربي حديث لعروض إلكترونيات العيد، يعرض هواتف ذكية وسماعات وأجهزة ألعاب وساعات ذكية تطفو وتدور حول نواة طاقة متوهجة على شكل كبش، إضاءة نيون مستقبلية، لوحة ألوان فاخرة بالأسود والأزرق، تايبوجرافي عربي مكتوب عليه \"عروض العيد وصلت \", انعكاسات لامعة، أسلوب إعلان تقني سينمائي، رندرات منتجات فائقة التفاصيل، تكوين مليء بالطاقة، 8K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-018",
+    "id": "prompt-027",
     "title": "Meat Guide",
     "title_ar": "دليل اللحوم",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/40_qwbsfg.jpg",
     "prompt": "Futuristic Arabic infographic poster for luxury sheep meat cuts and grilling guide, featuring a holographic ram anatomy with glowing neon labels, realistic grill flames, floating spices, modern Arabic typography, dark matte background with copper and gold accents, sections for steak cuts, grilling levels, seasoning tips, and Eid feast ideas, elegant premium design, cinematic lighting, high-tech butcher aesthetic, ultra detailed 8k render.",
     "prompt_ar": "بوستر إنفوجرافيك عربي مستقبلي وفاخر لدليل تقطيع لحم الخروف والشوي، يحتوي على تشريح كبش هولوغرافي بعناوين نيون مضيئة، نيران شواء واقعية، توابل عائمة، تايبوجرافي عربي حديث، خلفية داكنة مطفية بلمسات نحاسية وذهبية، أقسام لقطع الستيك ودرجات الشوي ونصائح التتبيل وأفكار عزومة العيد، تصميم فاخر أنيق، إضاءة سينمائية، طابع جزار عالي التقنية، رندر 8K فائق التفاصيل.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-019",
+    "id": "prompt-028",
     "title": "Eid Sneakers",
     "title_ar": "سنيكرز العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/43_rwoeis.jpg",
     "prompt": "Luxury Arabic sneaker advertisement for Eid collection release, featuring futuristic sneakers floating above glowing desert sand with golden dust storms and Arabic geometric patterns, dramatic sunset lighting, premium black and gold branding, Arabic typography saying \"خطوة العيد \", ultra detailed product textures, cinematic reflections, high fashion commercial photography style, dynamic composition, elegant Eid atmosphere, 8k.",
     "prompt_ar": "إعلان عربي فاخر لسنيكرز مجموعة العيد، يعرض حذاءً مستقبليًا يطفو فوق رمال صحراوية متوهجة مع عواصف غبار ذهبية ونقوش هندسية عربية، إضاءة غروب درامية، هوية فاخرة بالأسود والذهبي، تايبوجرافي عربي مكتوب عليه \"خطوة العيد \", خامات منتج فائقة التفاصيل، انعكاسات سينمائية، أسلوب تصوير أزياء تجاري فاخر، تكوين ديناميكي، أجواء عيد أنيقة، 8K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-020",
+    "id": "prompt-029",
     "title": "Eid Sweets",
     "title_ar": "حلويات العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/41_g6kj7f.jpg",
     "prompt": "Luxury Arabic bakery advertisement featuring giant Eid cookies and pastries floating in warm golden lighting with powdered sugar particles, realistic butter textures, elegant Arabic typography saying \"حلويات العيد \", cozy cinematic atmosphere, premium dessert photography style, soft depth of field, rich cream and gold tones, realistic steam and sparkles, dark elegant background.",
     "prompt_ar": "إعلان مخبوزات عربي فاخر يعرض كعك وحلويات عيد ضخمة تطفو داخل إضاءة ذهبية دافئة مع جزيئات سكر بودرة، خامات زبدة واقعية، تايبوجرافي عربي أنيق مكتوب عليه \"حلويات العيد \", أجواء سينمائية مريحة، أسلوب تصوير حلويات فاخر، عمق ميدان ناعم، درجات كريمية وذهبية غنية، بخار وشرارات واقعية، خلفية داكنة أنيقة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-021",
+    "id": "prompt-030",
     "title": "Emerald Perfume",
     "title_ar": "عطر زمرد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/45_ficskd.jpg",
     "prompt": "A perfume bottle on a sleek marble surface, luxury product photography, soft studio lighting, black and emerald color palette, ultra sharp focus, 8k resolution, professional advertisement style, shallow depth of field, photorealistic --ar 3:2 --v 6.1 --stylize 600 --q 2",
     "prompt_ar": "زجاجة عطر على سطح رخامي أنيق، تصوير منتجات فاخر، إضاءة استوديو ناعمة، لوحة ألوان سوداء وزمردية، تركيز فائق الحدة، دقة 8K، أسلوب إعلان احترافي، عمق ميدان ضحل، واقعية فوتوغرافية --ar 3:2 --v 6.1 --stylize 600 --q 2",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-022",
+    "id": "prompt-031",
     "title": "Eid Burger",
     "title_ar": "برجر العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/39_agytnj.jpg",
     "prompt": "Hyper realistic Arabic burger advertisement themed for Eid Al-Adha, featuring a giant juicy grilled burger exploding with flying spices, meat smoke, molten cheese, and glowing fire sparks, dark cinematic background with red and orange lighting, realistic Eid decorations hanging above, Arabic typography saying \"العيد له طعم تاني \", premium fast food commercial style, glossy reflections, depth of field, ultra detailed textures, dynamic composition, modern social media marketing poster.",
     "prompt_ar": "إعلان برجر عربي فائق الواقعية بطابع عيد الأضحى، يعرض برجر مشوي ضخم وعصيري ينفجر بالتوابل المتطايرة ودخان اللحم والجبن الذائب وشرارات نار مضيئة، خلفية سينمائية داكنة بإضاءة حمراء وبرتقالية، زينة عيد واقعية معلقة بالأعلى، تايبوجرافي عربي مكتوب عليه \"العيد له طعم تاني \", أسلوب إعلان فاست فود فاخر، انعكاسات لامعة، عمق ميدان، خامات فائقة التفاصيل، تكوين ديناميكي، بوستر تسويق حديث للسوشيال ميديا.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-023",
+    "id": "prompt-032",
     "title": "Eid Chocolate",
     "title_ar": "شوكولاتة العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/42_wzxlpb.jpg",
     "prompt": "Luxury Arabic chocolate box advertisement for Eid gifting season, featuring floating chocolate pieces, molten chocolate splashes, crescent moon made from cocoa powder, elegant Arabic typography saying \"عيدك أحلى \", rich brown and gold palette, soft glowing lanterns, premium packaging with velvet textures, cinematic product photography, luxury dessert campaign style, atmospheric smoke and sparkles, ultra realistic reflections, dark elegant background, 8k.",
     "prompt_ar": "إعلان عربي فاخر لعلبة شوكولاتة لموسم هدايا العيد، يعرض قطع شوكولاتة عائمة ورذاذ شوكولاتة ذائبة وهلالًا مصنوعًا من بودرة الكاكاو، تايبوجرافي عربي أنيق مكتوب عليه \"عيدك أحلى \", لوحة ألوان بنية وذهبية غنية، فوانيس متوهجة ناعمة، تغليف فاخر بخامات مخملية، تصوير منتجات سينمائي، أسلوب حملة حلويات فاخرة، دخان وشرارات جوية، انعكاسات فائقة الواقعية، خلفية داكنة أنيقة، 8K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-024",
+    "id": "prompt-033",
     "title": "Skincare Jar",
     "title_ar": "كريم عناية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/48_o0f5ar.jpg",
     "prompt": "A skincare cream jar on a sleek marble surface, luxury product photography, soft studio lighting, black and white color palette, ultra sharp focus, 8k resolution, professional advertisement style, shallow depth of field, photorealistic --ar 3:2 --v 6.1 --stylize 600 --q 2",
     "prompt_ar": "عبوة كريم عناية بالبشرة على سطح رخامي أنيق، تصوير منتجات فاخر، إضاءة استوديو ناعمة، لوحة ألوان أبيض وأسود، تركيز فائق الحدة، دقة 8K، أسلوب إعلان احترافي، عمق ميدان ضحل، واقعية فوتوغرافية --ar 3:2 --v 6.1 --stylize 600 --q 2",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-025",
+    "id": "prompt-034",
     "title": "Oud Smoke",
     "title_ar": "دخان العود",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/44_okteqf.jpg",
     "prompt": "Luxury cinematic Arabic advertisement poster for a premium oud perfume bottle during Eid Al-Adha, featuring a majestic ram silhouette made from glowing golden smoke behind the product, floating oud wood chips, warm lantern lighting, deep emerald and gold color palette, ultra realistic reflections, Arabic typography saying \"ريحة العيد غير \", premium Arabic calligraphy, glossy black marble surface, rich atmospheric particles, luxury commercial photography, dramatic spotlight, 8k ultra detailed.",
     "prompt_ar": "بوستر إعلان عربي سينمائي فاخر لزجاجة عطر عود راقية خلال عيد الأضحى، يظهر خلف المنتج سيلويت كبش مهيب مصنوع من دخان ذهبي متوهج، رقائق خشب عود عائمة، إضاءة فوانيس دافئة، لوحة ألوان زمردية وذهبية عميقة، انعكاسات فائقة الواقعية، تايبوجرافي عربي مكتوب عليه \"ريحة العيد غير \", خط عربي فاخر، سطح رخام أسود لامع، جزيئات جوية غنية، تصوير تجاري فاخر، سبوت لايت درامي، 8K فائق التفاصيل.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-026",
+    "id": "prompt-035",
     "title": "Car Detailing",
     "title_ar": "تلميع سيارة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/49_cqw5zz.jpg",
     "prompt": "Hyper realistic Arabic car detailing advertisement for Eid preparations, featuring a luxury SUV covered in glowing water splashes and golden reflections under dramatic studio lighting, floating cleaning tools and mist particles, Arabic typography saying \"خلّيك عربيتك تعيد \", premium automotive commercial style, dark glossy garage environment, ultra detailed reflections and cinematic atmosphere, 8k.",
     "prompt_ar": "إعلان عربي فائق الواقعية لخدمة تلميع وتنظيف السيارات استعدادًا للعيد، يعرض سيارة SUV فاخرة مغطاة برذاذ ماء مضيء وانعكاسات ذهبية تحت إضاءة استوديو درامية، أدوات تنظيف عائمة وجزيئات ضباب، تايبوجرافي عربي مكتوب عليه \"خلّيك عربيتك تعيد \", أسلوب إعلان سيارات فاخر، جراج داكن ولامع، انعكاسات فائقة التفاصيل وأجواء سينمائية، 8K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-027",
+    "id": "prompt-036",
     "title": "Honey Jar",
     "title_ar": "برطمان عسل",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/46_ekqiyn.jpg",
     "prompt": "Luxury cinematic product advertisement for a premium honey jar placed on a reflective black marble surface, surrounded by floating honey drops, golden light streaks, smoke particles, glowing dust, and realistic honeycomb textures. Warm amber and gold tones, dramatic spotlight from top left, ultra realistic packaging with elegant black-and-gold label design, macro photography depth of field, rich premium branding atmosphere, hyper detailed reflections, commercial food photography style, 8k, dark luxurious background, dynamic composition.",
     "prompt_ar": "إعلان منتج سينمائي فاخر لبرطمان عسل راقي موضوع على سطح رخام أسود عاكس، محاط بقطرات عسل عائمة وخطوط ضوء ذهبية وجزيئات دخان وغبار متوهج وخامات خلية نحل واقعية. درجات كهرمانية وذهبية دافئة، سبوت لايت درامي من أعلى اليسار، تغليف فائق الواقعية بملصق أسود وذهبي أنيق، عمق ميدان ماكرو، أجواء براندنج فاخرة، انعكاسات شديدة التفاصيل، أسلوب تصوير طعام تجاري، 8K، خلفية داكنة فاخرة، تكوين ديناميكي.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-028",
+    "id": "prompt-037",
     "title": "Sheep Barber",
     "title_ar": "خروف الحلاق",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371013/47_fbhmhu.jpg",
     "prompt": "Funny cinematic Eid-themed sheep sitting confidently inside a luxury barber shop chair instead of a dental chair, wearing stylish sunglasses and a barber cape, surrounded by barber tools and festive hanging lights. Deep emerald green gradient background with elegant Arabic typography space on the side, soft studio lighting, ultra realistic wool texture, playful facial expression, modern Arabic poster aesthetic, premium social media advertisement look, detailed reflections and shadows, festive atmosphere, 3D photorealistic render, 8k.",
     "prompt_ar": "خروف كوميدي بطابع العيد يجلس بثقة داخل كرسي حلاق فاخر بدل كرسي أسنان، يرتدي نظارة شمسية أنيقة وغطاء حلاقة، ومحاط بأدوات حلاقة وإضاءات احتفالية معلقة. خلفية بتدرج أخضر زمردي عميق مع مساحة جانبية لتايبوجرافي عربي أنيق، إضاءة استوديو ناعمة، ملمس صوف فائق الواقعية، تعبير وجه مرح، جمالية بوستر عربي حديث، مظهر إعلان فاخر للسوشيال ميديا، انعكاسات وظلال مفصلة، أجواء احتفالية، رندر ثلاثي الأبعاد فوتورياليست، 8K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-029",
+    "id": "prompt-038",
     "title": "Animal Silhouettes",
     "title_ar": "سيلويت حيوانات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778883200/36_j1dkn9.jpg",
     "prompt": "Generate a clean CNC-ready vector style sheet containing 9 random animal silhouettes arranged in a perfect 3×3 grid layout. Each generation must use different random animals. Animals must not repeat in the same image. Use only simple silhouette shapes. No eyes, no mouth, no fur details, no textures, no internal lines. Pure white animal silhouettes on a pure black background. Minimal smooth curves and clean edges suitable for CNC cutting or laser cutting. Thick readable shapes with no tiny floating parts. Every animal centered inside its own equal square space. High spacing between animals. Flat 2D icon style. No shadows, gradients, lighting, or 3D effects. Export style should look like stencil/vector cut shapes. Keep silhouettes child-friendly and recognizable. Randomly include animals such as elephant, giraffe, lion, turtle, rabbit, fox, whale, penguin, camel, crocodile, owl, monkey, deer, duck, bear, cat, dog, dinosaur, fish, etc. Square canvas. Ultra sharp edges. High contrast black and white only.",
     "prompt_ar": "أنشئ ورقة فيكتور نظيفة جاهزة للـ CNC تحتوي على 9 سيلويتات عشوائية لحيوانات مرتبة في شبكة مثالية 3×3. يجب أن تستخدم كل مرة حيوانات عشوائية مختلفة. لا تكرر أي حيوان داخل نفس الصورة. استخدم أشكال سيلويت بسيطة فقط. بدون عيون، بدون فم، بدون تفاصيل فرو، بدون خامات، وبدون خطوط داخلية. اجعل سيلويتات الحيوانات بيضاء بالكامل على خلفية سوداء بالكامل. استخدم منحنيات ناعمة بسيطة وحواف نظيفة مناسبة للقص بالـ CNC أو الليزر. اجعل الأشكال سميكة وواضحة بدون أجزاء صغيرة عائمة. يجب أن يكون كل حيوان في منتصف مساحة مربعة متساوية خاصة به. اترك مسافات واسعة بين الحيوانات. الأسلوب أيقونات مسطحة ثنائية الأبعاد. بدون ظلال أو تدرجات أو إضاءة أو تأثيرات ثلاثية الأبعاد. يجب أن يبدو الإخراج كأشكال ستانسل أو فيكتور جاهزة للقص. اجعل السيلويتات مناسبة للأطفال وسهلة التعرف عليها. اختر عشوائيًا حيوانات مثل الفيل، الزرافة، الأسد، السلحفاة، الأرنب، الثعلب، الحوت، البطريق، الجمل، التمساح، البومة، القرد، الغزال، البط، الدب، القط، الكلب، الديناصور، السمكة، وغيرها. لوحة مربعة. حواف فائقة الحدة. تباين عالٍ بالأبيض والأسود فقط.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-030",
+    "id": "prompt-039",
     "title": "Flying Elephant",
     "title_ar": "فيل يطير",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740489/23_bnycz9.jpg",
     "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a baby elephant with goggles flying a small red airplane. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
     "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر فيلًا صغيرًا يرتدي نظارات طيران ويقود طائرة حمراء صغيرة. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح وجه لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-031",
+    "id": "prompt-040",
     "title": "Magic Owl",
     "title_ar": "بومة سحرية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740621/24_pydem8.jpg",
     "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a cute fluffy owl with large round glasses sitting on magical books. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
     "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر بومة لطيفة وناعمة ترتدي نظارة دائرية كبيرة وتجلس فوق كتب سحرية. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح وجه لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-032",
+    "id": "prompt-041",
     "title": "Forest Fox",
     "title_ar": "ثعلب الغابة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740703/25_ewpr1n.jpg",
     "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a fluffy fox with a backpack standing on a glowing forest path. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
     "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر ثعلبًا ناعمًا يحمل حقيبة ظهر ويقف على طريق مضيء داخل غابة سحرية. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-033",
+    "id": "prompt-042",
     "title": "Chef Cat",
     "title_ar": "قطة شيف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740714/26_y7wb7i.jpg",
     "prompt": "A high-quality 3D Disney-Pixar style book cover illustration featuring a ginger cat in a tall white chef's hat making pizza. Vibrant colors, soft cinematic lighting, magical atmosphere, enchanted background, 8k resolution, highly detailed textures, cute and expressive facial features, whimsical mood. --ar 2:3 --v 6.0",
     "prompt_ar": "رسم غلاف كتاب عالي الجودة بأسلوب ثلاثي الأبعاد يشبه ديزني بيكسار، يظهر قطة برتقالية ترتدي قبعة شيف بيضاء طويلة وتصنع البيتزا. ألوان نابضة بالحياة، إضاءة سينمائية ناعمة، أجواء سحرية، خلفية خيالية، جودة 8K، خامات عالية التفاصيل، ملامح وجه لطيفة ومعبرة، ومزاج مرح وحالم. --ar 2:3 --v 6.0",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-034",
+    "id": "prompt-043",
     "title": "Perfume Beach",
     "title_ar": "عطر الشاطئ",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740880/27_xkb4g6.jpg",
     "prompt": "Hyper realistic miniature world of tropical beach resort built around a detailed perfume bottle, featuring tiny tourists relaxing and swimming interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: tropical luxury environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لمنتجع شاطئي استوائي مبني حول زجاجة عطر مفصلة، مع سياح صغار يسترخون ويسبحون ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة استوائية فاخرة مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-035",
+    "id": "prompt-044",
     "title": "Car Factory",
     "title_ar": "مصنع سيارات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740881/28_cm0rkp.jpg",
     "prompt": "Hyper realistic miniature world of car factory assembly line built around a detailed sports car model, featuring tiny workers assembling parts interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: industrial factory environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لخط تجميع مصنع سيارات مبني حول موديل سيارة رياضية مفصل، مع عمال صغار يجمعون الأجزاء ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة مصنع صناعية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-036",
+    "id": "prompt-045",
     "title": "Phone City",
     "title_ar": "مدينة الهاتف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740882/30_brab3r.jpg",
     "prompt": "Hyper realistic miniature world of futuristic city built around a detailed smartphone, featuring tiny engineers maintaining glowing circuits interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: futuristic neon environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لمدينة مستقبلية مبنية حول هاتف ذكي مفصل، مع مهندسين صغار يقومون بصيانة دوائر مضيئة ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة نيون مستقبلية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-037",
+    "id": "prompt-046",
     "title": "Croissant Bakery",
     "title_ar": "مخبز كرواسون",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740882/29_cdlfwm.jpg",
     "prompt": "Hyper realistic miniature world of bakery workshop built around a detailed croissant, featuring tiny chefs baking and decorating pastries interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: warm bakery environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لورشة مخبز مبنية حول كرواسون مفصل، مع شيفات صغار يخبزون ويزينون المعجنات ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة مخبز دافئة مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-038",
+    "id": "prompt-047",
     "title": "Watch Construction",
     "title_ar": "بناء الساعة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741159/31_m4vzpw.jpg",
     "prompt": "Hyper realistic miniature world of busy construction site built around a detailed luxury wristwatch, featuring tiny workers assembling gears and polishing metal interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: industrial metallic environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لموقع بناء مزدحم مبني حول ساعة يد فاخرة مفصلة، مع عمال صغار يجمعون التروس ويلمعون المعدن ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة معدنية صناعية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-039",
+    "id": "prompt-048",
     "title": "Watch Gears",
     "title_ar": "تروس الساعة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741160/32_vwqcc9.jpg",
     "prompt": "Hyper realistic miniature world of busy construction site built around a detailed luxury wristwatch, featuring tiny workers assembling gears and polishing metal interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: industrial metallic environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لموقع بناء مزدحم مبني حول ساعة يد فاخرة مفصلة، مع عمال صغار يجمعون التروس ويلمعون المعدن ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة معدنية صناعية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-040",
+    "id": "prompt-049",
     "title": "Soda Jungle",
     "title_ar": "غابة صودا",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741161/33_kmdtds.jpg",
     "prompt": "Hyper realistic miniature world of jungle adventure built around a detailed soda can, featuring tiny adventurers exploring and climbing vines interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: dense jungle environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لمغامرة في الغابة مبني حول علبة صودا مفصلة، مع مغامرين صغار يستكشفون ويتسلقون الكروم ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة غابة كثيفة مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-041",
+    "id": "prompt-050",
     "title": "Watch Space",
     "title_ar": "ساعة الفضاء",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741162/34_wxfx2y.jpg",
     "prompt": "Hyper realistic miniature world of space mission launch site built around a detailed smartwatch, featuring tiny astronauts preparing for launch interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: sci-fi space environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لموقع إطلاق مهمة فضائية مبني حول ساعة ذكية مفصلة، مع رواد فضاء صغار يستعدون للإطلاق ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة فضاء خيال علمي مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-042",
+    "id": "prompt-051",
     "title": "Coffee Mountain",
     "title_ar": "جبل القهوة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741162/35_m8rkcs.jpg",
     "prompt": "Hyper realistic miniature world of snowy mountain expedition built around a detailed coffee cup, featuring tiny explorers climbing and camping interacting naturally, designed for high-converting branding and storytelling visuals. Style: ultra-realistic macro photography, cinematic, luxury commercial aesthetic. Lighting: dramatic studio lighting with soft shadows and sharp highlights, depth-enhanced glow. Angle/Composition: macro close-up, shallow depth of field, precise focus stacking, square composition. Background: snowy alpine environment scaled to miniature realism. Details: extreme texture fidelity, lifelike materials, micro-details, realistic proportions, immersive depth, 32K ultra HD. Optional Effects: subtle atmospheric particles or miniature motion effects.",
     "prompt_ar": "عالم مصغر فائق الواقعية لرحلة جبلية ثلجية مبنية حول كوب قهوة مفصل، مع مستكشفين صغار يتسلقون ويخيمون ويتفاعلون بشكل طبيعي، مصمم لصور براندنج وسرد بصري عالية التحويل. الأسلوب: تصوير ماكرو فائق الواقعية، سينمائي، بطابع تجاري فاخر. الإضاءة: إضاءة استوديو درامية مع ظلال ناعمة ولمعات حادة وتوهج يعزز العمق. الزاوية والتكوين: لقطة ماكرو قريبة، عمق ميدان ضحل، تركيز دقيق، تكوين مربع. الخلفية: بيئة جبال ألب ثلجية مصغرة بواقعية. التفاصيل: خامات شديدة الدقة، مواد واقعية، تفاصيل ميكرو، نسب واقعية، عمق غامر، جودة 32K Ultra HD. تأثيرات اختيارية: جزيئات جوية خفيفة أو تأثير حركة مصغر.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-043",
+    "id": "prompt-052",
     "title": "Noir Light",
     "title_ar": "ضوء نوار",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778362778/22_cpwjfw.jpg",
     "prompt": "Create a photorealistic modern noir portrait of [SUBJECT] leaning slightly toward a softly glowing vertical light bar. One half of the subject’s face should be illuminated by a cinematic [LIGHT TONE] haze, while the other half fades completely into deep pitch-black shadows. The posture should feel relaxed and natural, with a crisp, clearly defined silhouette that creates dramatic contrast and depth. The scene should have a sleek modern noir aesthetic with minimal lighting and a cinematic atmosphere. Emphasize the interplay between light and shadow to create a mysterious, intimate, and stylish mood. The glowing vertical light bar should be the only visible light source in the scene, casting soft directional illumination across the subject’s face and body. Use a mid-shot composition from a subtle side angle with shallow depth of field and high dynamic range. Keep the background completely black and minimal, with no distracting objects or scenery. The environment should feel like a dark minimalist studio with controlled cinematic lighting. The final image should feel elegant, atmospheric, and emotionally cinematic, with ultra-realistic skin texture, natural shadows, refined contrast, and a polished editorial quality similar to high-end fashion photography or modern film stills.",
     "prompt_ar": "أنشئ بورتريه نوار حديثًا فائق الواقعية لشخصية [SUBJECT] تميل قليلًا نحو شريط ضوء رأسي متوهج بنعومة. يجب أن يكون نصف وجه الشخصية مضاءً بضباب سينمائي بلون [LIGHT TONE]، بينما يختفي النصف الآخر تمامًا داخل ظلال سوداء عميقة. يجب أن تبدو الوقفة طبيعية ومريحة مع سيلويت واضح وحاد يخلق تباينًا وعمقًا دراميًا. يجب أن يحمل المشهد طابع نوار حديث وأنيق بإضاءة قليلة وأجواء سينمائية. ركز على التفاعل بين الضوء والظل لصنع إحساس غامض وحميم وأنيق. يجب أن يكون شريط الضوء الرأسي هو مصدر الإضاءة الوحيد الظاهر في المشهد، ويلقي إضاءة اتجاهية ناعمة على الوجه والجسم. استخدم تكوين لقطة متوسطة من زاوية جانبية خفيفة مع عمق ميدان ضحل ونطاق ديناميكي عالٍ. اجعل الخلفية سوداء تمامًا وبسيطة، بدون أي عناصر مشتتة. يجب أن يبدو المكان كاستوديو مظلم بسيط بإضاءة سينمائية محكمة. النتيجة النهائية يجب أن تكون أنيقة ومزاجية وسينمائية عاطفيًا، مع ملمس بشرة واقعي جدًا وظلال طبيعية وتباين راقٍ وجودة تحريرية مصقولة تشبه تصوير الأزياء الفاخر أو لقطات الأفلام الحديثة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-044",
+    "id": "prompt-053",
     "title": "Fanta Splash",
     "title_ar": "فانتا سبلاش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778106352/2_rfzuoj.jpg",
     "prompt": "A highly detailed commercial product shot of a chilled Fanta Orange bottle placed at the center of the composition, surrounded by dynamic splashes of orange soda and floating orange slices. The bottle is covered with realistic condensation droplets to emphasize freshness, while the liquid splash explodes outward in an energetic and visually striking way. The background is a rich glowing orange gradient with soft bokeh highlights, enhancing the refreshing citrus atmosphere. The lighting is bright and polished, with glossy reflections and sharp focus on the bottle, creating a premium advertising look that feels bold, refreshing, and full of motion.",
     "prompt_ar": "لقطة دعائية تجارية عالية التفاصيل لزجاجة فانتا برتقال باردة موضوعة في منتصف التكوين، ومحاطة برذاذ ديناميكي من المشروب وشرائح البرتقال المتطايرة. الزجاجة مغطاة بقطرات تكثف واقعية لإبراز الإحساس بالانتعاش، بينما ينفجر السائل حولها بطريقة حيوية ولافتة بصريًا. تأتي الخلفية بتدرج برتقالي متوهج مع تأثيرات بوكيه ناعمة لتعزيز أجواء الحمضيات المنعشة. الإضاءة قوية واحترافية مع انعكاسات لامعة وتركيز حاد على الزجاجة، مما يمنح الصورة طابعًا إعلانيًا فاخرًا وجريئًا ومليئًا بالحركة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-045",
+    "id": "prompt-054",
     "title": "Brunch Menu",
     "title_ar": "منيو برنش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778362774/15_q8gzms.jpg",
     "prompt": "Create a cool, modern editorial brunch menu for [VENUE NAME], a [VENUE TYPE] focused on [CUISINE FOCUS]. The menu should feel relaxed, confident, premium, and stylish, with an urban café aesthetic and a high-end minimal layout. Design the menu as a clean editorial grid with two columns. Keep the item names aligned to the left and the prices aligned to the right. Use generous white space, refined spacing, and a calm premium composition. The overall design should feel like a modern brunch culture magazine spread, using editorial typography, a strong modern sans-serif font, and a neutral serif font only for subtle accent details. The menu title should clearly present the venue name and brunch menu identity. Use a confident typographic hierarchy with bold section titles, clean item names, smaller descriptions, and neatly aligned prices. Include these menu sections: Eggs & Plates. Avocado Toast — Sourdough, smashed avocado, olive oil — ₺220. Scrambled Eggs — Soft eggs, buttered toast — ₺195. Brunch Classics. Eggs Benedict — Poached eggs, hollandaise, brioche — ₺260. Pancake Stack — Maple syrup, seasonal fruit — ₺240. Light & Fresh. Granola Bowl — Greek yogurt, honey, berries — ₺185. Seasonal Salad — Mixed greens, citrus dressing — ₺210. Brunch Drinks. Fresh Orange Juice — Cold pressed — ₺120. Iced Latte — Single origin espresso, milk — ₺135. Use a clean premium color palette with warm off-white background, deep charcoal text, subtle beige or taupe accents, and refined thin divider lines. Add small editorial details such as section numbers, delicate rules, or minimal accent marks, but keep the design uncluttered. The final result should look like a premium printed brunch menu for a stylish urban café: modern, minimal, editorial, easy to read, confident, and visually balanced. Avoid clutter, cheap restaurant-menu styling, excessive decoration, playful fonts, harsh colors, messy spacing, random icons, or overly decorative food illustrations.",
     "prompt_ar": "أنشئ منيو برنش تحريريًا عصريًا وأنيقًا لـ [VENUE NAME]، وهو [VENUE TYPE] يركز على [CUISINE FOCUS]. يجب أن يبدو المنيو هادئًا وواثقًا وفاخرًا وأنيقًا، بطابع كافيه حضري وتخطيط مينيمال راقٍ. صمم المنيو كشبكة تحريرية نظيفة بعمودين. اجعل أسماء الأصناف بمحاذاة اليسار والأسعار بمحاذاة اليمين. استخدم مساحات بيضاء واسعة وتباعدًا راقٍ وتكوينًا هادئًا وفاخرًا. يجب أن يبدو التصميم كصفحة من مجلة حديثة عن ثقافة البرنش، مع تايبوجرافي تحريري وخط سانس سيريف قوي وحديث وخط سيريف محايد فقط للتفاصيل البسيطة. يجب أن يعرض عنوان المنيو اسم المكان وهوية منيو البرنش بوضوح. استخدم تسلسلًا بصريًا واثقًا بعناوين أقسام جريئة وأسماء أصناف نظيفة ووصف أصغر وأسعار منظمة. أدرج الأقسام التالية: Eggs & Plates. Avocado Toast — Sourdough, smashed avocado, olive oil — ₺220. Scrambled Eggs — Soft eggs, buttered toast — ₺195. Brunch Classics. Eggs Benedict — Poached eggs, hollandaise, brioche — ₺260. Pancake Stack — Maple syrup, seasonal fruit — ₺240. Light & Fresh. Granola Bowl — Greek yogurt, honey, berries — ₺185. Seasonal Salad — Mixed greens, citrus dressing — ₺210. Brunch Drinks. Fresh Orange Juice — Cold pressed — ₺120. Iced Latte — Single origin espresso, milk — ₺135. استخدم لوحة ألوان فاخرة ونظيفة بخلفية أوف وايت دافئة ونص فحمي داكن ولمسات بيج أو توبا خفيفة وخطوط فاصلة رفيعة راقية. أضف تفاصيل تحريرية صغيرة مثل أرقام الأقسام أو خطوط رقيقة أو علامات بسيطة، مع الحفاظ على التصميم غير مزدحم. النتيجة النهائية يجب أن تبدو كمنيو برنش مطبوع فاخر لكافيه حضري أنيق: حديث، بسيط، تحريري، سهل القراءة، واثق، ومتوازن بصريًا. تجنب الزحام، شكل منيو المطاعم الرخيص، الزخرفة الزائدة، الخطوط المرحة، الألوان القاسية، التباعد العشوائي، الأيقونات العشوائية، أو رسومات الطعام المزخرفة جدًا.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-046",
+    "id": "prompt-055",
     "title": "Eldritch Monster",
     "title_ar": "وحش إلدريتش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778330502/11_cjc0ei.jpg",
     "prompt": "Create a Dark Fantasy Creature Design Sheet featuring a Deep Sea Eldritch Monster. Composition: side profile view showing spine and posture, plus a 3/4 view to reveal form, silhouette, and anatomy. Features: slimy skin, multiple eyes, tentacle appendages, strange deep-sea body structure, bioluminescent organs, wet reflective surfaces, sharp organic details, and unsettling asymmetry. Style: digital painting style, similar to Dark Souls or Bloodborne concept art, gloomy and oppressive atmosphere, dramatic shadows, muted colors, high detail, horror fantasy mood, professional creature concept art presentation.",
     "prompt_ar": "أنشئ ورقة تصميم مخلوق فانتازيا مظلمة لوحش إلدريتش من أعماق البحر. التكوين: عرض جانبي يوضح العمود الفقري ووضعية الجسم، مع عرض بزاوية ثلاثة أرباع لإظهار الشكل العام والهيئة والتشريح. الميزات: جلد لزج، عيون متعددة، أطراف مجسية، بنية جسدية غريبة مستوحاة من أعماق البحر، أعضاء مضيئة حيويًا، أسطح رطبة عاكسة، تفاصيل عضوية حادة، ولا تناظر مزعج. الأسلوب: رسم رقمي مشابه لأعمال الكونسبت آرت في أجواء Dark Souls أو Bloodborne، جو كئيب وضاغط، ظلال درامية، ألوان مكتومة، تفاصيل عالية، إحساس رعب فانتازيا، وعرض احترافي لتصميم مخلوق.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-047",
+    "id": "prompt-056",
     "title": "Tiny Chef",
     "title_ar": "شيف صغير",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778281755/10_hpdjzm.jpg",
     "prompt": "Create a cinematic, hyper-realistic image, ultra-detailed in the textures of skin, hair, metal, rock, wood, and fabric, 8K Full HD using my reference image. I am dressed as a chef and appear as a tiny person, jumping on top of a bread roll shell while trying to dip it into a huge cup of hot chocolate. The setting is a typical Mexican kitchen. Extreme photorealism, dramatic side lighting, deep shadows, ultra-detailed textures. Desaturated earthy color palette, cinematic high-ISO grain, subtle light leaks, grunge aesthetic, shallow depth of field. Epic vintage sci-fi movie style.",
     "prompt_ar": "أنشئ صورة سينمائية فائقة الواقعية بتفاصيل دقيقة جدًا في خامات البشرة والشعر والمعدن والصخور والخشب والقماش، بجودة 8K Full HD باستخدام صورتي المرجعية. أظهرني مرتديًا زي شيف كشخص صغير جدًا، أقفز فوق قطعة خبز وأحاول غمسها داخل كوب ضخم من الشوكولاتة الساخنة. تدور الأحداث داخل مكسيكي تقليدي. واقعية فوتوغرافية شديدة، إضاءة جانبية درامية، ظلال عميقة، خامات فائقة التفاصيل، لوحة ألوان ترابية منخفضة التشبع، حبيبات سينمائية عالية ISO، تسربات ضوء خفيفة، جمالية جرانج، وعمق ميدان ضحل. الأسلوب العام ملحمي كفيلم خيال علمي قديم.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-048",
+    "id": "prompt-057",
     "title": "Social Spiral",
     "title_ar": "دوامة اجتماعية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778279766/6_p4etpe.jpg",
     "prompt": "Ultra-realistic cinematic 4:5 portrait of a young woman sitting comfortably indoors at night, wrapped in a soft patterned shawl, holding a smartphone in both hands near her lap. She looks slightly downward at the phone with a gentle, content smile. The phone emits a warm golden glow illuminating her face softly. Around her, a floating spiral ribbon of social media-style photo thumbnails forms a glowing curved path rising upward in front of her, creating a dynamic S-shaped composition. Dark moody background, soft shadows, warm-to-cool contrast lighting, shallow depth of field, highly detailed skin texture, natural hair, 85mm lens, photorealistic.",
     "prompt_ar": "بورتريه سينمائي فائق الواقعية بنسبة 4:5 لشابة تجلس براحة داخل مكان داخلي ليلاً، ملفوفة بشال ناعم منقوش، وتمسك هاتفًا ذكيًا بكلتا يديها بالقرب من حجرها. تنظر قليلًا إلى الأسفل نحو الهاتف بابتسامة لطيفة وهادئة. يصدر الهاتف توهجًا ذهبيًا دافئًا يضيء وجهها بنعومة. حولها يظهر شريط حلزوني عائم من صور مصغرة بأسلوب السوشيال ميديا، يشكل مسارًا منحنيًا مضيئًا يرتفع أمامها بتكوين ديناميكي على شكل حرف S. خلفية داكنة ومزاجية، ظلال ناعمة، تباين إضاءة دافئ وبارد، عمق ميدان ضحل، تفاصيل عالية في ملمس البشرة، شعر طبيعي، عدسة 85mm، واقعية فوتوغرافية.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
-    {
-    "id": "prompt-049",
+  {
+    "id": "prompt-058",
     "title": "Ice Cream Fantasy",
     "title_ar": "خيال آيس كريم",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/64_sjic87.jpg",
     "prompt": "BASKIN ROBBINS — \"31 FLAVORS. ONE FANTASY. \"\nULTRA-PREMIUM GLOBAL FMCG CAMPAIGN\n\n[BRAND = BASKIN ROBBINS]\n[STYLE = PLAYFUL LUXURY × CINEMATIC FMCG]\n[FORMAT = 4:3 PREMIUM BILLBOARD POSTER]\n[CAMPAIGN TYPE = GLOBAL PRODUCT HERO VISUAL]\n\nACT AS:\nA world-class FMCG creative director, luxury dessert advertising specialist, and editorial campaign designer creating a premium Baskin Robbins commercial poster that feels like a fusion of Nike-level campaign execution, luxury beauty advertising, and surreal dessert fantasy branding.\n\nThe final visual must feel globally award-winning, emotionally immersive, hyper-premium, internet-culturally relevant, and instantly recognizable as Baskin Robbins while elevating the brand into a modern cinematic luxury universe.\n\nPHASE 1 — CREATIVE CONCEPT\n\nCreate a surreal frozen fantasy world built entirely around Baskin Robbins' iconic identity of flavor abundance, playful happiness, creamy indulgence, and colorful escapism.\n\nThe visual should communicate:\n \"Entering a dream universe made of ice cream. \"\n\nNOT a simple product placement poster.\n\nThe poster must feel:\n• cinematic\n• fashionable\n• edible\n• glossy\n• immersive\n• youthful\n• luxurious\n• dreamlike\n• emotionally addictive\n\nCore emotional tone:\njoy + fantasy + premium craving.\n\nPHASE 2 — HERO PRODUCT DIRECTION\n\nFeature an ultra-detailed Baskin Robbins ice cream scoop composition as the central hero object.\n\nUse:\n• strawberry swirl scoop\n• blueberry cheesecake scoop\n• vanilla cream scoop\n• raspberry ribbons\n• glossy syrup textures\n• realistic creamy depth\n• frozen condensation\n• melting edges\n• hyper-real scoop texture\n• visible flavor chunks\n• reflective creamy highlights\n\nThe scoops should feel:\n• cold\n• luxurious\n• freshly served\n• physically craveable\n• macro-photographed\n\nAdd floating:\n• candy particles\n• cream splashes\n• frozen sugar dust\n• syrup arcs\n• ice crystals\n• glossy droplets\n\nPHASE 3 — ENVIRONMENT DESIGN\n\nCreate a massive surreal Baskin Robbins fantasy environment.\n\nBackground world:\n• pastel dreamscape\n• floating creamy clouds\n• glossy pink-blue atmospheric haze\n• frozen dessert skyline\n• surreal candy architecture\n• soft reflective marble surfaces\n• dreamy cinematic fog\n• floating flavor particles\n• glowing ice cream nebula atmosphere\n\nPHASE 4 — COLOR SYSTEM\n\nPrimary palette:\n• Baskin Robbins pink\n• aqua blue\n• creamy white\n• soft lavender\n• strawberry tones\n• pastel cyan\n\nAccent palette:\n• cherry red\n• caramel gold\n• glossy chocolate brown\n\nPHASE 5 — TYPOGRAPHY SYSTEM\n\nMain slogan:\n \"31 FLAVORS. ONE FANTASY. \"\n\nSecondary typography:\n \"STEP INTO THE SWEETEST DIMENSION. \"\n\nTypography must become part of the composition itself.\n\nPHASE 6 — COMPOSITION ENGINEERING\n\nBuild composition in cinematic depth layers:\n\nFOREGROUND: syrup splashes, floating toppings, glossy reflections, ice cream particles\nMIDGROUND: giant hero scoops, Baskin Robbins cup, floating creamy textures\nBACKGROUND: fantasy dessert skyline, giant soft typography, cinematic haze, atmospheric glow",
     "prompt_ar": "باسكن روبنز — \"31 نكهة. خيال واحد. \"\nحملة FMCG عالمية فائقة الجودة\n\n[BRAND = BASKIN ROBBINS]\n[STYLE = فخامة مرحة × FMCG سينمائي]\n[FORMAT = بوستر بيلبورد فاخر 4:3]\n[CAMPAIGN TYPE = بطل المنتج العالمي]\n\nتصرف كـ:\nمدير إبداعي عالمي متخصص في FMCG وإعلانات الحلويات الفاخرة، ينشئ بوستر باسكن روبنز التجاري الفاخر الذي يجمع بين أسلوب نايكي الإعلاني وجماليات الإعلانات الفاخرة وعالم الحلويات الخيالي السريالي.\n\nالمرحلة 1 — المفهوم الإبداعي:\nأنشئ عالمًا خياليًا مجمدًا مبنيًا بالكامل حول هوية باسكن روبنز بكثرة النكهات والفرح والبهجة والألوان الزاهية. الرسالة: \"دخول عالم حلم مصنوع من الآيس كريم. \"\n\nالمزاج العاطفي: فرح + خيال + شوق فاخر.\n\nالمرحلة 2 — اتجاه المنتج البطل:\nسكوبات آيس كريم فائقة التفاصيل: فراولة دوارة، تشيز كيك توت أزرق، كريمة فانيلا، أشرطة توت العليق، خامات شراب لامعة، تكثف مجمد، حواف ذائبة، قطع نكهات مرئية، قطرات لامعة عائمة.\n\nالمرحلة 3 — تصميم البيئة:\nعالم باستيل حلمي، غيوم كريمية عائمة، ضباب جوي وردي وأزرق، أفق حلوى سريالي، أسطح رخامية عاكسة، أجواء سديم آيس كريم متوهجة.\n\nالمرحلة 4 — نظام الألوان:\nوردي باسكن روبنز، أزرق مائي، أبيض كريمي، لافندر ناعم، درجات فراولة، أخضر مائي باستيل.\n\nالمرحلة 5 — نظام التايبوجرافي:\nالشعار الرئيسي: \"31 نكهة. خيال واحد. \"\nالشعار الثانوي: \"ادخل أحلى بُعد. \"\nالتايبوجرافي يصبح جزءًا من التكوين نفسه.\n\nالمرحلة 6 — هندسة التكوين:\nالمقدمة: رذاذ الشراب، مكملات عائمة، انعكاسات لامعة.\nالمنتصف: سكوبات بطلة ضخمة، كوب باسكن روبنز.\nالخلفية: أفق حلوى خيالي، تايبوجرافي ناعم ضخم، ضباب سينمائي.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-050",
+    "id": "prompt-059",
     "title": "Golden Morn Poster",
     "title_ar": "بوستر جولدن مورن",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/53_madat4.jpg",
     "prompt": "GOLDEN MORN VIRAL FMCG POSTER CAMPAIGN SYSTEM\n \"START GOLDEN. STAY STRONG. \"\n\nACT AS:\nA senior global FMCG creative director, luxury breakfast food stylist, premium commercial product photographer, typography designer, and modern brand advertiser creating a viral Golden Morn breakfast campaign poster for a world-class cereal brand.\n\nThe design should feel like a fusion of:\n— premium breakfast FMCG campaigns\n— modern cereal advertisements\n— healthy lifestyle branding\n— vibrant Instagram food editorials\n— bold typography-driven poster design\n— colorful family-friendly commercial aesthetics\n\nThe poster should feel: fresh, healthy, energetic, warm, premium, uplifting, appetizing, highly shareable.\n\nTYPOGRAPHY STYLE (MOST IMPORTANT):\nUse HUGE oversized retro-modern typography dominating the background. Typography should occupy 40–60% of the composition, sit behind and around the cereal bowl, feel bold and uplifting. Font: ultra-bold, rounded edges, chunky soft forms, retro-modern style, thick sans-serif letterforms, playful but premium.\n\nExample headline: \"START GOLDEN \" / \"MORNING ENERGY \" / \"POWER YOUR DAY \"\n\nMAIN PRODUCT COMPOSITION:\nHyper-realistic bowl of creamy Golden Morn cereal in the foreground. Surround with: sliced bananas, maize grains, soybeans, oats, honey drizzle, milk splashes, floating cereal dust, fresh fruits. Frozen mid-motion commercial breakfast shoot.\n\nLIGHTING: Bright premium commercial studio lighting, creamy highlights, glossy reflections, warm morning glow.\n\nBACKGROUND: Bold seamless studio background in rich golden yellow, warm cream beige, or sky blue. Add soft sunlight glow, floating grain particles, milk splash trails.\n\nCOLOR SYSTEM: golden yellow, creamy beige, fresh sky blue, honey gold, soft white, natural grain tones.\n\nPRODUCT PACKAGING: Include realistic Golden Morn packaging naturally integrated, glossy and authentic, iconic blue-and-yellow branding.\n\nEMOTIONAL GOAL: The viewer should instantly think: \"I want this every morning. \"\n\nFINAL QUALITY: Ultra photorealistic, 8K, premium commercial breakfast photography, billboard-ready, hyper-detailed food textures. Aspect Ratio: 4:3.",
     "prompt_ar": "نظام حملة بوستر جولدن مورن الفيروسي\n \"ابدأ ذهبيًا. ابقَ قويًا. \"\n\nتصرف كـ:\nمدير إبداعي عالمي كبير في FMCG ومصمم تايبوجرافي ومصور منتجات فاخر، تنشئ بوستر حملة إفطار جولدن مورن الفيروسية لعلامة حبوب فطور عالمية.\n\nيجب أن يشعر التصميم بأنه مزيج من: حملات FMCG فطور راقية، إعلانات حبوب حديثة، براندنج أسلوب حياة صحي، إصدارات طعام فيبراميتري على إنستغرام، وبوستر مدفوع بتصميم تايبوجرافي جريء.\n\nيجب أن يبدو البوستر: طازجًا، صحيًا، نشيطًا، دافئًا، فاخرًا، مبهجًا، مشهيًا، وقابلًا للمشاركة.\n\nأسلوب التايبوجرافي (الأهم):\nاستخدم تايبوجرافيًا ضخمًا يهيمن على الخلفية، يشغل 40-60% من التكوين، بخط ريترو-حديث جريء وسانس سيريف ممتلئ وناعم. مقترحات: \"START GOLDEN \" / \"MORNING ENERGY \" / \"POWER YOUR DAY \".\n\nتكوين المنتج الرئيسي:\nوعاء كريمي فائق الواقعية من جولدن مورن في المقدمة. محاط بـ: موز مقطع، حبوب ذرة، صويا، شوفان، رذاذ عسل، رذاذ حليب، غبار حبوب عائم، فواكه طازجة. مشهد إفطار تجاري مجمد في منتصف الحركة.\n\nالإضاءة: إضاءة استوديو تجاري فاخر ساطع، لمعات كريمية، انعكاسات لامعة، توهج صباح دافئ.\n\nالخلفية: خلفية استوديو نظيفة بالأصفر الذهبي الغني أو الأزرق السماوي. أضف توهج ضوء ناعم وجزيئات حبوب عائمة.\n\nنظام الألوان: الأصفر الذهبي، البيج الكريمي، الأزرق السماوي الطازج، الذهب العسلي، الأبيض الناعم.\n\nالتغليف: تغليف جولدن مورن الأصلي بالأزرق والأصفر الأيقونيين مدمج بشكل طبيعي.\n\nالهدف العاطفي: يجب أن يفكر المشاهد فورًا: \"أريد هذا كل صباح. \"\n\nجودة نهائية: فوتورياليستية فائقة، 8K، تصوير إفطار تجاري فاخر، جاهز للبيلبورد، نسبة 4:3.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-051",
+    "id": "prompt-060",
     "title": "Kids Shoe Ad",
     "title_ar": "إعلان حذاء أطفال",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/63_odzsvn.jpg",
     "prompt": "A vibrant children's shoe advertisement poster featuring a joyful 7-year-old boy leaning energetically on top of a giant rose design clog shoe that is four times his size, while wearing matching mini rose design clogs. The scene is set against a bright sunny blue and yellow studio background filled with colorful confetti falling everywhere, creating a playful and energetic atmosphere. At the top, large 3D bubble letters spell \"WALKY \" in bright BLACK AND WHITE colors, adding a bold and fun visual impact. On the left side, a catchy tagline in a bold playful font reads \"WALK WITH COMFORT. \" while in the top-right corner, small grey text reads \"Designed by Shamus. \" The overall style is photorealistic with a cheerful, lively mood that captures excitement, fun, and childlike energy.",
     "prompt_ar": "بوستر إعلاني ملون لحذاء أطفال يظهر فيه طفل سعيد عمره 7 سنوات يتكئ بنشاط فوق حذاء كلوج ضخم بتصميم وردة يبلغ أربعة أضعاف حجمه، بينما يرتدي حذاءً مطابقًا صغيرًا بتصميم وردة. المشهد داخل استوديو مشمس بخلفية زرقاء وصفراء مليئة بالقصاصات الملونة المتساقطة في كل مكان، مما يخلق أجواءً مرحة ونشيطة. في الأعلى، حروف فقاعية ثلاثية الأبعاد تكتب \"WALKY \" بألوان أبيض وأسود جريئة. على الجانب الأيسر، شعار جذاب بخط مرح وجريء يقرأ \"WALK WITH COMFORT. \" بينما في الركن العلوي الأيمن، نص رمادي صغير يكتب \"Designed by Shamus. \" الأسلوب العام فوتورياليستي مع مزاج مبهج وحيوي يجسد الإثارة والمرح وروح الطفولة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-052",
+    "id": "prompt-061",
     "title": "Travel Selfie",
     "title_ar": "سيلفي السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662704/62_aaiadc.jpg",
     "prompt": "Primary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.\nScene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.\nSubject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.\nStyle/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.\nComposition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.\nLighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.\nColor palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.\nTextures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.\nConstraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.\nNegative Prompt: watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors.",
     "prompt_ar": "الطلب الرئيسي: إنشاء بورتريه سيلفي سفر فوتورياليستي، باستخدام الصورة الشخصية المرفوعة كمرجع للمظهر.\nالمشهد/الخلفية: مرج جبلي مفتوح تحت سماء زرقاء زاهية، محاط بالأعلى بمئات من أعلام الصلاة التبتية الملونة مرتبة في مظلة حلزونية دائرية، مع تلال خضراء بعيدة وضوء نهار ساطع.\nالشخصية: شابة بملامح وجه مميزة وعيون وخط شعر واتجاهه وملمس بشرة طبيعي من الصورة المرفوعة، ترتدي جاكيت خارجي أزرق سماوي فاتح، وبنطال مشي أبيض، وقبعة صوف خردلية، ونظارة شمسية فوق القبعة، وحقيبة ظهر.\nالأسلوب: تصوير سفر فوتورياليستي فائق الواقعية بإحساس كاميرا حركية ديناميكية، تفاصيل حادة وطبيعية، بورتريه مغامرة حي للسوشيال ميديا.\nالتكوين: إطار رأسي 3:4، منظور واسع للغاية، تكوين سيلفي من الأسفل إلى الأعلى، يد واحدة ممدودة نحو الكاميرا في المقدمة بتكبير منظوري قوي، الوجه في منتصف الإطار، الأعلام تشكل نفقًا إشعاعيًا ملونًا فوق رأسها.\nالإضاءة: شمس ظهيرة جبلية ساطعة، انكسار عدسة مرئي في الأعلى الأيسر، ضوء خلفي متلألئ، مزاج مبهج وواضح.\nلوحة الألوان: أزرق سماوي مشبع، أصفر خردلي، أحمر، برتقالي، أخضر، أبيض، وأزرق سماوي.\nالقيود: الحفاظ على المظهر المميز من الصورة المرفوعة، بدون علامة مائية أو شعار أو نص.\nبروميبت سلبي: علامة مائية، شعار، نص، تعليق، توقيع، أصابع إضافية، أصابع مفقودة، أصابع ملتصقة، أيدي مشوهة، عيون غير متماثلة، وجه مشوه، بشرة بلاستيكية، فلتر تنعيم مفرط، وجه ضبابي، دقة منخفضة، أعلام مشوهة، مظهر CGI مزيف.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-053",
+    "id": "prompt-062",
     "title": "Adventure Portrait",
     "title_ar": "بورتريه مغامرة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/60_p7yzey.jpg",
     "prompt": "Primary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.\nScene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.\nSubject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.\nStyle/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.\nComposition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.\nLighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.\nColor palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.\nTextures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.\nConstraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.\nNegative Prompt: watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors.",
     "prompt_ar": "الطلب الرئيسي: إنشاء بورتريه سيلفي سفر فوتورياليستي، باستخدام الصورة الشخصية المرفوعة كمرجع للمظهر.\nالمشهد/الخلفية: مرج جبلي مفتوح تحت سماء زرقاء زاهية، محاط بالأعلى بمئات من أعلام الصلاة التبتية الملونة مرتبة في مظلة حلزونية دائرية، مع تلال خضراء بعيدة وضوء نهار ساطع.\nالشخصية: شابة بملامح وجه مميزة وعيون وخط شعر واتجاهه وملمس بشرة طبيعي من الصورة المرفوعة، ترتدي جاكيت أزرق سماوي، وبنطال مشي أبيض، وقبعة صوف خردلية، ونظارة شمسية فوق القبعة، وحقيبة ظهر.\nالأسلوب: تصوير سفر فوتورياليستي فائق بإحساس كاميرا ديناميكية، بورتريه مغامرة حي للسوشيال ميديا.\nالتكوين: إطار رأسي 3:4، منظور واسع للغاية، تكوين سيلفي من الأسفل للأعلى، يد ممدودة نحو الكاميرا في المقدمة، الأعلام تشكل نفقًا ملونًا فوق رأسها، ابتسامة عفوية نشيطة.\nالإضاءة: شمس ظهيرة جبلية ساطعة، انكسار عدسة مرئي، ضوء خلفي متلألئ، مزاج مبهج وواضح.\nلوحة الألوان: أزرق سماوي، أصفر خردلي، أحمر، برتقالي، أخضر، أبيض.\nالقيود: الحفاظ على المظهر المميز، بدون علامة مائية أو نص.\nبروميبت سلبي: علامة مائية، شعار، نص، أصابع إضافية، أيدي مشوهة، بشرة بلاستيكية، وجه ضبابي، أعلام مشوهة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-054",
+    "id": "prompt-063",
     "title": "Spring Water Ad",
     "title_ar": "إعلان مياه سبرينج",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/56_ggssjz.jpg",
     "prompt": "A premium mineral water advertisement poster featuring a fresh-faced young man in a relaxed white and yellow linen outfit standing confidently beside a giant crystal-clear mineral water bottle nearly 3x his height, covered in realistic water droplets with the \"SPRING \" label clearly visible. The scene is set against a clean arctic-white AND FOREST GREEN minimal background filled with floating ice crystals, soft mist, and dynamic water splash effects creating a refreshing luxury commercial atmosphere. Large crisp sans-serif typography reading \"SPRING \" appears subtly oversized in light blue across the background, while the tagline \"DROP FROM VALLEY. \" is placed elegantly at the bottom. In the top-right corner, small grey text reads \"Designed BY SHAMUS. \" Photorealistic lighting, ultra-clean product advertising aesthetic, glossy reflections, premium hydration campaign style, minimal yet cinematic composition.",
     "prompt_ar": "بوستر إعلاني فاخر لمياه معدنية يعرض شابًا بوجه طازج يرتدي زيًا كتانيًا أبيض وأصفر مريحًا، يقف بثقة بجانب زجاجة مياه معدنية شفافة كبيرة تبلغ ثلاثة أضعاف طوله تقريبًا، مغطاة بقطرات ماء واقعية وعليها بوضوح ملصق \"SPRING \". المشهد على خلفية بيضاء أرتيك وأخضر غابات مينيمال ممتلئة بمتبلورات ثلج عائمة وضباب ناعم وتأثيرات رذاذ ماء ديناميكية تخلق أجواءً تجارية فاخرة ومنعشة. تايبوجرافي سانس سيريف كبير وحاد يقرأ \"SPRING \" بلون أزرق فاتح في الخلفية، بينما يوضع الشعار \"DROP FROM VALLEY. \" بأناقة في الأسفل. في الركن العلوي الأيمن، نص رمادي صغير يكتب \"Designed BY SHAMUS. \" إضاءة فوتورياليستية، جمالية إعلانية نظيفة للغاية، انعكاسات لامعة، أسلوب حملة ترطيب فاخرة، تكوين بسيط ولكن سينمائي.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-055",
+    "id": "prompt-064",
     "title": "Natural Product Shot",
     "title_ar": "تصوير منتج طبيعي",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/59_mfhpgl.jpg",
     "prompt": "A professional prompt for generating realistic, elegant product photography in a natural setting. Each version features a different product showcased on stone surfaces with soft greenery, natural lighting, and minimalist beige tones — perfect for beauty, wellness, or lifestyle branding visuals.",
     "prompt_ar": "بروميبت احترافي لإنشاء تصوير منتجات واقعي وأنيق في إعداد طبيعي. كل نسخة تعرض منتجًا مختلفًا على أسطح حجرية مع خضرة ناعمة وإضاءة طبيعية ودرجات بيج مينيمال — مثالي لصور براندنج الجمال والعافية وأسلوب الحياة.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-056",
+    "id": "prompt-065",
     "title": "Wedding Gift Bag",
     "title_ar": "حقيبة هدية زفاف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/55_gzf5ae.jpg",
     "prompt": "Create a high-end luxury wedding gift bag mockup in a clean premium studio setting.\n\nDesign an elegant ivory/off-white paper wedding bag with champagne satin ribbon handles, realistic paper texture, soft shadows, and premium lighting. Show one main bag facing forward and a second matching bag slightly turned to the side in the background.\n\nUse a romantic wedding color palette: ivory, cream, champagne gold, blush pink, soft beige, and muted green.\n\nAdd refined gold foil details on the bag: thin decorative border lines, elegant corner ornaments, a luxury monogram crest, and floral line art.\n\nBag text:\nA & S\nWedding\nCelebrating Love\n12.08.2026\n\nAdd beautiful watercolor-style wedding florals at the bottom of the bag: blush roses, cream peonies, white flowers, small baby's breath, and soft green leaves.\n\nPlace the bags on a marble or stone surface with soft draped fabric in the background. Add a few real flowers and ribbons around the base for a romantic wedding presentation.\n\nStyle: ultra-realistic product mockup, luxury wedding packaging, elegant typography, gold foil print, soft romantic lighting, premium commercial photography, clean composition, high-end bridal stationery design, 4K quality.",
     "prompt_ar": "أنشئ موكاب فاخر لحقيبة هدية زفاف راقية داخل استوديو فاخر ونظيف.\n\nصمم حقيبة زفاف ورقية أنيقة بلون عاجي/أوف وايت مع يدات شريط ساتان شامبانيا، وملمس ورق واقعي وظلال ناعمة وإضاءة فاخرة. اعرض حقيبة رئيسية واحدة مواجهة للأمام وحقيبة مطابقة ثانية مائلة قليلًا للخلف.\n\nاستخدم لوحة ألوان زفاف رومانسية: عاجي، كريمي، ذهب شامبانيا، وردي خفيف، بيج ناعم، وأخضر مكتوم.\n\nأضف تفاصيل رقيقة من الرقائق الذهبية: خطوط حواف زخرفية رفيعة، زخارف أركان أنيقة، شعار مونوجرام فاخر، ورسم خطي للزهور.\n\nنص الحقيبة:\nA & S\nWedding\nCelebrating Love\n12.08.2026\n\nأضف زهور زفاف جميلة بأسلوب ألوان مائية في الجزء السفلي: ورود وردية، عشبة القطن الكريمية، زهور بيضاء، أزهار نفس صغيرة، وأوراق خضراء ناعمة.\n\nضع الحقائب على سطح رخامي أو حجري مع قماش متدرج ناعم في الخلفية. أضف بعض الزهور الحقيقية والأشرطة حول القاعدة.\n\nالأسلوب: موكاب منتج فائق الواقعية، تغليف زفاف فاخر، تايبوجرافي أنيق، طباعة رقائق ذهبية، إضاءة رومانسية ناعمة، تصوير تجاري فاخر، تكوين نظيف، جودة 4K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-057",
+    "id": "prompt-066",
     "title": "Travel Chips Poster",
     "title_ar": "بوستر شيبس السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/51_ftz4ej.jpg",
     "prompt": "Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay's-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.\n\nA cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY].\n\nFloating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package.\n\nInclude only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment:\n- taking photos\n- exploring landmarks\n- sitting on floating chips\n- riding local transport\n- observing scenery\n- walking through the swirl paths\n\nInclude authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY].\n\nBackground should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams.\n\nElegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design.\n\nComposition rules:\n- one dominant centered chips packet\n- floating ridged potato chips throughout composition\n- one continuous upward spiral motion\n- landmarks layered vertically\n- miniature people sparse and intentional\n- no duplicate landmarks\n- no overcrowding\n- clean premium hierarchy\n- cinematic storytelling through scale contrast\n- premium advertising composition matching high-end chips commercials",
     "prompt_ar": "بوستر إعلاني فائق التفاصيل وفاخر لطعام السفر في [المدينة/البلد]، تكوين رأسي، مستوحى من إعلانات شيبس ليز الفاخرة. حزمة شيبس واقعية في المركز السفلي كبطل رئيسي.\n\nشريط حلزوني سينمائي من الصلصة أو الكريمة أو السحاب أو البخار يرتفع من حزمة الشيبس، يلتف ديناميكيًا حول المعالم الأيقونية والأطعمة المحلية والعناصر الثقافية من [المدينة/البلد].\n\nشرائح بطاطس مضلعة عائمة بشكل طبيعي في الحركة الحلزونية، تتفاعل مع المعالم ومسافرين مصغرين. تصميم حزمة الشيبس يجب أن يبدو أصيلًا لـ [المدينة/البلد] بألوانها ونقوشها وإلهامها المحلي.\n\nأدرج فقط المعالم الأكثر شهرة من [المدينة/البلد] بتباعد دقيق وتكوين نظيف. أضف مسافرين مصغرين يتفاعلون بشكل طبيعي: يلتقطون صورًا، يستكشفون، يجلسون على الشيبس العائم، يسافرون على مواصلات محلية.\n\nالخلفية: تدرج باستيل ناعم أو فاخر دافئ مع فتحة سقف دائرية في الأعلى تنبعث منها أشعة سبوت لايت سينمائية.\n\nإضاءة تجارية فاخرة، ظلال ناعمة، جزيئات عائمة، عمق واقعي، مساحة سلبية متوازنة، جمالية حملة سياحية فاخرة.\n\nقواعد التكوين:\n- حزمة شيبس واحدة مهيمنة في المنتصف\n- شيبس مضلع عائم في التكوين بأكمله\n- حركة حلزونية واحدة متصلة للأعلى\n- معالم مرتبة رأسيًا\n- ناس مصغرون قليلون ومتعمدون\n- لا تكرار في المعالم\n- تسلسل هرمي نظيف وفاخر",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-058",
+    "id": "prompt-067",
     "title": "KitKat Break",
     "title_ar": "استراحة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/54_h72igl.jpg",
     "prompt": "FORMAT: hyper-commercial chocolate campaign poster, ultra-high resolution (8K), premium billboard + social media advertising ready. Style: bold FMCG advertising × modern snack campaign × energetic commercial poster design × high-impact product photography.\n\nCORE IDEA: THE BREAK EVERYONE WAITS FOR. A campaign built around impact, craving, and satisfying motion. Everything in the composition reacts to the iconic KitKat snap.\n\nMASTER COMPOSITION:\nBACKGROUND: Deep KitKat red environment layered with rich red gradients, chocolate texture overlays, dynamic motion streaks, subtle crumb particles, repeated typography patterns, glossy studio reflections.\n\nHUMAN SUBJECT: Young Gen-Z male/female model. Expression: playful, confident, mid-enjoyment moment. Pose: holding KitKat toward camera, mid-snap action. Camera: slightly low + close perspective. Wardrobe: modern streetwear in neutral tones.\n\nVISUAL ENERGY: The SNAP becomes the visual explosion. At the break point: chocolate shards flying outward, wafer crumbs suspended mid-air, liquid chocolate streaks, motion lines radiating from snap.\n\nPRODUCT HERO: KitKat chocolate bar + wrapper. Placement: foreground center-right. Angle: extreme 3/4 hero perspective. Details: hyper-real chocolate texture, visible wafer layers, glossy melted chocolate highlights, realistic crumbs, embossed KitKat logo, premium wrapper reflections.\n\nTYPOGRAPHY SYSTEM:\nMAIN HEADLINE: \"BREAK TIME. \" — ultra-bold condensed sans-serif, oversized stacked layout, white typography, extremely tight spacing, cracked/distorted around snap point.\nSECONDARY TEXT: \"HAVE A BREAK. HAVE A KITKAT. \"\nBACKGROUND TYPOGRAPHY: SNAP / CRUNCH / BREAK / CHOCOLATE / WAFER / MELT integrated into background layers.\n\nFEATURE STRIP: CRISPY WAFER | RICH CHOCOLATE | ICONIC SNAP | PERFECT BREAK\n\nCTA: \"NEW SHARING PACK AVAILABLE \" | \"GRAB NOW \" button | \"Available Online & In Stores \"\n\nWEBSITE: www.kitkat | \"NESTLÉ KITKAT · 2026 EDITION \"\n\nCOLOR SYSTEM: KitKat red, deep chocolate brown, white typography, warm chocolate highlights, golden wafer tones.\n\nLIGHTING: Strong commercial studio key light, warm chocolate rim highlights, soft red glow behind snap motion, glossy FMCG-grade reflections.\n\nFINAL FEEL: Feels like Nike energy campaign × premium FMCG launch × modern Behance commercial food poster.",
     "prompt_ar": "التنسيق: بوستر حملة شوكولاتة تجاري مفرط، دقة عالية 8K، جاهز للبيلبورد وسوشيال ميديا. الأسلوب: إعلان FMCG جريء × حملة وجبات خفيفة حديثة × تصميم بوستر تجاري نشيط.\n\nالفكرة الأساسية: الاستراحة التي ينتظرها الجميع. حملة مبنية على التأثير والشوق والحركة المُرضية. كل شيء في التكوين يتفاعل مع كسرة كيت كات الأيقونية.\n\nالتكوين الرئيسي:\nالخلفية: بيئة حمراء عميقة بلون كيت كات مع تدرجات حمراء غنية وطبقات ملمس شوكولاتة وخطوط حركة ديناميكية وجزيئات فتات خفيفة ونقوش تايبوجرافي متكررة وانعكاسات استوديو لامعة.\n\nالشخصية: موديل شاب من جيل Z. التعبير: مرح وواثق أثناء التمتع. الوضعية: ممسك كيت كات نحو الكاميرا أثناء الكسر. الكاميرا: منخفضة قليلًا وقريبة. الملابس: ستريت وير حديث بدرجات محايدة.\n\nالطاقة البصرية: الكسرة تصبح الانفجار البصري. عند نقطة الكسر: شظايا شوكولاتة تتطاير، فتات ويفر معلق في الهواء، خطوط شوكولاتة سائلة.\n\nالمنتج البطل: شريط كيت كات بغلافه. الموضع: مقدمة وسط يمين. الزاوية: منظور ثلاثة أرباع شديد. التفاصيل: ملمس شوكولاتة واقعي، طبقات ويفر مرئية، لمعات شوكولاتة ذائبة، فتات واقعي، شعار كيت كات محفور.\n\nنظام التايبوجرافي:\nالعنوان الرئيسي: \"BREAK TIME. \" - سانس سيريف مكثف وجريء للغاية، تخطيط كبير مكدس، تايبوجرافي أبيض، تباعد ضيق جدًا، متشقق/مشوه عند نقطة الكسر.\nالنص الثانوي: \"HAVE A BREAK. HAVE A KITKAT. \"\nتايبوجرافي الخلفية: SNAP / CRUNCH / BREAK / CHOCOLATE / WAFER / MELT\n\nشريط المميزات: ويفر هش | شوكولاتة غنية | كسرة أيقونية | استراحة مثالية\n\nCTA: \"حزمة المشاركة الجديدة متاحة \" | زر \"GRAB NOW \" | \"متاح أونلاين وفي المتاجر \"\n\nالموقع: www.kitkat | \"NESTLÉ KITKAT · 2026 EDITION \"\n\nنظام الألوان: أحمر كيت كات، بني شوكولاتة داكن، تايبوجرافي أبيض، لمعات شوكولاتة دافئة.\n\nالإضاءة: مصدر إضاءة استوديو قوي، لمعات حمراء دافئة حول الكسرة.\n\nالشعور النهائي: مثل حملة نايكي × إطلاق FMCG فاخر × بوستر طعام تجاري حديث.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-059",
+    "id": "prompt-068",
     "title": "KitKat Campaign",
     "title_ar": "حملة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/58_yzzi8a.jpg",
     "prompt": "FORMAT: hyper-commercial chocolate campaign poster, ultra-high resolution (8K), premium billboard + social media advertising ready. Style: bold FMCG advertising × modern snack campaign × energetic commercial poster design × high-impact product photography.\n\nCORE IDEA: THE BREAK EVERYONE WAITS FOR. A campaign built around impact, craving, and satisfying motion. Everything in the composition reacts to the iconic KitKat snap.\n\nMASTER COMPOSITION:\nBACKGROUND: Deep KitKat red environment layered with rich red gradients, chocolate texture overlays, dynamic motion streaks, subtle crumb particles, repeated typography patterns, glossy studio reflections.\n\nHUMAN SUBJECT: Young Gen-Z male/female model. Expression: playful, confident, mid-enjoyment moment. Pose: holding KitKat toward camera, mid-snap action. Camera: slightly low + close perspective. Wardrobe: modern streetwear in neutral tones.\n\nVISUAL ENERGY: The SNAP becomes the visual explosion. At the break point: chocolate shards flying outward, wafer crumbs suspended mid-air, liquid chocolate streaks, motion lines radiating from snap.\n\nPRODUCT HERO: KitKat chocolate bar + wrapper. Placement: foreground center-right. Details: hyper-real chocolate texture, visible wafer layers, glossy melted chocolate highlights, embossed KitKat logo.\n\nTYPOGRAPHY: MAIN: \"BREAK TIME. \" Secondary: \"HAVE A BREAK. HAVE A KITKAT. \" Background: SNAP / CRUNCH / BREAK / CHOCOLATE / WAFER / MELT\n\nFEATURE STRIP: CRISPY WAFER | RICH CHOCOLATE | ICONIC SNAP | PERFECT BREAK\n\nCTA: \"GRAB NOW \" | www.kitkat | \"NESTLÉ KITKAT · 2026 EDITION \"\n\nCOLOR: KitKat red, deep chocolate brown, white typography, golden wafer tones.\n\nLIGHTING: Strong commercial studio key light, warm rim highlights, soft red glow, glossy FMCG reflections.\n\nFINAL FEEL: Nike energy campaign × premium FMCG launch × Behance commercial food poster.",
     "prompt_ar": "التنسيق: بوستر حملة شوكولاتة تجاري مفرط، 8K، جاهز للبيلبورد وسوشيال ميديا. الأسلوب: إعلان FMCG جريء × حملة وجبات خفيفة حديثة × تصميم بوستر نشيط.\n\nالفكرة: الاستراحة التي ينتظرها الجميع. كل شيء يتفاعل مع كسرة كيت كات الأيقونية.\n\nالتكوين: خلفية حمراء عميقة بلون كيت كات مع تدرجات وطبقات شوكولاتة وخطوط حركة ديناميكية.\n\nالشخصية: موديل شاب من جيل Z، تعبير مرح وواثق، ممسك كيت كات نحو الكاميرا أثناء الكسر.\n\nالطاقة البصرية: الكسرة تصبح انفجارًا بصريًا مع شظايا شوكولاتة وفتات ويفر معلق في الهواء.\n\nالمنتج البطل: شريط كيت كات بغلافه في مقدمة التكوين بزاوية ثلاثة أرباع شديدة مع ملمس شوكولاتة واقعي.\n\nالتايبوجرافي: العنوان: \"BREAK TIME. \" الثانوي: \"HAVE A BREAK. HAVE A KITKAT. \" خلفية: SNAP / CRUNCH / BREAK\n\nشريط المميزات: ويفر هش | شوكولاتة غنية | كسرة أيقونية | استراحة مثالية\n\nالألوان: أحمر كيت كات، بني شوكولاتة، أبيض.\n\nالإضاءة: مصدر إضاءة قوي مع لمعات حمراء دافئة وانعكاسات FMCG لامعة.\n\nالشعور النهائي: حملة نايكي × إطلاق FMCG فاخر × بوستر طعام تجاري حديث.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-060",
+    "id": "prompt-069",
     "title": "Match Day",
     "title_ar": "يوم المباراة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/52_lqx6id.jpg",
     "prompt": "Ultra-realistic football match day poster design, Cristiano Ronaldo seen from the back wearing Portugal red jersey number 7, fist raised in victory, walking forward confidently, giant bold typography \"MATCH DAY \" behind player, modern sports graphic design, Portugal vs Colombia logos at top, FIFA World Cup 2026 branding, cinematic stadium atmosphere, textured off-white background, national flag elements blended diagonally, dramatic lighting, dust particles, high-detail jersey fabric, centered composition, editorial sports poster style, minimal premium layout, green red yellow color palette, realistic shadows, sharp focus, Nike/Puma style campaign aesthetic, 4k.",
     "prompt_ar": "تصميم بوستر يوم مباراة كرة قدم فائق الواقعية، كريستيانو رونالدو مرئي من الخلف يرتدي قميص البرتغال الأحمر رقم 7، قبضته مرفوعة انتصارًا، يمشي للأمام بثقة، تايبوجرافي جريء وضخم يكتب \"MATCH DAY \" خلف اللاعب، تصميم رسومات رياضية حديث، شعارات البرتغال وكولومبيا في الأعلى، هوية كأس العالم FIFA 2026، أجواء ملعب سينمائية، خلفية أوف وايت ذات ملمس، عناصر العلم الوطني مدمجة قطريًا، إضاءة درامية، جزيئات غبار، قماش قميص عالي التفاصيل، تكوين مركزي، أسلوب بوستر رياضي تحريري، تخطيط فاخر بسيط، لوحة ألوان أخضر وأحمر وأصفر، ظلال واقعية، تركيز حاد، جمالية حملة نايكي/بوما، 4K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-061",
+    "id": "prompt-070",
     "title": "Tide Detergent Ad",
     "title_ar": "إعلان تايد للغسيل",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/61_i4p7tr.jpg",
     "prompt": "premium FMCG SMM poster, hyper-realistic detergent advertising, luxury commercial product photography, Instagram + billboard hybrid composition, 8K ultra-detail.\n\nCONCEPT: Tide adapts its own authentic global FMCG identity, bold orange-and-yellow brand dominance, clean energy-driven composition, high-trust household advertising aesthetic, performance-focused stain-removal storytelling.\n\nSCENE: Modern Indian luxury laundry room flooded with warm morning sunlight, young Indian mother holding perfectly clean white shirt confidently, soft floating fabric movement across scene, premium minimal household interior, subtle laundry basket and washing machine in background, freshness atmosphere with visible fabric softness, dramatic before-and-after cleaning transformation integrated naturally.\n\nCOMPOSITION: Large Tide detergent pack hero placement foreground, product positioned lower-center, dynamic circular composition inspired by Tide logo geometry, huge negative space upper-left for typography, layered FMCG commercial depth, clean premium visual hierarchy.\n\nPRODUCT: ultra-realistic Tide detergent pack, slightly angled toward camera, water splash + detergent particle simulation surrounding pack, orange-yellow glow accents matching packaging identity, premium reflective packaging detail.\n\nUI ELEMENTS: premium Tide freshness indicator card, \"99% stain removal \", fabric softness badge, quick-wash icon system, freshness meter UI, sparkle cleanliness overlays, minimal FMCG-style notification chips, realistic detergent molecule graphics.\n\nTYPOGRAPHY:\nHuge bold headline: \"TOUGH ON STAINS. \"\nSecondary: \"GENTLE ON FABRIC. \"\nSubheading: \"India's trusted clean for everyday life. \"\nCTA button: \"SHOP NOW \"\n\nDESIGN DETAILS: orange and yellow kinetic gradients, floating detergent particles, foam textures, clean information layering, sparkle highlights, realistic fabric fiber textures, modern FMCG composition system.\n\nLIGHTING: warm natural sunlight, commercial soft-box reflections, ultra-clean product highlights, HDR realism, soft cinematic shadows.\n\nCAMERA: Sony A1, 85mm commercial lens, f/2.0, advertising-grade sharpness.\n\nSTYLE: official Tide global campaign aesthetic, premium, clean, trustworthy, modern, hyper-realistic, high-conversion FMCG advertising.",
     "prompt_ar": "بوستر FMCG SMM فاخر، إعلان منظفات فائق الواقعية، تصوير منتجات تجاري فاخر، تكوين هجين إنستغرام + بيلبورد، 8K فائق التفاصيل.\n\nالمفهوم: تايد يعبر عن هويته FMCG العالمية الأصيلة، هيمنة علامة برتقالية وصفراء جريئة، تكوين مدفوع بالطاقة النظيفة، جمالية إعلانية منزلية عالية الثقة.\n\nالمشهد: غرفة غسيل هندية فاخرة وحديثة مغمورة بضوء الصباح الدافئ، أم هندية شابة تمسك قميصًا أبيض نظيفًا تمامًا بثقة، حركة قماش عائمة ناعمة، داخلية منزلية فاخرة بسيطة، سلة غسيل وغسالة في الخلفية، أجواء انتعاش مع نعومة قماش مرئية.\n\nالتكوين: حزمة تايد الكبيرة في مقدمة البطل، المنتج في المركز السفلي، تكوين دائري ديناميكي مستوحى من هندسة شعار تايد.\n\nالمنتج: حزمة تايد فائقة الواقعية مائلة قليلًا نحو الكاميرا، رذاذ ماء وجزيئات منظف محيطة بالحزمة.\n\nعناصر UI: بطاقة مؤشر النضارة \"إزالة 99% من البقع \"، شارة نعومة القماش، نظام أيقونات الغسيل السريع.\n\nالتايبوجرافي:\nعنوان رئيسي جريء: \"TOUGH ON STAINS. \"\nثانوي: \"GENTLE ON FABRIC. \"\nعنوان فرعي: \"النظافة الموثوقة للهند لحياتهم اليومية. \"\nزر CTA: \"SHOP NOW \"\n\nتفاصيل التصميم: تدرجات كينيتيكية برتقالية وصفراء، جزيئات منظف عائمة، خامات رغوة، إبرازات بريق، خامات ألياف قماش واقعية.\n\nالإضاءة: ضوء شمس طبيعي دافئ، انعكاسات سوفت بوكس، لمعات منتج نظيفة للغاية.\n\nالأسلوب: جمالية حملة تايد العالمية الرسمية، فاخر، نظيف، موثوق، حديث، فائق الواقعية.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-062",
+    "id": "prompt-071",
     "title": "Matcha Latte Ad",
     "title_ar": "إعلان ماتشا لاتيه",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/57_jlo3j2.jpg",
     "prompt": "[Matcha Latte] STYLE & ART DIRECTION: Modern minimalist food advertising aesthetics, Swiss-style advertising composition, premium restaurant social media branding, editorial design for an FMCG campaign, visuals for startup food brands, Pinterest-style food poster aesthetics, playful geometric advertising structure, modern in-app branding style, minimalist luxury restaurant marketing.\n\nMAIN OBJECT: Hyper-realistic food hero placed in the center of the composition, striking premium food photography design, floating or suspended presentation, realistic glossy textures, detailing of fresh ingredients, mouth-watering commercial presentation, studio-quality dish rendering, premium restaurant advertising campaign atmosphere.\n\nLAYOUT & COMPOSITION: Maintain the EXACT composition structure as sampled: large, rounded organic cream background centered on a vibrant full-color backdrop, large lowercase type placed behind the protagonist and the hero's food object positioned in the center overlapping, small branding/navigation strip aligned at the top, short editorial text block positioned on the left, floating rounded ingredient or flavor labels in the UI aligned vertically on the right, minimal decorative micro-icons, clean asymmetrical spacing, large breakout room, premium minimalist style hierarchy, social media poster composition.\n\nTypography: Large, bold typeface with rounded lowercase letters, modern geometric sans-serif font system, minimal supporting text, clear typography hierarchy, soft rounded commercial lettering, large-scale typography treatment hidden behind objects.\n\nDEPTH AND LIGHT: Soft premium studio lighting, high-quality food highlights, realistic soft shadows, subtle glossy reflections, cinematic commercial lighting, highly detailed texture rendering.\n\nADDITIONAL DESIGN DETAILS: Rounded pill-shaped labels, small plus icons, minimal floating elements, app-like composition, fresh ingredient garnish, soft shadow blending, modern food delivery branding system.\n\nCOLOR PALETTE: [PRIMARY BRAND COLOR], cream/off-white, warm accent tones, high-contrast food colors, minimal black typography accents.\n\nQuality: Ultra-high resolution, Behance-level food ad quality, 8K commercial rendering, Pinterest-style restaurant ad campaign design, premium FMCG branding aesthetics.",
     "prompt_ar": "[ماتشا لاتيه] الأسلوب والتوجيه الفني: جماليات إعلانات طعام مينيمال حديثة، تكوين إعلاني بالأسلوب السويسري، براندنج سوشيال ميديا للمطاعم الراقية، تصميم تحريري لحملة FMCG، صور لعلامات طعام ناشئة، جماليات بوستر طعام بأسلوب بينتريست، هيكل إعلاني هندسي مرح، أسلوب براندنج داخل التطبيق.\n\nالعنصر الرئيسي: بطل طعام فائق الواقعية في مركز التكوين، تصميم تصوير طعام فاخر لافت، عرض عائم أو معلق، خامات لامعة واقعية، تفاصيل مكونات طازجة، عرض تجاري مشهي، رندر طبق بجودة استوديو.\n\nالتخطيط والتكوين: حافظ على بنية التكوين الدقيقة: خلفية كريمية دائرية عضوية كبيرة على خلفية ملونة كاملة، تايبوجرافي كبير بحروف صغيرة خلف بطل الطعام في المنتصف يتداخل معه، شريط براندنج صغير في الأعلى، كتلة نص تحريرية قصيرة على اليسار، تسميات مكونات أو نكهات مستديرة عائمة على اليمين.\n\nالتايبوجرافي: خط كبير جريء بحروف صغيرة مستديرة، نظام خط سانس سيريف هندسي حديث، نص داعم قليل، تسلسل تايبوجرافي واضح.\n\nالعمق والضوء: إضاءة استوديو فاخرة ناعمة، لمعات طعام عالية الجودة، ظلال ناعمة واقعية، انعكاسات لامعة خفيفة.\n\nتفاصيل تصميمية إضافية: تسميات بيضاوية مستديرة، أيقونات زائد صغيرة، عناصر عائمة بسيطة، تكوين شبيه بالتطبيق، زينة مكونات طازجة.\n\nلوحة الألوان: [لون العلامة الرئيسي]، كريمي/أوف وايت، درجات لهجة دافئة، ألوان طعام عالية التباين.\n\nالجودة: دقة فائقة، جودة إعلان طعام بمستوى بيهانس، رندر تجاري 8K.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   },
   {
-    "id": "prompt-063",
+    "id": "prompt-072",
     "title": "Brand Identity",
     "title_ar": "هوية بصرية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662699/50_wtwf90.jpg",
     "prompt": "Create a complete brand identity presentation for an original premium skincare brand called \"VELORA \". Show a cohesive 3x3 grid of nine tiles inside a portrait 2:3 canvas, with balanced margins around the grid. The overall style is elevated, clean, modern, minimal, luxurious, and ultra realistic, with a seamless light warm gray background, soft diffused studio lighting, subtle shadows, and high-end mockup photography. Use a consistent sophisticated color palette of cream, muted blush, dusty rose, warm taupe, and deep espresso. No people, no watermark, no readable real-world brand names.\n\nDesign the nine tiles as a full cohesive brand system:\nTile 1: primary logo lockup on a textured paper card, featuring the word \"VELORA \" with an elegant icon above it.\nTile 2: secondary logo marks and monogram variations, neatly arranged like a brand exploration sheet.\nTile 3: color palette swatches and a typography specimen poster, clearly showing the palette and elegant font pairings.\nTile 4: packaging mockup for a facial cleanser, premium tube and matching box.\nTile 5: hero product photo for a radiance serum, premium glass dropper bottle styled beautifully.\nTile 6: set of three moisturizer products in different sizes, matching jars or containers.\nTile 7: stationery mockups including business card, letterhead, and envelope.\nTile 8: social media post mockups and a phone screen UI preview for the brand.\nTile 9: a refined lifestyle scene featuring the facial cleanser with brand-matching props such as stone, ceramic, fabric, and subtle botanical elements.\n\nKeep every tile visually consistent and polished. Use realistic materials, tasteful typography, and premium packaging details. The composition should feel like a luxury brand identity board or portfolio presentation.",
     "prompt_ar": "أنشئ عرضًا كاملًا للهوية البصرية لعلامة عناية بالبشرة فاخرة ومبتكرة اسمها \"VELORA \". اعرض شبكة متماسكة 3×3 من تسع خلايا داخل لوحة رأسية 2:3 مع هوامش متوازنة. الأسلوب العام راقٍ ونظيف وحديث وبسيط وفاخر وفائق الواقعية، مع خلفية رمادية دافئة فاتحة سلسة وإضاءة استوديو ناعمة منتشرة وظلال خفيفة وتصوير موكاب فاخر. استخدم لوحة ألوان راقية ومتسقة: كريمي، وردي باهت، وردة مترابة، بيج دافئ، وإسبريسو عميق. بدون أشخاص، بدون علامة مائية.\n\nصمم التسع خلايا كنظام هوية بصرية متكاملة:\nالخلية 1: الشعار الأساسي على بطاقة ورقية ذات ملمس، تحتوي على كلمة \"VELORA \" مع أيقونة أنيقة فوقها.\nالخلية 2: شعارات ثانوية وتنويعات مونوجرام مرتبة بشكل أنيق كورقة استكشاف علامة.\nالخلية 3: عينات لوحة الألوان وبوستر نماذج الخطوط، يعرض اللوحة وأزواج الخطوط الأنيقة.\nالخلية 4: موكاب تغليف لمنظف الوجه، أنبوب فاخر مع صندوق مطابق.\nالخلية 5: صورة منتج بطل لسيروم التألق، زجاجة قطارة زجاجية فاخرة مصممة بجمال.\nالخلية 6: مجموعة من ثلاثة منتجات مرطبة بأحجام مختلفة، عبوات أو جرارات مطابقة.\nالخلية 7: موكاب قرطاسية تتضمن بطاقة عمل وورق رسائل ومظروف.\nالخلية 8: موكاب منشورات سوشيال ميديا ومعاينة UI لشاشة هاتف للعلامة.\nالخلية 9: مشهد حياتي راقٍ يعرض منظف الوجه مع إكسسوارات مطابقة للعلامة كالحجارة والسيراميك والقماش والعناصر النباتية.\n\nاجعل كل خلية متسقة بصريًا ومصقولة. استخدم مواد واقعية وتايبوجرافي ذوقي وتفاصيل تغليف فاخرة. يجب أن يبدو التكوين كلوحة هوية علامة فاخرة أو عرض محفظة أعمال.",
-    "suggestedTools": ["1", "242"]
+    "suggestedTools": [
+      "1",
+      "242"
+    ]
   }
 ]
