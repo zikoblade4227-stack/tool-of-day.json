@@ -15,30 +15,30 @@
   },
   {
     "id": "tod-2",
-    "name": "Rodin",
-    "description": "AI-powered 3D generation platform for creating realistic models and assets from text or images.",
-    "description_ar": "منصة ذكاء اصطناعي لإنشاء موديلات وعناصر ثلاثية الأبعاد واقعية من النصوص أو الصور.",
-    "category": "3D",
-    "category_ar": "ثلاثي الأبعاد",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "trialInfo": "",
-    "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/hyper3d.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://hyper3d.ai"
+    "name": "Jobscan",
+    "description": "AI resume and ATS optimization platform that helps job seekers improve resumes and match job descriptions.",
+    "description_ar": "منصة ذكاء اصطناعي لتحسين السيرة الذاتية ورفع توافقها مع أنظمة ATS ووصف الوظائف.",
+    "category": "Career",
+    "category_ar": "الوظائف",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "trialInfo": "Limited free scans",
+    "trialInfo_ar": "عدد محدود من الفحوصات المجانية",
+    "logo": "https://img.logo.dev/jobscan.co?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "website": "https://www.jobscan.co"
   },
   {
     "id": "tod-3",
-    "name": "Audiotool",
-    "description": "Browser-based music production studio for creating beats, mixing tracks, and collaborating online.",
-    "description_ar": "استوديو إنتاج موسيقي من المتصفح لصناعة الإيقاعات ومزج المقاطع والتعاون أونلاين.",
-    "category": "Audio",
-    "category_ar": "الصوت",
+    "name": "Photopea",
+    "description": "Browser-based photo editor with Photoshop-like tools for image editing, design, and PSD support.",
+    "description_ar": "محرر صور من المتصفح يوفر أدوات شبيهة بفوتوشوب مع دعم ملفات PSD والتصميم الاحترافي.",
+    "category": "Design",
+    "category_ar": "التصميم",
     "pricing": "Free",
     "pricing_ar": "مجاني",
     "trialInfo": "",
     "trialInfo_ar": "",
-    "logo": "https://img.logo.dev/audiotool.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "website": "https://www.audiotool.com"
+    "logo": "https://img.logo.dev/photopea.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "website": "https://www.photopea.com"
   }
 ]
