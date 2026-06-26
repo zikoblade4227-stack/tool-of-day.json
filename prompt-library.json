@@ -1,5 +1,113 @@
 [
   {
+    "title": "Pink Foam Cleanser",
+    "title_ar": "منظف وردي رغوي",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514702/73_b3vvb2.jpg",
+    "prompt": "Premium minimalist skincare product photography. A translucent pink liquid cleanser bottle with a white pump dispenser placed vertically at the center of the frame. The bottle rests inside an organic pool of soft pink foamy bubbles, with airy soap lather spreading outward in smooth, rounded shapes. Small transparent bubbles float around the foam surface. Clean matte pastel pink background with subtle gradient. Soft diffused top lighting with gentle rim light creates a luminous glow through the liquid, highlighting the pump tube inside the bottle. Sharp focus, high clarity, realistic liquid refraction, smooth plastic and glass textures, luxury beauty advertising style, modern cosmetic branding, ultra-realistic, 8K detail, high dynamic range.\n\nNegative Prompt:\nhands, people, faces, clutter, harsh reflections, label distortion, unreadable text, warped pump, hard shadows, grain, noise, low resolution, CGI look, cartoon style, messy foam, uneven lighting, watermark",
+    "prompt_ar": "تصوير منتجات عناية بالبشرة بأسلوب فاخر ومينيمال. زجاجة منظف سائل وردي شفاف مع مضخة بيضاء موضوعة رأسيًا في مركز الإطار. الزجاجة داخل بركة عضوية من فقاعات وردية ناعمة، مع رغوة صابون خفيفة تمتد للخارج بأشكال مستديرة وسلسة. فقاعات شفافة صغيرة تطفو حول سطح الرغوة. خلفية وردية باستيل مطفية ونظيفة مع تدرج خفيف. إضاءة علوية ناعمة منتشرة مع rim light لطيف يخلق توهجًا مضيئًا خلال السائل ويبرز أنبوب المضخة داخل الزجاجة. تركيز حاد، وضوح عالٍ، انكسار سائل واقعي، خامات بلاستيك وزجاج ناعمة، أسلوب إعلان جمال فاخر، براندنج مستحضرات تجميل حديث، فائق الواقعية، تفاصيل 8K، نطاق ديناميكي عالٍ.\n\nبرومبت سلبي:\nأيدي، أشخاص، وجوه، ازدحام، انعكاسات قاسية، تشوه الملصق، نص غير مقروء، مضخة مشوهة، ظلال حادة، تحبب، ضوضاء، دقة منخفضة، مظهر CGI، أسلوب كرتوني، رغوة فوضوية، إضاءة غير متساوية، علامة مائية.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-001"
+  },
+  {
+    "title": "Milo Milk Splash",
+    "title_ar": "ميلو ورذاذ الحليب",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514702/76_ouagtl.jpg",
+    "prompt": "Create a high-quality, hyper-realistic advertisement image featuring a can of 'Milo' in mid-air. The can should be green and brown with visible branding and milk splash graphics on the label. Surround the can with splashes of creamy white milk swirling dynamically, forming curves and arcs. Add several golden brown, round, crunchy biscuits and cereal rings scattered around the can, as if they are flying through the air. Include droplets of milk suspended mid-air for added motion. Use a warm, gradient background transitioning from light cream to golden brown to enhance the appetizing feel. Lighting should be dramatic, with subtle reflections on the can to emphasize realism and depth.",
+    "prompt_ar": "أنشئ صورة إعلانية عالية الجودة وفائقة الواقعية لعلبة Milo تطفو في الهواء. يجب أن تكون العلبة باللونين الأخضر والبني مع ظهور واضح للبراند ورسومات رذاذ الحليب على الملصق. أحط العلبة برذاذ حليب أبيض كريمي يدور بحركة ديناميكية ويشكل منحنيات وأقواس. أضف عدة بسكويتات دائرية ذهبية بنية ومقرمشة وحلقات حبوب متناثرة حول العلبة كأنها تطير في الهواء. أضف قطرات حليب معلقة في الجو لزيادة الإحساس بالحركة. استخدم خلفية دافئة بتدرج من الكريمي الفاتح إلى البني الذهبي لتعزيز الإحساس الشهي. الإضاءة درامية مع انعكاسات خفيفة على العلبة لإبراز الواقعية والعمق.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-002"
+  },
+  {
+    "title": "Boxed Diorama Ads",
+    "title_ar": "إعلانات ديوراما داخل صندوق",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514702/75_pvuwzp.jpg",
+    "prompt": "A world-class luxury commercial art director, surreal product photographer, cinematic set designer, and premium AI advertising stylist creating hyper-detailed boxed-diorama brand ads for famous snack and candy brands.\n\nSTYLE DIRECTION:\nLuxury surrealism × editorial product photography × miniature cinematic world × modern premium advertising\n\nCORE CONCEPT:\nCreate a highly stylized premium advertisement for [BRAND NAME OR PRODUCT] designed entirely inside a cinematic shadow-box / miniature display box. \nThe product must feel like the hero object of a tiny surreal world filled with strange, playful, luxurious, and visually addictive storytelling details.\n\nVISUAL STYLE:\n- Matte color palette with ultra-rich vibrant tones\n- Dynamic contrasting colors\n- Show-off luxury color combinations\n- Deep cinematic shadows\n- Soft volumetric lighting\n- Hyper-detailed textures\n- Premium studio photography look\n- Sharp focus with subtle depth of field\n- Editorial-level composition\n- Clean but complex\n- Minimal text only\n- Every corner should contain visual storytelling\n\nCOMPOSITION:\n- Entire ad built inside a realistic boxed diorama\n- Product placed hero-center\n- Multiple tiny surreal objects surrounding the product\n- Add weird playful objects related to the brand theme\n- Include hidden storytelling details\n- Use layered depth and asymmetrical balance\n- Make the scene feel handcrafted and immersive\n\nOBJECT IDEAS:\n- Floating clouds\n- Tiny ladders\n- Mini doors\n- Hands coming from walls\n- Floating eyes\n- Tiny workers\n- Melting chocolate streams\n- Surreal pipes\n- Small creatures\n- Mini staircases\n- Oversized buttons\n- Floating geometric objects\n- Tiny furniture\n- Funny miniature scenes\n- Strange holes in walls\n- Retro lamps\n- Floating smoke\n- Hidden characters\n\nLIGHTING:\n- Dramatic studio spotlight\n- Warm cinematic highlights\n- Matte reflections\n- Soft ambient glow\n- Rich shadows\n- Luxury commercial lighting\n\nTEXT:\n- Very minimal typography\n- One short slogan only\n- Sharp and memorable\n- Integrated naturally into the environment\n\nQUALITY:\nUltra realistic, hyper detailed, cinematic, premium advertising quality, editorial product photography, surreal realism, 8K, extremely polished, visually addictive, modern luxury ad campaign aesthetic.\n\nNEGATIVE PROMPT:\nNo cheap layouts, no clutter, no low detail, no flat lighting, no generic stock look, no empty background, no blurry product, no random unrelated colors, no messy composition.\n\nEXAMPLE BRANDS:\nKitKat, Hershey’s Kisses, Pringles, Oreo, Coca-Cola, Pepsi, Nutella, Cadbury, McDonald’s, Starbucks, Doritos",
+    "prompt_ar": "تصرف كمدير فني عالمي للإعلانات التجارية الفاخرة، ومصور منتجات سريالي، ومصمم مشاهد سينمائية، ومصمم إعلانات AI راقٍ ينشئ إعلانات براند داخل صناديق ديوراما فائقة التفاصيل لعلامات سناكس وحلويات شهيرة.\n\nاتجاه الأسلوب:\nسريالية فاخرة × تصوير منتجات تحريري × عالم سينمائي مصغر × إعلان حديث فاخر\n\nالفكرة الأساسية:\nأنشئ إعلانًا فاخرًا عالي الأسلوب لـ [اسم البراند أو المنتج] مصممًا بالكامل داخل صندوق ظل سينمائي / صندوق عرض مصغر. يجب أن يظهر المنتج كعنصر بطل داخل عالم صغير سريالي مليء بتفاصيل غريبة ومرحة وفاخرة وجذابة بصريًا.\n\nالأسلوب البصري:\n- لوحة ألوان مطفية بدرجات غنية جدًا وحيوية\n- ألوان متباينة ديناميكية\n- تركيبات لونية فاخرة ملفتة\n- ظلال سينمائية عميقة\n- إضاءة حجمية ناعمة\n- خامات فائقة التفاصيل\n- مظهر تصوير استوديو فاخر\n- تركيز حاد مع عمق ميدان خفيف\n- تكوين بمستوى تحريري\n- نظيف لكنه غني بالتفاصيل\n- نص بسيط جدًا فقط\n- كل زاوية تحتوي على قصة بصرية\n\nالتكوين:\n- الإعلان بالكامل داخل ديوراما صندوق واقعية\n- المنتج في مركز البطل\n- عناصر سريالية صغيرة متعددة حول المنتج\n- أشياء غريبة ومرحة مرتبطة بموضوع البراند\n- تفاصيل قصة مخفية\n- عمق متعدد الطبقات وتوازن غير متماثل\n- إحساس يدوي وغامر\n\nأفكار للعناصر:\nغيوم عائمة، سلالم صغيرة، أبواب مصغرة، أيدٍ خارجة من الجدران، عيون عائمة، عمال صغار، شلالات شوكولاتة ذائبة، مواسير سريالية، كائنات صغيرة، سلالم مصغرة، أزرار ضخمة، أشكال هندسية عائمة، أثاث صغير، مشاهد مصغرة مضحكة، ثقوب غريبة في الجدران، مصابيح ريترو، دخان عائم، شخصيات مخفية.\n\nالإضاءة:\nسبوت لايت استوديو درامي، لمعات سينمائية دافئة، انعكاسات مطفية، توهج محيطي ناعم، ظلال غنية، إضاءة تجارية فاخرة.\n\nالنص:\nتايبوجرافي بسيط جدًا، شعار قصير واحد فقط، حاد وسهل التذكر، مدمج طبيعيًا داخل البيئة.\n\nالجودة:\nفائق الواقعية، شديد التفاصيل، سينمائي، جودة إعلانات فاخرة، تصوير منتجات تحريري، واقعية سريالية، 8K، مصقول للغاية، جذاب بصريًا، جماليات حملة إعلانية فاخرة حديثة.\n\nبرومبت سلبي:\nبدون تخطيطات رخيصة، بدون ازدحام، بدون تفاصيل منخفضة، بدون إضاءة مسطحة، بدون مظهر stock عام، بدون خلفية فارغة، بدون منتج ضبابي، بدون ألوان عشوائية غير مرتبطة، بدون تكوين فوضوي.\n\nأمثلة براندات:\nKitKat, Hershey’s Kisses, Pringles, Oreo, Coca-Cola, Pepsi, Nutella, Cadbury, McDonald’s, Starbucks, Doritos",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-003"
+  },
+  {
+    "title": "Nutella Ski World",
+    "title_ar": "عالم نوتيلا للتزلج",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514702/74_eeiwjr.jpg",
+    "prompt": "Cinematic miniature winter world built around a giant Nutella jar, thick chocolate hazelnut spread flowing out forming a glossy mountain ski slope, tiny skiers skiing down the chocolate hill covered with light snow powder, miniature alpine village with wooden cabins and pine trees, ski lift with small gondolas carrying people, snowy forest background and distant mountains, soft winter lighting, ultra realistic textures of melting chocolate and snow, macro tilt shift photography, fantasy food landscape, commercial food advertising style, highly detailed, 8K.\n\nNegative prompt: blurry, low resolution, distorted jar, incorrect logo, messy composition, unrealistic proportions, extra limbs, duplicate people.\nAspect ratio: 4:5.\nStyle: ultra realistic macro photography.\nLighting: soft cinematic winter daylight.\nCamera: macro lens, tilt shift effect.\nQuality: high detail, 8K.",
+    "prompt_ar": "عالم شتوي سينمائي مصغر مبني حول برطمان نوتيلا عملاق، مع شوكولاتة بندق كثيفة تتدفق منه لتشكل منحدر تزلج جبلي لامع. متزلجون صغار ينزلقون على تل الشوكولاتة المغطى بطبقة خفيفة من الثلج، قرية ألبية مصغرة بها أكواخ خشبية وأشجار صنوبر، مصعد تزلج بعربات صغيرة تحمل أشخاصًا، خلفية غابة ثلجية وجبال بعيدة، إضاءة شتوية ناعمة، خامات فائقة الواقعية للشوكولاتة الذائبة والثلج، تصوير ماكرو بتأثير tilt shift، مشهد طعام خيالي، أسلوب إعلان طعام تجاري، تفاصيل عالية، 8K.\n\nبرومبت سلبي: ضبابية، دقة منخفضة، برطمان مشوه، شعار غير صحيح، تكوين فوضوي، نسب غير واقعية، أطراف إضافية، أشخاص مكررون.\nنسبة الأبعاد: 4:5.\nالأسلوب: تصوير ماكرو فائق الواقعية.\nالإضاءة: ضوء نهار شتوي سينمائي ناعم.\nالكاميرا: عدسة ماكرو، تأثير tilt shift.\nالجودة: تفاصيل عالية، 8K.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-004"
+  },
+  {
+    "title": "Chocolate Biscuit Pool",
+    "title_ar": "بسكويت الشوكولاتة الذائب",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514702/77_fhtyyt.jpg",
+    "prompt": "Use the uploaded product image as a reference. Create an ultra-realistic commercial image of a creamy biscuit covered in chocolate. Highlight the broken chocolate balls and the texture of the creamy biscuit is visible, as well as the melted chocolate seen from above. Show several chocolate balls in a random layout as a background, the broken chocolate floating above a pool of chocolate liquid. Below it is a pool of thick melted chocolate. Clean studio layout, bright colored background, bold advertising style for social media. Ultra realistic 8K, high sharpness, high contrast, professional lighting with realistic shadows and highlights, no text, no watermark, no blur, no distortion, no low quality, no cartoon style.",
+    "prompt_ar": "استخدم صورة المنتج المرفوعة كمرجع. أنشئ صورة تجارية فائقة الواقعية لبسكويت كريمي مغطى بالشوكولاتة. أبرز كرات الشوكولاتة المكسورة واجعل خامة البسكويت الكريمي واضحة، مع ظهور الشوكولاتة الذائبة من الأعلى. اعرض عدة كرات شوكولاتة بترتيب عشوائي كخلفية، مع قطعة الشوكولاتة المكسورة تطفو فوق بركة من الشوكولاتة السائلة. أسفلها بركة من الشوكولاتة الذائبة الكثيفة. تخطيط استوديو نظيف، خلفية ملونة ساطعة، أسلوب إعلان جريء مناسب للسوشيال ميديا. فائق الواقعية 8K، حدة عالية، تباين عالٍ، إضاءة احترافية مع ظلال ولمعات واقعية، بدون نص، بدون علامة مائية، بدون ضبابية، بدون تشويه، بدون جودة منخفضة، بدون أسلوب كرتوني.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-005"
+  },
+  {
+    "title": "Scalp Confidence Ad",
+    "title_ar": "إعلان ثقة فروة الرأس",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514703/80_ole4cg.jpg",
+    "prompt": "HEAD & SHOULDERS\n\n\"CONFIDENCE STARTS AT THE SCALP\"\n\nFORMAT\nUltra-Premium FMCG Social Media Advertisement\nVertical 4:5\nInstagram Hero Creative\nCommercial Product Advertising\nAgency-Level Art Direction\nBehance Front Page Quality\n8K UHD\nHyper-Realistic\nPhotography × Graphic Design Fusion\nZero AI Slop\nZero Generic Product Mockups\nZero Floating Product Renders\n\nCORE STRATEGY\nThis is not a shampoo poster. This is a confidence-driven Head & Shoulders campaign where the product is actively being used, creating instant trust and product relevance. The design must feel like a global campaign created by P&G's internal creative team in collaboration with Pentagram and Wieden+Kennedy.\n\nThe moment someone sees the ad, they should immediately understand:\nAnti-Dandruff\nClean Scalp\nFresh Hair\nProfessional Quality\n\nVISUAL COMPOSITION\nMassive Head & Shoulders bottle positioned as the dominant hero element occupying approximately 45% of the composition. Two realistic wet hands holding the bottle naturally from the bottom and side. Hands covered with authentic shampoo foam and soap bubbles. Tiny water droplets visible on fingers, bottle surface, and skin. Bottle angled slightly toward camera to maximize branding visibility. Natural pressure marks on fingers gripping bottle. Visible moisture and shine on packaging. Entire composition built around the iconic Head & Shoulders color palette.\n\nBACKGROUND DESIGN\nRich Head & Shoulders deep blue gradient background. Soft white shampoo bubbles floating throughout scene. Large blurred foam elements in foreground and background creating depth. Luxury commercial lighting bloom. Subtle water splash particles suspended in air. Premium glossy reflections. No bathroom environment. No distracting scenery. Pure advertising-focused studio setup.\n\nPRODUCT PRESENTATION\nAuthentic Head & Shoulders Anti-Dandruff Shampoo bottle. Label perfectly visible. Packaging ultra sharp. Micro-details visible. Realistic plastic reflections. Condensation droplets. Premium commercial retouching.\n\nTEXT HIERARCHY\nTop Left: Official Head & Shoulders logo\nPrimary Headline: 100% DANDRUFF FREE CONFIDENCE\nLarge bold premium typography.\nSecondary Headline: Clinically Proven Scalp Protection\n\nBENEFITS SECTION\nPositioned on right side.\nMinimal premium icon system.\n✓ Removes visible dandruff\n✓ Healthy scalp protection\n✓ Long-lasting freshness\n✓ Dermatologically tested\nTypography clean and highly readable.\n\nGRAPHIC DESIGN SYSTEM\nApple-level minimalism. Nike-level visual confidence. P&G-level product communication. Strong visual hierarchy. Perfect negative space. Luxury FMCG layout. Mobile-first readability. Every element aligned to a professional advertising grid.\n\nLIGHTING\nHigh-end commercial beauty lighting. Large overhead softbox. Premium edge lighting around bottle. Controlled specular highlights. Natural shadows. Luxury product reflections. Soft glow around hero product.\n\nCAMERA\nHasselblad H6D-400C\n85mm Lens\nf/4\nISO 100\nStudio Commercial Photography\nUltra Sharp Focus\nProfessional Advertising Retouching\n\nCOLOR PALETTE\nHead & Shoulders Blue\nPure White\nSilver Highlights\nClean Aqua Accents\n\nMOOD\nFresh\nClean\nTrustworthy\nProfessional\nScientific\nPremium\nConfident\n\nFINAL RESULT\nA world-class Head & Shoulders advertising poster that looks like a real global FMCG campaign, combining hyper-realistic product photography, authentic human interaction, luxury commercial lighting, premium graphic design, strong brand identity, perfect typography hierarchy, and high-converting social media advertising aesthetics.",
+    "prompt_ar": "HEAD & SHOULDERS\n\n\"الثقة تبدأ من فروة الرأس\"\n\nالتنسيق:\nإعلان FMCG فاخر جدًا للسوشيال ميديا، رأسي 4:5، إبداع بطل لإنستغرام، إعلان منتجات تجاري، إخراج فني بمستوى وكالة، جودة Behance Front Page، 8K UHD، فائق الواقعية، دمج بين التصوير والتصميم الجرافيكي، بدون مظهر AI رخيص، بدون موكابات عامة، بدون منتجات عائمة بشكل غير واقعي.\n\nالاستراتيجية الأساسية:\nهذا ليس مجرد بوستر شامبو. هذه حملة Head & Shoulders مبنية على الثقة حيث يتم استخدام المنتج فعليًا، مما يخلق ثقة فورية وارتباطًا واضحًا بالمنتج. يجب أن يبدو التصميم كحملة عالمية من فريق P&G الإبداعي بالتعاون مع Pentagram و Wieden+Kennedy.\n\nعند رؤية الإعلان يجب فهم: مضاد للقشرة، فروة رأس نظيفة، شعر منتعش، جودة احترافية.\n\nالتكوين البصري:\nزجاجة Head & Shoulders ضخمة كعنصر بطل مهيمن تشغل حوالي 45% من التكوين. يدان واقعيتان مبللتان تمسكان الزجاجة طبيعيًا من الأسفل والجانب. الأيدي مغطاة برغوة شامبو وفقاعات صابون حقيقية. قطرات ماء صغيرة ظاهرة على الأصابع وسطح الزجاجة والجلد. الزجاجة مائلة قليلًا نحو الكاميرا لزيادة وضوح البراند. علامات ضغط طبيعية على الأصابع وهي تمسك الزجاجة. رطوبة ولمعان واضحان على التغليف. التكوين كله مبني حول ألوان Head & Shoulders الأيقونية.\n\nالخلفية:\nتدرج أزرق عميق وغني بأسلوب Head & Shoulders. فقاعات شامبو بيضاء ناعمة تطفو في المشهد. عناصر رغوة كبيرة ضبابية في المقدمة والخلفية لصناعة العمق. توهج إضاءة تجارية فاخرة. جزيئات رذاذ ماء معلقة في الهواء. انعكاسات لامعة راقية. بدون حمام، بدون مشاهد مشتتة، إعداد استوديو إعلاني نقي.\n\nعرض المنتج:\nزجاجة Head & Shoulders Anti-Dandruff Shampoo أصلية، الملصق واضح تمامًا، التغليف حاد جدًا، التفاصيل الدقيقة ظاهرة، انعكاسات بلاستيك واقعية، قطرات تكثف، رتوش تجارية فاخرة.\n\nالتايبوجرافي:\nأعلى اليسار: شعار Head & Shoulders الرسمي.\nالعنوان الرئيسي: 100% DANDRUFF FREE CONFIDENCE\nتايبوجرافي كبير وجريء وفاخر.\nالعنوان الثانوي: Clinically Proven Scalp Protection\n\nقسم الفوائد:\nعلى الجانب الأيمن بنظام أيقونات مينيمال فاخر:\n✓ يزيل القشرة المرئية\n✓ حماية صحية لفروة الرأس\n✓ انتعاش طويل المدى\n✓ مختبر جلديًا\nتايبوجرافي نظيف وسهل القراءة.\n\nنظام التصميم الجرافيكي:\nبساطة بمستوى Apple، ثقة بصرية بمستوى Nike، تواصل منتج بمستوى P&G، هرمية بصرية قوية، مساحة سلبية مثالية، تخطيط FMCG فاخر، قراءة موبايل أولًا، كل عنصر محاذى على جريد إعلاني احترافي.\n\nالإضاءة:\nإضاءة تجميل تجارية راقية، softbox علوي كبير، إضاءة حافة فاخرة حول الزجاجة، لمعات محسوبة، ظلال طبيعية، انعكاسات منتج فاخرة، توهج ناعم حول المنتج البطل.\n\nالكاميرا:\nHasselblad H6D-400C، عدسة 85mm، f/4، ISO 100، تصوير استوديو تجاري، تركيز حاد جدًا، رتوش إعلانية احترافية.\n\nلوحة الألوان:\nأزرق Head & Shoulders، أبيض نقي، لمعات فضية، لمسات أكوا نظيفة.\n\nالمزاج:\nمنتعش، نظيف، موثوق، احترافي، علمي، فاخر، واثق.\n\nالنتيجة النهائية:\nبوستر إعلان Head & Shoulders عالمي المستوى يبدو كحملة FMCG عالمية حقيقية، يجمع بين تصوير منتجات فائق الواقعية، تفاعل بشري حقيقي، إضاءة تجارية فاخرة، تصميم جرافيكي راقٍ، هوية براند قوية، هرمية تايبوجرافي مثالية، وجماليات إعلان سوشيال ميديا عالية التحويل.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-006"
+  },
+  {
+    "title": "Giant Pizza Hut Ad",
+    "title_ar": "إعلان بيتزا هت العملاقة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514703/81_jhh6gw.jpg",
+    "prompt": "Create a minimalist commercial advertisement featuring an oversized cheese pizza as the hero product in an ultra-clean, luxury campaign style. A young woman dressed in an elegant all-pink and white outfit leans casually against the giant pizza in a relaxed yet confident pose, eyes gently closed, while holding a freshly made Pizza Hut cheese pizza in both hands. The composition is modern and editorial, emphasizing scale, freshness, and visual impact.\n\nUse a soft gradient green-to-yellow background with large bold white and black “PIZZA HUT” typography placed prominently behind the subject. Include a glossy reflective floor that subtly mirrors the pizza and the model, enhanced with soft studio lighting and premium food photography aesthetics. Ensure the pizza appears hyper-realistic with melted cheese, golden crust, rich sauce, fresh toppings, mouthwatering texture, and high detail.\n\nMaintain a clean, luxurious layout with balanced negative space and a sophisticated commercial look suitable for a high-end global advertising campaign.\n\nAdd small text in the top-right corner reading “Designed by SHAMUS”. At the bottom center, place the tagline in small white font: “Freshly made. Delicious in every bite”.",
+    "prompt_ar": "أنشئ إعلانًا تجاريًا مينيمال يظهر بيتزا جبن ضخمة كمنتج بطل بأسلوب حملة فاخرة ونظيفة جدًا. شابة ترتدي زيًا أنيقًا بالكامل بالوردي والأبيض تتكئ بعفوية على البيتزا العملاقة في وضعية مريحة وواثقة، عيناها مغلقتان بلطف، وتمسك بيتزا جبن طازجة من Pizza Hut بكلتا يديها. التكوين حديث وتحريري، يركز على الحجم والانتعاش والتأثير البصري.\n\nاستخدم خلفية بتدرج ناعم من الأخضر إلى الأصفر مع تايبوجرافي كبير وجريء باللونين الأبيض والأسود مكتوب عليه “PIZZA HUT” خلف الشخصية بشكل واضح. أضف أرضية لامعة عاكسة تعكس البيتزا والموديل بشكل خفيف، مع إضاءة استوديو ناعمة وجماليات تصوير طعام فاخرة. اجعل البيتزا فائقة الواقعية مع جبن ذائب، أطراف ذهبية، صوص غني، إضافات طازجة، خامة شهية وتفاصيل عالية.\n\nحافظ على تخطيط نظيف وفاخر بمساحة سلبية متوازنة ومظهر تجاري راقٍ مناسب لحملة إعلانية عالمية عالية المستوى.\n\nأضف نصًا صغيرًا في أعلى اليمين: “Designed by SHAMUS”. وفي منتصف الأسفل ضع الشعار بخط أبيض صغير: “Freshly made. Delicious in every bite”.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-007"
+  },
+  {
+    "title": "Floating Lava Cake",
+    "title_ar": "كيك لافا عائم",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514703/78_r319us.jpg",
+    "prompt": "Ultra-detailed cinematic shot of a decadent chocolate lava cake levitating above an elegant white plate, breaking the laws of physics. Rich molten chocolate flows upward in smooth rivers from the center, fresh raspberries and gold leaf flakes floating gracefully around it, powdered sugar drifting like snow in zero gravity. Warm dramatic lighting, glistening textures, highly appetizing, luxury food photography style.",
+    "prompt_ar": "لقطة سينمائية فائقة التفاصيل لكيك لافا شوكولاتة فاخر يطفو فوق طبق أبيض أنيق وكأنه يكسر قوانين الفيزياء. شوكولاتة ذائبة غنية تتدفق للأعلى من المركز في أنهار ناعمة، توت أحمر طازج ورقائق ذهبية تطفو برشاقة حوله، وسكر بودرة يتناثر مثل الثلج في انعدام الجاذبية. إضاءة دافئة درامية، خامات لامعة، مظهر شهي جدًا، أسلوب تصوير طعام فاخر.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-008"
+  },
+  {
+    "title": "Subway Fresh Campaign",
+    "title_ar": "حملة صب واي الطازجة",
+    "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1782514703/79_ijcwto.jpg",
+    "prompt": "SUBWAY\n\n\"EAT FRESH.\"\n\nFORMAT\nUltra-Premium Fast Food Social Media Advertisement\nInstagram Hero Campaign\nVertical 4:5\n1080×1350\nGlobal QSR Advertising\nCommercial Food Photography × Graphic Design Fusion\nAgency-Level Art Direction\nBehance Front Page Quality\n8K UHD\nHyper-Realistic\nLuxury Fast-Food Marketing\nMobile-First Advertising\nZero AI Slop\nAward-Winning Creative Direction\nConversion-Focused Design\nSubway Global Brand Identity Evolution\n\nCORE CONCEPT\nA monumental Subway serving tray carrying a freshly made Footlong sandwich is being passed between two hands, symbolizing freshness, customization, speed, and healthy satisfaction.\n\nInspired by high-performing social media advertising but completely transformed into Subway's proprietary freshness ecosystem.\n\nUnlike KFC's heat, McDonald's happiness, or Burger King's fire, this campaign revolves around freshness, ingredients, movement, and customization.\n\nThe image must instantly communicate:\nFreshly Made\nBuilt To Order\nPacked With Ingredients\nMade Your Way\n\nThe visual should feel like Subway's next-generation global campaign launched simultaneously across New York, London, Dubai, Singapore, Tokyo, and Instagram. The viewer should instantly crave freshness before reading any copy.\n\nHERO VISUAL\nA massive premium Subway serving tray dominates the composition. Two realistic hands enter from opposite edges of the frame. One hand presents. One hand receives. The exchange feels immediate and natural.\n\nInside the tray:\nFootlong Italian B.M.T.\nFreshly Baked Bread\nPremium Turkey Slices\nLettuce\nTomatoes\nRed Onions\nPickles\nCucumbers\nBell Peppers\nSignature Sauces\n\nThe Footlong becomes the hero object. Monumental scale. Oversized. Impossible to ignore. The sandwich stretches dramatically across the tray. Approximately 70% of frame width. Ingredients visibly overflowing. Every ingredient layered perfectly. No compression. No mess. Every ingredient individually visible. Every ingredient fresh and vibrant. Maximum appetite appeal. Maximum freshness perception.\n\nFOOD STYLING\nLuxury food advertising standards. Perfect ingredient architecture. Fresh bread texture. Visible artisan crust. Soft interior crumb. Crisp lettuce texture. Juicy tomatoes. Fresh cucumber moisture. Thin sliced onions. Visible seasoning. Premium sauce drizzle.\n\nFood styling details:\nFloating lettuce pieces\nFlying herb particles\nFresh ingredient motion\nTiny water droplets\nMicro seasoning flakes\nFreshness mist\nNatural food reflections\nSubtle movement cues\n\nEverything appears assembled seconds before capture.\n\nBACKGROUND DESIGN SYSTEM\nNOT generic gradients. NOT abstract blobs. The entire background becomes a proprietary Subway visual universe built from Subway arrow graphics, fresh leaf patterns, ingredient silhouettes, vegetable illustrations, route map line systems, directional movement graphics, fresh produce textures, organic geometric forms, health-focused iconography, and Subway brand arrows.\n\nThe iconic Subway arrow language is integrated throughout the design. Movement graphics create visual flow. Every layer reinforces freshness.\n\nCOLOR PALETTE\nSubway Green #009639\nFresh Leaf Green #42B649\nSubway Yellow #FFCD00\nFresh White #FFFFFF\nAvocado Green #7AC143\nDeep Green Shadow #005A32\nNatural Vegetable Tones\n\nThe image should instantly feel like Subway even without a logo.\n\nTYPOGRAPHY HIERARCHY\nTop Left: Official Subway Logo\nLarge Hero Headline:\nMADE\nYOUR WAY.\nor\nFRESHLY\nSTACKED.\n\nMassive oversized typography. Bold modern sans-serif. Clean. Optimistic. Fresh. Highly legible on mobile. Typography integrated into graphic composition.\n\nSubheadline:\nFreshly Made.\nBuilt For You.\n\nPREMIUM UI/UX ADVERTISING MODULES\nOffer Badge: Floating premium green-yellow capsule. FRESH DEAL. High contrast near headline.\nPrice Module: FOOTLONG FROM $7.99 with large numerical hierarchy.\nCTA Button: ORDER NOW, large premium green-yellow rounded button, modern mobile-first UX, high-converting design language.\n\nVISUAL EFFECTS\nFloating vegetables, ingredient particles, freshness mist, water droplets, herb particles, light rays, fresh ingredient motion, natural food reflections, luxury commercial retouching, premium lens bloom. No artificial AI look. Everything should feel photographed for a global campaign.\n\nLIGHTING\nShot on ARRI Alexa Mini LF, 50mm Master Prime Lens, premium commercial food lighting, bright natural key light, soft daylight simulation, fresh rim lighting, controlled highlights, clean reflections, healthy food photography aesthetic, luxury restaurant advertising quality. The sandwich receives hero spotlight treatment.\n\nCAMERA\nEye-level hero angle, slight front perspective, monumental food presentation, commercial framing, shallow depth of field, focus-stacked ingredient detail, maximum texture retention, large-scale visual impact.\n\nBACKGROUND ATMOSPHERE\nFresh, clean, energetic, healthy, modern, optimistic. Feels like the future of Subway advertising.\n\nA fusion of:\nFresh Ingredients\nHealthy Fast Food\nPremium Food Photography\nModern Graphic Design\nBehavioral Marketing Psychology\nSocial Media Advertising\n\nThe emotional reaction should be freshness, trust, satisfaction, customization, and craving.\n\nFINAL LOOK\nNot a food photograph. Not a poster. A complete Subway advertising ecosystem combining Subway brand identity, luxury food photography, freshness visual storytelling, modern graphic design, conversion psychology, premium UI/UX advertising, and global campaign design.\n\nBehance Front Page Quality\nCannes Lions Quality\nGlobal Campaign Launch Creative\nTimes Square Billboard Quality\nHyper-realistic\nUltra-detailed\nCommercially perfect\nInstantly recognizable as Subway\nMaximum freshness perception\nMaximum conversion potential\nMassive ingredient integration\nWorld-class advertising execution\n\nThe visual should feel fresh, vibrant, healthy, customizable, energetic, and unmistakably Subway from the first second of viewing.",
+    "prompt_ar": "SUBWAY\n\n\"EAT FRESH.\"\n\nالتنسيق:\nإعلان fast food فاخر جدًا للسوشيال ميديا، حملة بطل لإنستغرام، رأسي 4:5، مقاس 1080×1350، إعلان QSR عالمي، دمج بين تصوير طعام تجاري وتصميم جرافيكي، إخراج فني بمستوى وكالة، جودة Behance Front Page، 8K UHD، فائق الواقعية، تسويق fast food فاخر، إعلان موبايل أولًا، بدون مظهر AI رخيص، إخراج إبداعي حائز على جوائز، تصميم يركز على التحويل، وتطور عالمي لهوية Subway.\n\nالفكرة الأساسية:\nصينية Subway ضخمة تحمل ساندويتش Footlong طازج يتم تمريرها بين يدين، ترمز إلى الطزاجة والتخصيص والسرعة والإشباع الصحي. الحملة مستوحاة من إعلانات السوشيال عالية الأداء لكنها تتحول بالكامل إلى عالم بصري خاص بطزاجة Subway.\n\nبعكس حرارة KFC أو سعادة McDonald’s أو نار Burger King، هذه الحملة تدور حول الطزاجة والمكونات والحركة والتخصيص.\n\nيجب أن تنقل الصورة فورًا:\nمصنوع طازجًا\nمصمم حسب الطلب\nمليء بالمكونات\nعلى طريقتك\n\nيجب أن يبدو المشهد كحملة Subway عالمية من الجيل القادم يتم إطلاقها في نيويورك ولندن ودبي وسنغافورة وطوكيو وإنستغرام. يجب أن يشتهي المشاهد الطزاجة قبل قراءة أي نص.\n\nالعنصر البطل:\nصينية Subway فاخرة ضخمة تسيطر على التكوين. يدان واقعيتان تدخلان من حافتي الإطار؛ يد تقدم ويد تستلم. التبادل يبدو فوريًا وطبيعيًا.\n\nداخل الصينية:\nFootlong Italian B.M.T.\nخبز طازج\nشرائح تركي فاخرة\nخس\nطماطم\nبصل أحمر\nمخلل\nخيار\nفلفل ألوان\nصوصات مميزة\n\nالـ Footlong هو عنصر البطل، ضخم وممتد دراميًا عبر الصينية ويشغل حوالي 70% من عرض الإطار. المكونات ظاهرة ومتدفقة بشكل شهي، كل مكون موضوع بطبقات مثالية، بدون ضغط أو فوضى، كل مكون واضح وطازج وحيوي، بأقصى جاذبية شهية وإحساس بالطزاجة.\n\nتنسيق الطعام:\nمعايير إعلان طعام فاخر، هندسة مكونات مثالية، خامة خبز طازج، قشرة خبز حرفية واضحة، لب داخلي ناعم، خس مقرمش، طماطم عصيرية، رطوبة خيار طازج، بصل شرائح رفيعة، توابل ظاهرة، رذاذ صوص فاخر.\n\nتفاصيل تنسيق الطعام:\nقطع خس عائمة، جزيئات أعشاب طائرة، حركة مكونات طازجة، قطرات ماء صغيرة، رقائق توابل دقيقة، ضباب طزاجة، انعكاسات طعام طبيعية، وإشارات حركة خفيفة. كل شيء يبدو أنه تم تجميعه قبل لحظات من التصوير.\n\nنظام الخلفية:\nليست تدرجات عامة وليست أشكال abstract بلا معنى. الخلفية كلها تتحول إلى عالم Subway بصري خاص مبني من أسهم Subway، أنماط أوراق طازجة، ظلال مكونات، رسومات خضار، خطوط خرائط مسارات، رسومات حركة اتجاهية، خامات منتجات طازجة، أشكال هندسية عضوية، أيقونات صحية، وأسهم البراند.\n\nلغة أسهم Subway الأيقونية مدمجة في التصميم كله، ورسومات الحركة تصنع تدفقًا بصريًا، وكل طبقة تعزز الإحساس بالطزاجة.\n\nلوحة الألوان:\nSubway Green #009639\nFresh Leaf Green #42B649\nSubway Yellow #FFCD00\nFresh White #FFFFFF\nAvocado Green #7AC143\nDeep Green Shadow #005A32\nدرجات خضروات طبيعية\n\nيجب أن تشعر الصورة بأنها Subway حتى بدون شعار.\n\nهرمية التايبوجرافي:\nأعلى اليسار: شعار Subway الرسمي.\nالعنوان البطل الكبير:\nMADE\nYOUR WAY.\nأو\nFRESHLY\nSTACKED.\n\nتايبوجرافي ضخم، سانس سيريف حديث وجريء، نظيف ومتفائل وطازج وسهل القراءة على الموبايل، مدمج داخل التكوين الجرافيكي.\n\nالعنوان الفرعي:\nFreshly Made.\nBuilt For You.\n\nوحدات UI/UX إعلانية فاخرة:\nشارة عرض عائمة خضراء وصفراء مكتوب عليها FRESH DEAL بالقرب من العنوان. وحدة سعر: FOOTLONG FROM $7.99 بهرمية رقمية كبيرة. زر CTA: ORDER NOW، زر كبير مستدير باللونين الأخضر والأصفر، لغة UX حديثة موبايل أولًا وعالية التحويل.\n\nالمؤثرات البصرية:\nخضروات عائمة، جزيئات مكونات، ضباب طزاجة، قطرات ماء، جزيئات أعشاب، أشعة ضوء، حركة مكونات طازجة، انعكاسات طبيعية، رتوش تجارية فاخرة، lens bloom راقٍ. بدون مظهر AI صناعي، يجب أن يبدو كل شيء كأنه مصور لحملة عالمية.\n\nالإضاءة:\nتصوير على ARRI Alexa Mini LF، عدسة 50mm Master Prime، إضاءة طعام تجارية فاخرة، key light طبيعي ساطع، محاكاة ضوء نهار ناعم، rim lighting طازج، لمعات محكومة، انعكاسات نظيفة، جمالية تصوير طعام صحي، جودة إعلان مطاعم فاخر. الساندويتش يحصل على معاملة hero spotlight.\n\nالكاميرا:\nزاوية hero على مستوى العين، منظور أمامي خفيف، عرض طعام ضخم، framing تجاري، عمق ميدان ضحل، تفاصيل مكونات focus-stacked، احتفاظ أقصى بالخامات، تأثير بصري واسع.\n\nأجواء الخلفية:\nطازجة، نظيفة، نشيطة، صحية، حديثة، متفائلة. تشعر كمستقبل إعلانات Subway.\n\nمزيج من:\nمكونات طازجة، fast food صحي، تصوير طعام فاخر، تصميم جرافيكي حديث، نفسية التسويق السلوكي، وإعلانات السوشيال ميديا.\n\nرد الفعل العاطفي:\nطزاجة، ثقة، رضا، تخصيص، واشتهاء.\n\nالشكل النهائي:\nليس مجرد صورة طعام ولا مجرد بوستر، بل منظومة إعلانية كاملة لـ Subway تجمع بين هوية البراند، تصوير طعام فاخر، سرد بصري للطزاجة، تصميم جرافيكي حديث، نفسية التحويل، UI/UX إعلاني فاخر، وتصميم حملة عالمية.\n\nجودة Behance Front Page، جودة Cannes Lions، إبداع إطلاق حملة عالمية، جودة Times Square Billboard، فائق الواقعية، شديد التفاصيل، مثالي تجاريًا، واضح فورًا أنه Subway، أقصى إحساس بالطزاجة، أقصى قابلية للتحويل، دمج ضخم للمكونات، تنفيذ إعلاني عالمي المستوى.\n\nيجب أن يبدو المشهد طازجًا، نابضًا بالحياة، صحيًا، قابلًا للتخصيص، نشيطًا، وواضحًا أنه Subway من أول ثانية.",
+    "suggestedTools": [
+      "1",
+      "242"
+    ],
+    "id": "prompt-009"
+  },
+  {
     "title": "Floating Sushi",
     "title_ar": "سوشي عائم",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1780268938/Floating_sushi_rolls_with_herbs_202606010301_hkjifb.jpg",
@@ -9,7 +117,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-001"
+    "id": "prompt-010"
   },
   {
     "title": "Monogram M Monument",
@@ -21,7 +129,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-002"
+    "id": "prompt-011"
   },
   {
     "title": "Luxury Skincare Jar",
@@ -33,7 +141,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-003"
+    "id": "prompt-012"
   },
   {
     "title": "Monster Arctic Monument",
@@ -45,7 +153,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-004"
+    "id": "prompt-013"
   },
   {
     "title": "Aura Pay Identity",
@@ -57,7 +165,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-005"
+    "id": "prompt-014"
   },
   {
     "title": "ASICS Run Faster",
@@ -69,7 +177,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-006"
+    "id": "prompt-015"
   },
   {
     "title": "Peach Soda Origin",
@@ -81,7 +189,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-007"
+    "id": "prompt-016"
   },
   {
     "title": "MINISO Mango World",
@@ -93,7 +201,7 @@
       "1",
       "242"
     ],
-    "id": "prompt-008"
+    "id": "prompt-017"
   },
   {
     "title": "Einstein Collectible",
@@ -105,10 +213,10 @@
       "1",
       "242"
     ],
-    "id": "prompt-009"
+    "id": "prompt-018"
   },
   {
-    "id": "prompt-010",
+    "id": "prompt-019",
     "title": "Ice Cream Fantasy",
     "title_ar": "خيال آيس كريم",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/64_sjic87.jpg",
@@ -120,7 +228,7 @@
     ]
   },
   {
-    "id": "prompt-011",
+    "id": "prompt-020",
     "title": "Golden Morn Poster",
     "title_ar": "بوستر جولدن مورن",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/53_madat4.jpg",
@@ -132,7 +240,7 @@
     ]
   },
   {
-    "id": "prompt-012",
+    "id": "prompt-021",
     "title": "Kids Shoe Ad",
     "title_ar": "إعلان حذاء أطفال",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/63_odzsvn.jpg",
@@ -144,7 +252,7 @@
     ]
   },
   {
-    "id": "prompt-013",
+    "id": "prompt-022",
     "title": "Travel Selfie",
     "title_ar": "سيلفي السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662704/62_aaiadc.jpg",
@@ -156,7 +264,7 @@
     ]
   },
   {
-    "id": "prompt-014",
+    "id": "prompt-023",
     "title": "Adventure Portrait",
     "title_ar": "بورتريه مغامرة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/60_p7yzey.jpg",
@@ -168,7 +276,7 @@
     ]
   },
   {
-    "id": "prompt-015",
+    "id": "prompt-024",
     "title": "Spring Water Ad",
     "title_ar": "إعلان مياه سبرينج",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/56_ggssjz.jpg",
@@ -180,7 +288,7 @@
     ]
   },
   {
-    "id": "prompt-016",
+    "id": "prompt-025",
     "title": "Natural Product Shot",
     "title_ar": "تصوير منتج طبيعي",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/59_mfhpgl.jpg",
@@ -192,7 +300,7 @@
     ]
   },
   {
-    "id": "prompt-017",
+    "id": "prompt-026",
     "title": "Wedding Gift Bag",
     "title_ar": "حقيبة هدية زفاف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/55_gzf5ae.jpg",
@@ -204,7 +312,7 @@
     ]
   },
   {
-    "id": "prompt-018",
+    "id": "prompt-027",
     "title": "Travel Chips Poster",
     "title_ar": "بوستر شيبس السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/51_ftz4ej.jpg",
@@ -216,7 +324,7 @@
     ]
   },
   {
-    "id": "prompt-019",
+    "id": "prompt-028",
     "title": "KitKat Break",
     "title_ar": "استراحة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/54_h72igl.jpg",
@@ -228,7 +336,7 @@
     ]
   },
   {
-    "id": "prompt-020",
+    "id": "prompt-029",
     "title": "KitKat Campaign",
     "title_ar": "حملة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/58_yzzi8a.jpg",
@@ -240,7 +348,7 @@
     ]
   },
   {
-    "id": "prompt-021",
+    "id": "prompt-030",
     "title": "Match Day",
     "title_ar": "يوم المباراة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/52_lqx6id.jpg",
@@ -252,7 +360,7 @@
     ]
   },
   {
-    "id": "prompt-022",
+    "id": "prompt-031",
     "title": "Tide Detergent Ad",
     "title_ar": "إعلان تايد للغسيل",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/61_i4p7tr.jpg",
@@ -264,7 +372,7 @@
     ]
   },
   {
-    "id": "prompt-023",
+    "id": "prompt-032",
     "title": "Matcha Latte Ad",
     "title_ar": "إعلان ماتشا لاتيه",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/57_jlo3j2.jpg",
@@ -276,7 +384,7 @@
     ]
   },
   {
-    "id": "prompt-024",
+    "id": "prompt-033",
     "title": "Brand Identity",
     "title_ar": "هوية بصرية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662699/50_wtwf90.jpg",
@@ -288,7 +396,7 @@
     ]
   },
   {
-    "id": "prompt-025",
+    "id": "prompt-034",
     "title": "Eid Tea",
     "title_ar": "شاي العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/38_ubxwcx.jpg",
@@ -300,7 +408,7 @@
     ]
   },
   {
-    "id": "prompt-026",
+    "id": "prompt-035",
     "title": "Eid Tech",
     "title_ar": "تقنية العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/37_gjxd0z.jpg",
@@ -312,7 +420,7 @@
     ]
   },
   {
-    "id": "prompt-027",
+    "id": "prompt-036",
     "title": "Meat Guide",
     "title_ar": "دليل اللحوم",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/40_qwbsfg.jpg",
@@ -324,7 +432,7 @@
     ]
   },
   {
-    "id": "prompt-028",
+    "id": "prompt-037",
     "title": "Eid Sneakers",
     "title_ar": "سنيكرز العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/43_rwoeis.jpg",
@@ -336,7 +444,7 @@
     ]
   },
   {
-    "id": "prompt-029",
+    "id": "prompt-038",
     "title": "Eid Sweets",
     "title_ar": "حلويات العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/41_g6kj7f.jpg",
@@ -348,7 +456,7 @@
     ]
   },
   {
-    "id": "prompt-030",
+    "id": "prompt-039",
     "title": "Emerald Perfume",
     "title_ar": "عطر زمرد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/45_ficskd.jpg",
@@ -360,7 +468,7 @@
     ]
   },
   {
-    "id": "prompt-031",
+    "id": "prompt-040",
     "title": "Eid Burger",
     "title_ar": "برجر العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/39_agytnj.jpg",
@@ -372,7 +480,7 @@
     ]
   },
   {
-    "id": "prompt-032",
+    "id": "prompt-041",
     "title": "Eid Chocolate",
     "title_ar": "شوكولاتة العيد",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/42_wzxlpb.jpg",
@@ -384,7 +492,7 @@
     ]
   },
   {
-    "id": "prompt-033",
+    "id": "prompt-042",
     "title": "Skincare Jar",
     "title_ar": "كريم عناية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/48_o0f5ar.jpg",
@@ -396,7 +504,7 @@
     ]
   },
   {
-    "id": "prompt-034",
+    "id": "prompt-043",
     "title": "Oud Smoke",
     "title_ar": "دخان العود",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371011/44_okteqf.jpg",
@@ -408,7 +516,7 @@
     ]
   },
   {
-    "id": "prompt-035",
+    "id": "prompt-044",
     "title": "Car Detailing",
     "title_ar": "تلميع سيارة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/49_cqw5zz.jpg",
@@ -420,7 +528,7 @@
     ]
   },
   {
-    "id": "prompt-036",
+    "id": "prompt-045",
     "title": "Honey Jar",
     "title_ar": "برطمان عسل",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371012/46_ekqiyn.jpg",
@@ -432,7 +540,7 @@
     ]
   },
   {
-    "id": "prompt-037",
+    "id": "prompt-046",
     "title": "Sheep Barber",
     "title_ar": "خروف الحلاق",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779371013/47_fbhmhu.jpg",
@@ -444,7 +552,7 @@
     ]
   },
   {
-    "id": "prompt-038",
+    "id": "prompt-047",
     "title": "Animal Silhouettes",
     "title_ar": "سيلويت حيوانات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1778883200/36_j1dkn9.jpg",
@@ -456,7 +564,7 @@
     ]
   },
   {
-    "id": "prompt-039",
+    "id": "prompt-048",
     "title": "Flying Elephant",
     "title_ar": "فيل يطير",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740489/23_bnycz9.jpg",
@@ -468,7 +576,7 @@
     ]
   },
   {
-    "id": "prompt-040",
+    "id": "prompt-049",
     "title": "Magic Owl",
     "title_ar": "بومة سحرية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740621/24_pydem8.jpg",
@@ -480,7 +588,7 @@
     ]
   },
   {
-    "id": "prompt-041",
+    "id": "prompt-050",
     "title": "Forest Fox",
     "title_ar": "ثعلب الغابة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740703/25_ewpr1n.jpg",
@@ -492,7 +600,7 @@
     ]
   },
   {
-    "id": "prompt-042",
+    "id": "prompt-051",
     "title": "Chef Cat",
     "title_ar": "قطة شيف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740714/26_y7wb7i.jpg",
@@ -504,7 +612,7 @@
     ]
   },
   {
-    "id": "prompt-043",
+    "id": "prompt-052",
     "title": "Perfume Beach",
     "title_ar": "عطر الشاطئ",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740880/27_xkb4g6.jpg",
@@ -516,7 +624,7 @@
     ]
   },
   {
-    "id": "prompt-044",
+    "id": "prompt-053",
     "title": "Car Factory",
     "title_ar": "مصنع سيارات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740881/28_cm0rkp.jpg",
@@ -528,7 +636,7 @@
     ]
   },
   {
-    "id": "prompt-045",
+    "id": "prompt-054",
     "title": "Phone City",
     "title_ar": "مدينة الهاتف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740882/30_brab3r.jpg",
@@ -540,7 +648,7 @@
     ]
   },
   {
-    "id": "prompt-046",
+    "id": "prompt-055",
     "title": "Croissant Bakery",
     "title_ar": "مخبز كرواسون",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778740882/29_cdlfwm.jpg",
@@ -552,7 +660,7 @@
     ]
   },
   {
-    "id": "prompt-047",
+    "id": "prompt-056",
     "title": "Watch Construction",
     "title_ar": "بناء الساعة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741159/31_m4vzpw.jpg",
@@ -564,7 +672,7 @@
     ]
   },
   {
-    "id": "prompt-048",
+    "id": "prompt-057",
     "title": "Watch Gears",
     "title_ar": "تروس الساعة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741160/32_vwqcc9.jpg",
@@ -576,7 +684,7 @@
     ]
   },
   {
-    "id": "prompt-049",
+    "id": "prompt-058",
     "title": "Soda Jungle",
     "title_ar": "غابة صودا",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741161/33_kmdtds.jpg",
@@ -588,7 +696,7 @@
     ]
   },
   {
-    "id": "prompt-050",
+    "id": "prompt-059",
     "title": "Watch Space",
     "title_ar": "ساعة الفضاء",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741162/34_wxfx2y.jpg",
@@ -600,7 +708,7 @@
     ]
   },
   {
-    "id": "prompt-051",
+    "id": "prompt-060",
     "title": "Coffee Mountain",
     "title_ar": "جبل القهوة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778741162/35_m8rkcs.jpg",
@@ -612,7 +720,7 @@
     ]
   },
   {
-    "id": "prompt-052",
+    "id": "prompt-061",
     "title": "Noir Light",
     "title_ar": "ضوء نوار",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778362778/22_cpwjfw.jpg",
@@ -624,7 +732,7 @@
     ]
   },
   {
-    "id": "prompt-053",
+    "id": "prompt-062",
     "title": "Fanta Splash",
     "title_ar": "فانتا سبلاش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778106352/2_rfzuoj.jpg",
@@ -636,7 +744,7 @@
     ]
   },
   {
-    "id": "prompt-054",
+    "id": "prompt-063",
     "title": "Brunch Menu",
     "title_ar": "منيو برنش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778362774/15_q8gzms.jpg",
@@ -648,7 +756,7 @@
     ]
   },
   {
-    "id": "prompt-055",
+    "id": "prompt-064",
     "title": "Eldritch Monster",
     "title_ar": "وحش إلدريتش",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778330502/11_cjc0ei.jpg",
@@ -660,7 +768,7 @@
     ]
   },
   {
-    "id": "prompt-056",
+    "id": "prompt-065",
     "title": "Tiny Chef",
     "title_ar": "شيف صغير",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778281755/10_hpdjzm.jpg",
@@ -672,7 +780,7 @@
     ]
   },
   {
-    "id": "prompt-057",
+    "id": "prompt-066",
     "title": "Social Spiral",
     "title_ar": "دوامة اجتماعية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/f_auto,q_auto:eco,w_400,c_limit/v1778279766/6_p4etpe.jpg",
@@ -684,7 +792,7 @@
     ]
   },
   {
-    "id": "prompt-058",
+    "id": "prompt-067",
     "title": "Ice Cream Fantasy",
     "title_ar": "خيال آيس كريم",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/64_sjic87.jpg",
@@ -696,7 +804,7 @@
     ]
   },
   {
-    "id": "prompt-059",
+    "id": "prompt-068",
     "title": "Golden Morn Poster",
     "title_ar": "بوستر جولدن مورن",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/53_madat4.jpg",
@@ -708,7 +816,7 @@
     ]
   },
   {
-    "id": "prompt-060",
+    "id": "prompt-069",
     "title": "Kids Shoe Ad",
     "title_ar": "إعلان حذاء أطفال",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/63_odzsvn.jpg",
@@ -720,7 +828,7 @@
     ]
   },
   {
-    "id": "prompt-061",
+    "id": "prompt-070",
     "title": "Travel Selfie",
     "title_ar": "سيلفي السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662704/62_aaiadc.jpg",
@@ -732,7 +840,7 @@
     ]
   },
   {
-    "id": "prompt-062",
+    "id": "prompt-071",
     "title": "Adventure Portrait",
     "title_ar": "بورتريه مغامرة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/60_p7yzey.jpg",
@@ -744,7 +852,7 @@
     ]
   },
   {
-    "id": "prompt-063",
+    "id": "prompt-072",
     "title": "Spring Water Ad",
     "title_ar": "إعلان مياه سبرينج",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/56_ggssjz.jpg",
@@ -756,7 +864,7 @@
     ]
   },
   {
-    "id": "prompt-064",
+    "id": "prompt-073",
     "title": "Natural Product Shot",
     "title_ar": "تصوير منتج طبيعي",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/59_mfhpgl.jpg",
@@ -768,7 +876,7 @@
     ]
   },
   {
-    "id": "prompt-065",
+    "id": "prompt-074",
     "title": "Wedding Gift Bag",
     "title_ar": "حقيبة هدية زفاف",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/55_gzf5ae.jpg",
@@ -780,7 +888,7 @@
     ]
   },
   {
-    "id": "prompt-066",
+    "id": "prompt-075",
     "title": "Travel Chips Poster",
     "title_ar": "بوستر شيبس السفر",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/51_ftz4ej.jpg",
@@ -792,7 +900,7 @@
     ]
   },
   {
-    "id": "prompt-067",
+    "id": "prompt-076",
     "title": "KitKat Break",
     "title_ar": "استراحة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662701/54_h72igl.jpg",
@@ -804,7 +912,7 @@
     ]
   },
   {
-    "id": "prompt-068",
+    "id": "prompt-077",
     "title": "KitKat Campaign",
     "title_ar": "حملة كيت كات",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/58_yzzi8a.jpg",
@@ -816,7 +924,7 @@
     ]
   },
   {
-    "id": "prompt-069",
+    "id": "prompt-078",
     "title": "Match Day",
     "title_ar": "يوم المباراة",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662700/52_lqx6id.jpg",
@@ -828,7 +936,7 @@
     ]
   },
   {
-    "id": "prompt-070",
+    "id": "prompt-079",
     "title": "Tide Detergent Ad",
     "title_ar": "إعلان تايد للغسيل",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662703/61_i4p7tr.jpg",
@@ -840,7 +948,7 @@
     ]
   },
   {
-    "id": "prompt-071",
+    "id": "prompt-080",
     "title": "Matcha Latte Ad",
     "title_ar": "إعلان ماتشا لاتيه",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662702/57_jlo3j2.jpg",
@@ -852,7 +960,7 @@
     ]
   },
   {
-    "id": "prompt-072",
+    "id": "prompt-081",
     "title": "Brand Identity",
     "title_ar": "هوية بصرية",
     "image": "https://res.cloudinary.com/dbz7hrgxg/image/upload/v1779662699/50_wtwf90.jpg",
